@@ -7,7 +7,7 @@ A curated list of awesome resources and other links related to the Ada programmi
 - [gnat-ce](https://www.adacore.com/download) - Adacore compiler for the Ada programming language which forms part of the GNU Compiler Collection. It supports all versions of the language, i.e. Ada 2012, Ada 2005, Ada 95 and Ada 83
 - [janus-ada](http://www.rrsoftware.com/html/prodinf/janus95/j-ada95.htm) - Compiler supporting the complete syntax and features of the Ada 95 programming language
 - [object-ada](https://www.ptc.com/en/products/developer-tools/objectada) - PTC ObjectAda is an extensive family of native and cross development tools and runtime environments
-- [ApexAda](https://www.ptc.com/en/products/developer-tools/apexada) - PTC ApexAda is one of the industry’s most popular development environments for Ada and mixed Ada/C/C++ applications
+- [apex-ada](https://www.ptc.com/en/products/developer-tools/apexada) - PTC ApexAda is one of the industry’s most popular development environments for Ada and mixed Ada/C/C++ applications
 - [greenhills-ada](https://www.ghs.com/products/ada_optimizing_compilers.html) - Green Hills Software offers the industry's first, fully validated family of Ada Cross Compilers for real-time targets
 - [hac](https://sourceforge.net/projects/hacadacompiler/) - Experimental Ada compiler fully in Ada
 
@@ -61,7 +61,7 @@ lanugage.  It is loosely modelled after JUnit and some ideas from AUnit.
 
 #### Format reader/writer
 - [ini-file-manager](https://sourceforge.net/projects/ini-files) - The Ini file manager consists of a package, Config, which can read and modify informations from various configuration files known as "ini" files.
-- [adayaml](https://github.com/yaml/AdaYaml) - experimental YAML 1.3 implementation in Ada https://ada.yaml.io/
+- [ada-yaml](https://github.com/yaml/AdaYaml) - Experimental YAML 1.3 implementation in Ada
 - [json-ada](https://github.com/onox/json-ada) - An Ada 2012 library for parsing JSON
 - [xmlada](https://github.com/AdaCore/xmlada) - The XML/Ada toolkit
 - [xml-ez-out](http://www.mckae.com/xmlEz.html) - Library for emitting XML from Ada programs
@@ -83,7 +83,7 @@ lanugage.  It is loosely modelled after JUnit and some ideas from AUnit.
 #### Generators
 - [adabrowse](http://home.datacomm.ch/t_wolf/tw/ada95/adabrowse) - HTML generator for Ada95 library unit specs
 - [coldframe](https://github.com/simonjwright/coldframe) - ColdFrame generates Ada framework code and documentation from UML models
-- [P2Ada](http://p2ada.sourceforge.net/) - A Pascal to Ada translator
+- [p2ada](http://p2ada.sourceforge.net/) - A Pascal to Ada translator
 
 #### Package/Build
 - [gprbuild](http://docs.adacore.com/live/wave/gprbuild/html/gprbuild_ug/gprbuild_ug.html) - Adacore multi-language software build tool
@@ -99,7 +99,7 @@ lanugage.  It is loosely modelled after JUnit and some ideas from AUnit.
 allows programs written in Ada to communicate with smart cards using the
 SCard API.
 - [lua-ada](https://github.com/AdaCore/ada-lua) - Ada binding for Lua
-- [adabase](http://jrmarino.github.io/AdaBase/) - Thick database bindings for MySQL, PostgreSQL and SQLite written in Ada.
+- [ada-base](http://jrmarino.github.io/AdaBase/) - Thick database bindings for MySQL, PostgreSQL and SQLite written in Ada.
 - [apq-base](http://www.ravenports.com/catalog/bucket_F2/apq-base/standard/) - APQ is a database interface library written in Ada95
 - [cuda-ada](https://codelabs.ch/cuda-ada/index.html) - CUDA/Ada is an Ada binding to NVIDIA’s CUDA parallel computing platform and programming model
 - [dbus-ada](https://codelabs.ch/dbus-ada/index.html) - The D_Bus/Ada library provides an Ada binding to the D-Bus message bus system.
