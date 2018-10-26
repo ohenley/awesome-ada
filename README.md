@@ -2,12 +2,21 @@
 
 A curated list of awesome resources and other links related to the Ada programming language.
 
+## OS/Kernel
+- [marte_os](https://marte.unican.es/) - MaRTE OS is a Hard Real-Time Operating System for embedded applications that follows the Minimal Real-Time POSIX.13 subset. It provides an easy to use and controlled environment to develop Multi-Thread Real-Time applications. 
+- [muen](https://muen.codelabs.ch/) - An x86/64 Separation Kernel for High Assurance
+
 ## Frameworks
 
-### GUI
+#### GUI
 - [gnoga](https://sourceforge.net/projects/gnoga/) - The GNU Omnificent GUI for Ada
 - [claw](http://www.rrsoftware.com/html/prodinf/claw/claw.htm) - CLAW, a High Level, Portable, Ada 95 Binding for Microsoft Windows : ![#1589F0](https://placehold.it/15/1589F0/000000?text=+) `binding to OS`
 - [gtkada](http://libre.adacore.com/libre/tools/gtkada/) - Ada graphical toolkit based on Gtk3 components : ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) `binding to 3rd party`
+
+### 3D
+
+- [globe_3d](https://globe3d.sourceforge.io/) - GL Object Based Engine for 3D
+- [orka](https://github.com/onox/orka) - The OpenGL 4.6 Rendering Kernel in Ada 2012
 
 ### Web
 - [aws](https://github.com/AdaCore/aws) - AWS is a complete framework to develop Web based applications in Ada.
@@ -21,6 +30,9 @@ and the Modeling framework.
 lanugage.  It is loosely modelled after JUnit and some ideas from AUnit.
 - [aunit](http://libre.adacore.com/tools/aunit/) - Ada unit testing framework
 
+### Logging
+- [alog](https://www.codelabs.ch/alog/) - Alog is a stackable logging framework for Ada
+
 ## Libraries
 
 ### Algorithm, containers and protocols
@@ -29,9 +41,13 @@ lanugage.  It is loosely modelled after JUnit and some ideas from AUnit.
 - [pragmarc](http://pragmada.x10hosting.com/pragmarc.htm) - PragmAda Reusable Components (PragmARCs) from PragmAda S/W Engineering
 - [booch95](https://sourceforge.net/projects/booch95/) - The Ada 95 Booch components are a port of Grady Booch's C++ components.
 - [gnatcoll](http://libre.adacore.com/tools/gnat-component-collection) - GNAT Component Collection from Adacore
+- [zip_ada](http://unzip-ada.sourceforge.net/) - Zip-Ada is a programming library for dealing with the Zip compressed archive file format.
+- [ada_id](https://github.com/anthony-arnold/AdaID) - Simple Ada library for generating UUIDs
 
 ### Parsers/scanners
 - [aflex_ayacc](http://thiberlog.free.fr/) - Ada95 scanner and parser generators
+- [adacontrol](http://www.adalog.fr) - Ada constructs lint tool
+- [opentoken](http://stephe-leake.org/ada/opentoken.html) - Lexical analyser and parser for the Ada language
 
 ### Format reader/writer
 - [ini_file_manager](https://sourceforge.net/projects/ini-files) - The Ini file manager consists of a package, Config, which can read and modify informations from various configuration files known as "ini" files.
@@ -39,29 +55,28 @@ lanugage.  It is loosely modelled after JUnit and some ideas from AUnit.
 - [json_ada](https://github.com/onox/json-ada) - An Ada 2012 library for parsing JSON
 - [xmlada](https://github.com/AdaCore/xmlada) - The XML/Ada toolkit
 - [xml_ez_out](http://www.mckae.com/xmlEz.html) - Library for emitting XML from Ada programs
+- [excel_writer](http://excel-writer.sourceforge.net) - Create Excel files with basic formats
+- [generic_image_decoder](http://gen-img-dec.sourceforge.net/) - Multi-format image decoder library for Ada
 
 ### Network
 - [anet](https://www.codelabs.ch/anet/) - Anet is a networking library for the Ada programming language.
-
-### Logging
-- [alog](https://www.codelabs.ch/alog/) - Alog is a stackable logging framework for Ada
-
+- [adasockets](http://www.rfc1149.net/devel/adasockets.html) - IPv4 socket library (TCP, UDP, and multicast)
+- [adhcp](https://codelabs.ch/adhcp/index.html) - ADHCP is an implementation of the DHCP protocol in Ada
 
 ## Applications
 
 ## Web
 - [ironsides](http://ironsides.martincarlisle.com) - Authoritative DNS server verified by SPARK/Ada
 
-### Tools
+### Generators
 - [adabrowse](http://home.datacomm.ch/t_wolf/tw/ada95/adabrowse) - HTML generator for Ada95 library unit specs
+- [coldframe](https://github.com/simonjwright/coldframe) - ColdFrame generates Ada framework code and documentation from UML models
 
 ### Package/Build
 - [gprbuild](http://docs.adacore.com/live/wave/gprbuild/html/gprbuild_ug/gprbuild_ug.html) - Adacore multi-language software build tool
 - [ravenadm](https://github.com/jrmarino/ravenadm) - Administration tool for Ravenports http://www.ravenports.com
 - [alire](https://github.com/alire-project/alire) - A catalog of ready-to-use Ada libraries plus a command-line tool (alr) to obtain, compile, and incorporate them into your own projects. It aims to fulfill a similar role to Rust's cargo or OCaml's opam
 - [synth](https://github.com/jrmarino/synth) - Next D/Ports build tool for live systems (Alternative for Portmaster and Portupgrade tools)
-## OS
-- [marte_os](https://marte.unican.es/) - MaRTE OS is a Hard Real-Time Operating System for embedded applications that follows the Minimal Real-Time POSIX.13 subset. It provides an easy to use and controlled environment to develop Multi-Thread Real-Time applications. 
 
 ## Bindings
 
@@ -74,7 +89,8 @@ SCard API.
 - [lua_ada](https://github.com/AdaCore/ada-lua) - Ada binding for Lua
 - [adabase](http://jrmarino.github.io/AdaBase/) - Thick database bindings for MySQL, PostgreSQL and SQLite written in Ada.
 - [apq_base](http://www.ravenports.com/catalog/bucket_F2/apq-base/standard/) - APQ is a database interface library written in Ada95
-
+- [cuda_ada](https://codelabs.ch/cuda-ada/index.html) - CUDA/Ada is an Ada binding to NVIDIA’s CUDA parallel computing platform and programming model
+- [dbus_ada](https://codelabs.ch/dbus-ada/index.html) - The D_Bus/Ada library provides an Ada binding to the D-Bus message bus system.
 
 
 
