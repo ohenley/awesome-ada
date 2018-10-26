@@ -6,8 +6,8 @@ A curated list of awesome resources and other links related to the Ada programmi
 
 ### GUI
 - [gnoga](https://sourceforge.net/projects/gnoga/) - The GNU Omnificent GUI for Ada
-- [claw](http://www.rrsoftware.com/html/prodinf/claw/claw.htm) - CLAW, a High Level, Portable, Ada 95 Binding for Microsoft Windows
-- [gtkada](http://libre.adacore.com/libre/tools/gtkada/) - Ada graphical toolkit based on Gtk3 components ![#1589F0](https://placehold.it/15/1589F0/000000?text=+) `binding`
+- [claw](http://www.rrsoftware.com/html/prodinf/claw/claw.htm) - CLAW, a High Level, Portable, Ada 95 Binding for Microsoft Windows : ![#1589F0](https://placehold.it/15/1589F0/000000?text=+) `OS binding`
+- [gtkada](http://libre.adacore.com/libre/tools/gtkada/) - Ada graphical toolkit based on Gtk3 components : ![#f03c15](https://placehold.it/15/1589F0/000000?text=+) `3rd party binding`
 
 ### Web
 - [aws](https://github.com/AdaCore/aws) - AWS is a complete framework to develop Web based applications in Ada.
