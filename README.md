@@ -21,7 +21,7 @@ A curated list of awesome resources and other links related to the Ada programmi
 - [gnoga](https://sourceforge.net/projects/gnoga/) - The GNU Omnificent GUI for Ada
 - [gnavi](https://sourceforge.net/projects/gnavi/) - GNU Ada Visual Interface
 - [claw](http://www.rrsoftware.com/html/prodinf/claw/claw.htm) - CLAW, a High Level, Portable, Ada 95 Binding for Microsoft Windows
-- [gtkada](http://libre.adacore.com/libre/tools/gtkada/) - Ada graphical toolkit based on Gtk3 components : [#1589F0](https://placehold.it/15/1589F0/000000?text=+) `binding to 3rd party`
+- [gtkada](http://libre.adacore.com/libre/tools/gtkada/) - Ada graphical toolkit based on Gtk3 components : ![#1589F0](https://placehold.it/15/1589F0/000000?text=+) `binding to 3rd party`
 
 #### 3D
 
