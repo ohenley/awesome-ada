@@ -108,3 +108,11 @@ SCard API.
 - [opencl-ada](http://flyx.github.io/OpenCLAda) - Ada binding for the OpenCL host API
 
 
+[TODO]
+- add https://github.com/JulianSchutsch?tab=repositories stuff
+- add Adacore stuff
+- add simon w. stuff
+- add https://github.com/reznikmm?tab=repositories stuff
+- find proper qt bindings
+- add stephane Carrez stuff
+- add embedded stuff (cortex etc)
