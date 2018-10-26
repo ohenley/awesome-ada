@@ -41,7 +41,6 @@ lanugage.  It is loosely modelled after JUnit and some ideas from AUnit.
 - [pragmarc](http://pragmada.x10hosting.com/pragmarc.htm) - PragmAda Reusable Components (PragmARCs) from PragmAda S/W Engineering
 - [booch95](https://sourceforge.net/projects/booch95/) - The Ada 95 Booch components are a port of Grady Booch's C++ components.
 - [gnatcoll](http://libre.adacore.com/tools/gnat-component-collection) - GNAT Component Collection from Adacore
-- [zip_ada](http://unzip-ada.sourceforge.net/) - Zip-Ada is a programming library for dealing with the Zip compressed archive file format.
 - [ada_id](https://github.com/anthony-arnold/AdaID) - Simple Ada library for generating UUIDs
 
 ### Parsers/scanners
@@ -57,6 +56,7 @@ lanugage.  It is loosely modelled after JUnit and some ideas from AUnit.
 - [xml_ez_out](http://www.mckae.com/xmlEz.html) - Library for emitting XML from Ada programs
 - [excel_writer](http://excel-writer.sourceforge.net) - Create Excel files with basic formats
 - [generic_image_decoder](http://gen-img-dec.sourceforge.net/) - Multi-format image decoder library for Ada
+- [zip_ada](http://unzip-ada.sourceforge.net/) - Zip-Ada is a programming library for dealing with the Zip compressed archive file format.
 
 ### Network
 - [anet](https://www.codelabs.ch/anet/) - Anet is a networking library for the Ada programming language.
