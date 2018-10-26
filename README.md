@@ -4,6 +4,11 @@ A curated list of awesome resources and other links related to the Ada programmi
 
 ## Frameworks
 
+### GUI
+- [gnoga](https://sourceforge.net/projects/gnoga/) - The GNU Omnificent GUI for Ada
+- [claw](http://www.rrsoftware.com/html/prodinf/claw/claw.htm) - CLAW, a High Level, Portable, Ada 95 Binding for Microsoft Windows
+- [gtkada](http://libre.adacore.com/libre/tools/gtkada/) - Ada graphical toolkit based on Gtk3 components ![#1589F0](https://placehold.it/15/1589F0/000000?text=+) `binding`
+
 ### Web
 - [aws](https://github.com/AdaCore/aws) - AWS is a complete framework to develop Web based applications in Ada.
 - [awa](https://github.com/stcarrez/ada-awa) - Ada Web Application is a framework to build a Web Application in Ada 2012. The framework provides several ready to use and extendable modules that are common to many web application. This includes the login, authentication, users, permissions, managing comments, tags, votes, documents, images.
@@ -66,7 +71,6 @@ lanugage.  It is loosely modelled after JUnit and some ideas from AUnit.
 - [pcsc_ada](http://www.codelabs.ch/pcscada) - PCSC/Ada provides a thick Ada binding to PC/SC-middleware. The library
 allows programs written in Ada to communicate with smart cards using the
 SCard API.
-- [gtkada](http://libre.adacore.com/libre/tools/gtkada/) - Ada graphical toolkit based on Gtk3 components
 - [lua_ada](https://github.com/AdaCore/ada-lua) - Ada binding for Lua
 - [adabase](http://jrmarino.github.io/AdaBase/) - Thick database bindings for MySQL, PostgreSQL and SQLite written in Ada.
 - [apq_base](http://www.ravenports.com/catalog/bucket_F2/apq-base/standard/) - APQ is a database interface library written in Ada95
