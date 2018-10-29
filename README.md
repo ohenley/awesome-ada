@@ -106,6 +106,7 @@ SCard API.
 - [opus-ada](https://github.com/onox/opus-ada) - Ada 2012 bindings for the Opus audio codec.
 - [opengl-ada](http://flyx.github.io/OpenGLAda/) - Thick Ada binding for OpenGL and GLFW
 - [opencl-ada](http://flyx.github.io/OpenCLAda) - Ada binding for the OpenCL host API
+- [rclada](https://github.com/ada-ros/rclada) - Ada client library for ROS2/RCL
 
 
 [TODO]
