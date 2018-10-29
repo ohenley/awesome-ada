@@ -117,3 +117,5 @@ SCard API.
 - find proper qt bindings
 - add stephane Carrez stuff
 - add embedded stuff (cortex etc)
+- add https://github.com/Componolit stuff
+- add http://www.adaic.org stuff
