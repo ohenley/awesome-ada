@@ -77,7 +77,6 @@ lanugage.  It is loosely modelled after JUnit and some ideas from AUnit.
 - [apdf](https://apdf.sourceforge.io/) - Ada package for producing easily and automatically PDF files, from an Ada program, with text, vector graphics, images (JPEG)
 - [ada-midi](https://github.com/frett27/Ada-Midi) - Implementation of Midi / MidiFile reading and writing
 
-
 #### Network
 - [anet](https://www.codelabs.ch/anet/) - Anet is a networking library for the Ada programming language.
 - [adasockets](http://www.rfc1149.net/devel/adasockets.html) - IPv4 socket library (TCP, UDP, and multicast)
@@ -97,8 +96,7 @@ lanugage.  It is loosely modelled after JUnit and some ideas from AUnit.
 
 #### Libraries
 - [giza](https://github.com/Fabien-Chouteau/Giza) - Giza is trying to be a simple widget tool kit for embedded platforms
-- [ada-synth-lib)](https://github.com/raph-amiard/ada-synth-lib) - Simple audio synthesis library
-- [acnc](https://github.com/Fabien-Chouteau/ACNC) - A G-code parser and CNC controller (in Ada)
+- [ada-synth-lib](https://github.com/raph-amiard/ada-synth-lib) - Simple audio synthesis library
 
 #### Applications
 - [coffee-clock](https://github.com/Fabien-Chouteau/coffee-clock) - Waking up with a fresh cup of coffee
@@ -119,6 +117,9 @@ lanugage.  It is loosely modelled after JUnit and some ideas from AUnit.
 #### Multimedia
 - [noise-nugget](https://github.com/Fabien-Chouteau/noise-nugget) - Square Inch Synthesizer
 - [eagle-lander](https://github.com/Fabien-Chouteau/eagle-lander) - Apollo 11 lunar lander simulator (Ada/Gtk/Cairo)
+
+#### Automation
+- [acnc](https://github.com/Fabien-Chouteau/ACNC) - A G-code parser and CNC controller (in Ada)
 
 #### Generators
 - [adabrowse](http://home.datacomm.ch/t_wolf/tw/ada95/adabrowse) - HTML generator for Ada95 library unit specs
