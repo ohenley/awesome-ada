@@ -11,6 +11,9 @@ A curated list of awesome resources and other links related to the Ada programmi
 - [greenhills-ada](https://www.ghs.com/products/ada_optimizing_compilers.html) - Green Hills Software offers the industry's first, fully validated family of Ada Cross Compilers for real-time targets
 - [hac](https://sourceforge.net/projects/hacadacompiler/) - Experimental Ada compiler fully in Ada
 
+## Runtimes
+- [generic-ada-runtime](https://github.com/Componolit/ada-runtime) - A downsized Ada runtime which can be adapted to different platforms
+
 ## OS/Kernel
 - [marte-os](https://marte.unican.es/) - MaRTE OS is a Hard Real-Time Operating System for embedded applications that follows the Minimal Real-Time POSIX.13 subset. It provides an easy to use and controlled environment to develop Multi-Thread Real-Time applications. 
 - [muen](https://muen.codelabs.ch/) - An x86/64 Separation Kernel for High Assurance
@@ -24,7 +27,6 @@ A curated list of awesome resources and other links related to the Ada programmi
 - [gtkada](http://libre.adacore.com/libre/tools/gtkada/) - Ada graphical toolkit based on Gtk3 components : ![#1589F0](https://placehold.it/15/1589F0/000000?text=+) `binding to 3rd party`
 
 #### 3D
-
 - [globe-3d](https://globe3d.sourceforge.io/) - GL Object Based Engine for 3D
 - [orka](https://github.com/onox/orka) - The OpenGL 4.6 Rendering Kernel in Ada 2012
 
@@ -45,7 +47,7 @@ lanugage.  It is loosely modelled after JUnit and some ideas from AUnit.
 
 ## Libraries
 
-#### Algorithm, containers and protocols
+#### Algorithms, containers and protocols
 - [mathpaqs](http://mathpaqs.sourceforge.net/) - Mathpaqs is a collection of mathematical, 100% portable, packages in the Ada programming language
 - [libadacrypt](https://github.com/cforler/Ada-Crypto-Library) - This is a crypto library for Ada with a nice API and is written for the i386 and x86_64 hardware architecture
 - [simple-components](http://www.dmitry-kazakov.de/ada/components.htm) - Implementation of various algorythn, containers or protocols
@@ -53,11 +55,16 @@ lanugage.  It is loosely modelled after JUnit and some ideas from AUnit.
 - [booch95](https://sourceforge.net/projects/booch95/) - The Ada 95 Booch components are a port of Grady Booch's C++ components.
 - [gnatcoll](http://libre.adacore.com/tools/gnat-component-collection) - GNAT Component Collection from Adacore
 - [ada-id](https://github.com/anthony-arnold/AdaID) - Simple Ada library for generating UUIDs
+- [ada-ga](https://github.com/frett27/Ada-GA) - Genetic Algorithm Implementation for Ada
+- [ada-sodoku](https://github.com/frett27/Ada-Sodoku) - Small Library for Sodoku grid solving / finding
+- [amatrix](https://github.com/jklmnn/amatrix) - Matrix implementation in Ada
+- [sl3p](https://github.com/jklmnn/sl3p) - Simple Layer 3 Protocol
 
-#### Parsers/scanners
+#### Parsers/scanners/linters
 - [aflex-ayacc](http://thiberlog.free.fr/) - Ada95 scanner and parser generators
 - [adacontrol](http://www.adalog.fr) - Ada constructs lint tool
 - [opentoken](http://stephe-leake.org/ada/opentoken.html) - Lexical analyser and parser for the Ada language
+- [tiled-code-gen)](https://github.com/Fabien-Chouteau/tiled-code-gen) - Code generator for Tiled the map editor
 
 #### Format reader/writer
 - [ini-file-manager](https://sourceforge.net/projects/ini-files) - The Ini file manager consists of a package, Config, which can read and modify informations from various configuration files known as "ini" files.
@@ -69,16 +76,49 @@ lanugage.  It is loosely modelled after JUnit and some ideas from AUnit.
 - [generic-image-decoder](http://gen-img-dec.sourceforge.net/) - Multi-format image decoder library for Ada
 - [zip-ada](http://unzip-ada.sourceforge.net/) - Zip-Ada is a programming library for dealing with the Zip compressed archive file format.
 - [apdf](https://apdf.sourceforge.io/) - Ada package for producing easily and automatically PDF files, from an Ada program, with text, vector graphics, images (JPEG)
+- [ada-midi](https://github.com/frett27/Ada-Midi) - Implementation of Midi / MidiFile reading and writing
+- [acnc](https://github.com/Fabien-Chouteau/ACNC) - A G-code parser and CNC controller (in Ada)
 
 #### Network
 - [anet](https://www.codelabs.ch/anet/) - Anet is a networking library for the Ada programming language.
 - [adasockets](http://www.rfc1149.net/devel/adasockets.html) - IPv4 socket library (TCP, UDP, and multicast)
 - [adhcp](https://codelabs.ch/adhcp/index.html) - ADHCP is an implementation of the DHCP protocol in Ada
 
+#### Multimedia
+- [ada-synthetizer](https://github.com/frett27/Ada-Synthetizer) - Sound Synthetizer Library implemented in Ada
+- [geste](https://github.com/Fabien-Chouteau/GESTE) - GEneric Sprite and Tile Engine
+
+## Hardware/Embedded
+
+#### Drivers
+- [embrick](https://github.com/it-cosmos/emBRICK) - emBRICK driver and support for emBRICK in Ada
+
+#### Controllers
+- [solenoid-engine-controller](https://github.com/Fabien-Chouteau/solenoid-engine-controller) - Software controller for solenoid engines (Ada/STM32F4) 
+
+#### Libraries
+- [giza](https://github.com/Fabien-Chouteau/Giza) - Giza is trying to be a simple widget tool kit for embedded platforms
+- [ada-synth-lib)](https://github.com/raph-amiard/ada-synth-lib) - Simple audio synthesis library
+
+#### Applications
+- [coffee-clock](https://github.com/Fabien-Chouteau/coffee-clock) - Waking up with a fresh cup of coffee
+- [spark-railway-demo](https://github.com/Fabien-Chouteau/spark-railway-demo) - Simulated railway network in SPARK/Ada
+- [high-speed-candy-sorting-machine](https://github.com/Fabien-Chouteau/High_Speed_Candy_Sorting_Machine) - Sorting candy using computer vision and compressed air
+- [micro-temp-pi](https://github.com/jklmnn/MicroTemPi) - Raspberry Pi using a BBC Micro:Bit as temperature sensor
+
+#### Bindings
+- [svd2ada](https://github.com/Fabien-Chouteau/svd2ada) - An Ada binding generator from SVD descriptions for bare board ARM devices.
+- [ada-time](https://github.com/Fabien-Chouteau/Ada_Time) - Ada binding for the Pebble Time smartwatch
+- [wiring-pi-Ada](https://github.com/jklmnn/wiringPi-Ada) - Ada bindings for wiringPi
+
 ## Applications
 
 #### Web
 - [ironsides](http://ironsides.martincarlisle.com) - Authoritative DNS server verified by SPARK/Ada
+
+#### Multimedia
+- [noise-nugget](https://github.com/Fabien-Chouteau/noise-nugget) - Square Inch Synthesizer
+- [eagle-lander](https://github.com/Fabien-Chouteau/eagle-lander) - Apollo 11 lunar lander simulator (Ada/Gtk/Cairo)
 
 #### Generators
 - [adabrowse](http://home.datacomm.ch/t_wolf/tw/ada95/adabrowse) - HTML generator for Ada95 library unit specs
@@ -90,6 +130,9 @@ lanugage.  It is loosely modelled after JUnit and some ideas from AUnit.
 - [ravenadm](https://github.com/jrmarino/ravenadm) - Administration tool for Ravenports http://www.ravenports.com
 - [alire](https://github.com/alire-project/alire) - A catalog of ready-to-use Ada libraries plus a command-line tool (alr) to obtain, compile, and incorporate them into your own projects. It aims to fulfill a similar role to Rust's cargo or OCaml's opam
 - [synth](https://github.com/jrmarino/synth) - Next D/Ports build tool for live systems (Alternative for Portmaster and Portupgrade tools)
+
+#### Continuous Integration
+- [continuous-verification](https://github.com/jklmnn/continuous-verification) - SPARK formal verification automated with Travis CI
 
 ## Bindings
 - [adacurses](http://invisible-island.net/ncurses/ncurses-Ada95.html) - Ada95 bindings for ncurses
@@ -107,6 +150,9 @@ SCard API.
 - [opengl-ada](http://flyx.github.io/OpenGLAda/) - Thick Ada binding for OpenGL and GLFW
 - [opencl-ada](http://flyx.github.io/OpenCLAda) - Ada binding for the OpenCL host API
 - [rclada](https://github.com/ada-ros/rclada) - Ada client library for ROS2/RCL
+- [adav4l2](https://github.com/frett27/AdaV4L2) - Ada Posix Binding to Video 4 Linux, used for RPI
+- [ada-nanovg](https://github.com/raph-amiard/ada-nanovg) - Ada bindings to NanoVG
+- [ada-soundio](https://github.com/raph-amiard/ada-soundio) - Ada bindings for libsoundio
 
 
 [TODO]
