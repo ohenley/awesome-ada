@@ -76,7 +76,7 @@ lanugage.  It is loosely modelled after JUnit and some ideas from AUnit.
 - [zip-ada](http://unzip-ada.sourceforge.net/) - Zip-Ada is a programming library for dealing with the Zip compressed archive file format.
 - [apdf](https://apdf.sourceforge.io/) - Ada package for producing easily and automatically PDF files, from an Ada program, with text, vector graphics, images (JPEG)
 - [ada-midi](https://github.com/frett27/Ada-Midi) - Implementation of Midi / MidiFile reading and writing
-- [acnc](https://github.com/Fabien-Chouteau/ACNC) - A G-code parser and CNC controller (in Ada)
+
 
 #### Network
 - [anet](https://www.codelabs.ch/anet/) - Anet is a networking library for the Ada programming language.
@@ -98,6 +98,7 @@ lanugage.  It is loosely modelled after JUnit and some ideas from AUnit.
 #### Libraries
 - [giza](https://github.com/Fabien-Chouteau/Giza) - Giza is trying to be a simple widget tool kit for embedded platforms
 - [ada-synth-lib)](https://github.com/raph-amiard/ada-synth-lib) - Simple audio synthesis library
+- [acnc](https://github.com/Fabien-Chouteau/ACNC) - A G-code parser and CNC controller (in Ada)
 
 #### Applications
 - [coffee-clock](https://github.com/Fabien-Chouteau/coffee-clock) - Waking up with a fresh cup of coffee
