@@ -24,7 +24,7 @@ A curated list of awesome resources and other links related to the Ada programmi
 - [gnoga](https://sourceforge.net/projects/gnoga/) - The GNU Omnificent GUI for Ada
 - [gnavi](https://sourceforge.net/projects/gnavi/) - GNU Ada Visual Interface
 - [claw](http://www.rrsoftware.com/html/prodinf/claw/claw.htm) - CLAW, a High Level, Portable, Ada 95 Binding for Microsoft Windows
-- [gtkada](http://libre.adacore.com/libre/tools/gtkada/) - Ada graphical toolkit based on Gtk3 components : ![#1589F0](https://placehold.it/15/1589F0/000000?text=+) `binding to 3rd party`
+- [gtkada](http://libre.adacore.com/libre/tools/gtkada/) - Ada graphical toolkit based on Gtk3 components
 
 #### 3D
 - [globe-3d](https://globe3d.sourceforge.io/) - GL Object Based Engine for 3D
@@ -100,6 +100,7 @@ lanugage.  It is loosely modelled after JUnit and some ideas from AUnit.
 
 #### Applications
 - [coffee-clock](https://github.com/Fabien-Chouteau/coffee-clock) - Waking up with a fresh cup of coffee
+- [noise-nugget](https://github.com/Fabien-Chouteau/noise-nugget) - Square Inch Synthesizer
 - [spark-railway-demo](https://github.com/Fabien-Chouteau/spark-railway-demo) - Simulated railway network in SPARK/Ada
 - [high-speed-candy-sorting-machine](https://github.com/Fabien-Chouteau/High_Speed_Candy_Sorting_Machine) - Sorting candy using computer vision and compressed air
 - [micro-temp-pi](https://github.com/jklmnn/MicroTemPi) - Raspberry Pi using a BBC Micro:Bit as temperature sensor
@@ -115,7 +116,6 @@ lanugage.  It is loosely modelled after JUnit and some ideas from AUnit.
 - [ironsides](http://ironsides.martincarlisle.com) - Authoritative DNS server verified by SPARK/Ada
 
 #### Multimedia
-- [noise-nugget](https://github.com/Fabien-Chouteau/noise-nugget) - Square Inch Synthesizer
 - [eagle-lander](https://github.com/Fabien-Chouteau/eagle-lander) - Apollo 11 lunar lander simulator (Ada/Gtk/Cairo)
 
 #### Automation
