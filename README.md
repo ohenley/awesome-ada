@@ -59,6 +59,7 @@ lanugage.  It is loosely modelled after JUnit and some ideas from AUnit.
 - [ada-sodoku](https://github.com/frett27/Ada-Sodoku) - Small Library for Sodoku grid solving / finding
 - [amatrix](https://github.com/jklmnn/amatrix) - Matrix implementation in Ada
 - [sl3p](https://github.com/jklmnn/sl3p) - Simple Layer 3 Protocol
+- [sip-hash](https://github.com/grim7reaper/SipHash) - A pure Ada implementation of the SipHash PRF
 
 #### Parsers/scanners/linters
 - [aflex-ayacc](http://thiberlog.free.fr/) - Ada95 scanner and parser generators
