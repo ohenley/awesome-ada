@@ -83,6 +83,7 @@ lanugage.  It is loosely modelled after JUnit and some ideas from AUnit.
 - [adhcp](https://codelabs.ch/adhcp/index.html) - ADHCP is an implementation of the DHCP protocol in Ada
 
 #### Multimedia
+- [opengl-ada](https://github.com/flyx/OpenGLAda) - Thick Ada binding for OpenGL and GLFW
 - [ada-synthetizer](https://github.com/frett27/Ada-Synthetizer) - Sound Synthetizer Library implemented in Ada
 - [geste](https://github.com/Fabien-Chouteau/GESTE) - GEneric Sprite and Tile Engine
 
