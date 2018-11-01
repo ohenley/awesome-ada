@@ -29,6 +29,7 @@ A curated list of awesome resources and other links related to the Ada programmi
 #### 3D
 - [globe-3d](https://globe3d.sourceforge.io/) - GL Object Based Engine for 3D
 - [orka](https://github.com/onox/orka) - The OpenGL 4.6 Rendering Kernel in Ada 2012
+- [ada-ogl](https://github.com/JulianSchutsch/AdaOGL) - Ada OpenGL Framework
 
 #### Web
 - [aws](https://github.com/AdaCore/aws) - AWS is a complete framework to develop Web based applications in Ada.
@@ -60,11 +61,16 @@ lanugage.  It is loosely modelled after JUnit and some ideas from AUnit.
 - [amatrix](https://github.com/jklmnn/amatrix) - Matrix implementation in Ada
 - [sl3p](https://github.com/jklmnn/sl3p) - Simple Layer 3 Protocol
 - [sip-hash](https://github.com/grim7reaper/SipHash) - A pure Ada implementation of the SipHash PRF
+- [ada-lsp](https://github.com/reznikmm/ada-lsp) - Language Server Protocol for Ada
 
-#### Parsers/scanners/linters
+#### Parsers/scanners/linters/analysers/prettyprinters
 - [aflex-ayacc](http://thiberlog.free.fr/) - Ada95 scanner and parser generators
 - [adacontrol](http://www.adalog.fr) - Ada constructs lint tool
 - [opentoken](http://stephe-leake.org/ada/opentoken.html) - Lexical analyser and parser for the Ada language
+- [gela](https://github.com/reznikmm/gela) - Ada code analyzer
+- [anagram](https://github.com/reznikmm/anagram) - Grammar handling and parser generation Ada library
+- [ada-pretty](https://github.com/reznikmm/ada-pretty) - Pretty printing library for Ada
+- [increment](https://github.com/reznikmm/increment) - Incremental analysis in Ada
 
 #### Format reader/writer
 - [ini-file-manager](https://sourceforge.net/projects/ini-files) - The Ini file manager consists of a package, Config, which can read and modify informations from various configuration files known as "ini" files.
@@ -123,11 +129,15 @@ lanugage.  It is loosely modelled after JUnit and some ideas from AUnit.
 #### Automation
 - [acnc](https://github.com/Fabien-Chouteau/ACNC) - A G-code parser and CNC controller (in Ada)
 
-#### Generators
+#### Simulation
+- [parallel-sim](https://github.com/JulianSchutsch/ParallelSim) - Distributed Simulation of Transport Networks
+
+#### Generators/translator
 - [adabrowse](http://home.datacomm.ch/t_wolf/tw/ada95/adabrowse) - HTML generator for Ada95 library unit specs
 - [coldframe](https://github.com/simonjwright/coldframe) - ColdFrame generates Ada framework code and documentation from UML models
 - [p2ada](http://p2ada.sourceforge.net/) - A Pascal to Ada translator
 - [tiled-code-gen](https://github.com/Fabien-Chouteau/tiled-code-gen) - Code generator for Tiled the map editor
+- [cvsweb2git](https://github.com/reznikmm/cvsweb2git) - This tool imports CVS repository shared on Ada Conformity Assessment Authority into the Git repository
 
 #### Package/Build
 - [gprbuild](http://docs.adacore.com/live/wave/gprbuild/html/gprbuild_ug/gprbuild_ug.html) - Adacore multi-language software build tool
@@ -160,10 +170,8 @@ SCard API.
 
 
 [TODO]
-- add https://github.com/JulianSchutsch?tab=repositories stuff
 - add Adacore stuff
 - add simon w. stuff
-- add https://github.com/reznikmm?tab=repositories stuff
 - find proper qt bindings
 - add stephane Carrez stuff
 - add embedded stuff (cortex etc)
