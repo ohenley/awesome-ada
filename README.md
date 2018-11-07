@@ -177,3 +177,4 @@ SCard API.
 - add embedded stuff (cortex etc)
 - add https://github.com/Componolit stuff
 - add http://www.adaic.org stuff
+- add https://github.com/trending/ada
