@@ -173,8 +173,10 @@ SCard API.
 - add Adacore stuff
 - add simon w. stuff
 - find proper qt bindings
-- add stephane Carrez stuff
+- add Stephane Carrez stuff
 - add embedded stuff (cortex etc)
 - add https://github.com/Componolit stuff
 - add http://www.adaic.org stuff
 - add https://github.com/trending/ada
+- add Mosteo stuff
+- find and add stuff for every Make with Ada competition
