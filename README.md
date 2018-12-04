@@ -110,7 +110,6 @@ lanugage.  It is loosely modelled after JUnit and some ideas from AUnit.
 - [coffee-clock](https://github.com/Fabien-Chouteau/coffee-clock) - Waking up with a fresh cup of coffee
 - [noise-nugget](https://github.com/Fabien-Chouteau/noise-nugget) - Square Inch Synthesizer
 - [spark-railway-demo](https://github.com/Fabien-Chouteau/spark-railway-demo) - Simulated railway network in SPARK/Ada
-- [high-speed-candy-sorting-machine](https://github.com/Fabien-Chouteau/High_Speed_Candy_Sorting_Machine) - Sorting candy using computer vision and compressed air
 - [micro-temp-pi](https://github.com/jklmnn/MicroTemPi) - Raspberry Pi using a BBC Micro:Bit as temperature sensor
 
 #### Bindings
