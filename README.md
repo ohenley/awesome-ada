@@ -84,6 +84,7 @@ lanugage.  It is loosely modelled after JUnit and some ideas from AUnit.
 - [zip-ada](http://unzip-ada.sourceforge.net/) - Zip-Ada is a programming library for dealing with the Zip compressed archive file format.
 - [apdf](https://apdf.sourceforge.io/) - Ada package for producing easily and automatically PDF files, from an Ada program, with text, vector graphics, images (JPEG)
 - [ada-midi](https://github.com/frett27/Ada-Midi) - Implementation of Midi / MidiFile reading and writing
+- [ada-bar-codes](https://sourceforge.net/projects/ada-bar-codes) - Ada Bar Codes provides a package for generating various types of bar codes (1D, or 2D like QR codes) on different output formats, such as PDF or SVG.
 
 #### Network
 - [anet](https://www.codelabs.ch/anet/) - Anet is a networking library for the Ada programming language.
@@ -93,6 +94,7 @@ lanugage.  It is loosely modelled after JUnit and some ideas from AUnit.
 #### Multimedia
 - [opengl-ada](https://github.com/flyx/OpenGLAda) - Thick Ada binding for OpenGL and GLFW
 - [ada-synthetizer](https://github.com/frett27/Ada-Synthetizer) - Sound Synthetizer Library implemented in Ada
+- [engine-3d](https://sourceforge.net/projects/engine-3d) - A 3D engine for DOS-talgics
 
 ## Hardware/Embedded
 
@@ -121,6 +123,11 @@ lanugage.  It is loosely modelled after JUnit and some ideas from AUnit.
 - [wiring-pi-ada](https://github.com/jklmnn/wiringPi-Ada) - Ada bindings for wiringPi
 
 ## Applications
+
+#### Office
+- [azip](https://azip.sourceforge.io) - A free, portable Zip Archive Manager
+- [texcad](https://texcad.sourceforge.io) - TeXCAD is a program for drawing or retouching {picture}s in LaTeX.
+- [CBSG](http://cbsg.sf.net) - The Corporate Bullshit Generator
 
 #### Web
 - [ironsides](http://ironsides.martincarlisle.com) - Authoritative DNS server verified by SPARK/Ada
