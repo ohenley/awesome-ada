@@ -97,6 +97,7 @@ lanugage.  It is loosely modelled after JUnit and some ideas from AUnit.
 ## Hardware/Embedded
 
 #### Drivers
+- [Ada Drivers Library](https://github.com/AdaCore/Ada_Drivers_Library) - Ada drivers for various MCU and sensors
 - [embrick](https://github.com/it-cosmos/emBRICK) - emBRICK driver and support for emBRICK in Ada
 
 #### Controllers
@@ -105,6 +106,7 @@ lanugage.  It is loosely modelled after JUnit and some ideas from AUnit.
 #### Libraries
 - [giza](https://github.com/Fabien-Chouteau/Giza) - Giza is trying to be a simple widget tool kit for embedded platforms
 - [ada-synth-lib](https://github.com/raph-amiard/ada-synth-lib) - Simple audio synthesis library
+- [GESTE](https://github.com/Fabien-Chouteau/GESTE) - GESTE is a sprite and tile 2D render engine designed to run on micro-controllers
 
 #### Applications
 - [coffee-clock](https://github.com/Fabien-Chouteau/coffee-clock) - Waking up with a fresh cup of coffee
@@ -112,6 +114,7 @@ lanugage.  It is loosely modelled after JUnit and some ideas from AUnit.
 - [spark-railway-demo](https://github.com/Fabien-Chouteau/spark-railway-demo) - Simulated railway network in SPARK/Ada
 - [high-speed-candy-sorting-machine](https://github.com/Fabien-Chouteau/High_Speed_Candy_Sorting_Machine) - Sorting candy using computer vision and compressed air
 - [micro-temp-pi](https://github.com/jklmnn/MicroTemPi) - Raspberry Pi using a BBC Micro:Bit as temperature sensor
+- [Wee Noise Maker](https://github.com/Fabien-Chouteau/Wee-Noise-Maker) - Open source pocket synthesizer 
 
 #### Bindings
 - [svd2ada](https://github.com/Fabien-Chouteau/svd2ada) - An Ada binding generator from SVD descriptions for bare board ARM devices.
