@@ -127,7 +127,7 @@ lanugage.  It is loosely modelled after JUnit and some ideas from AUnit.
 #### Office
 - [azip](https://azip.sourceforge.io) - A free, portable Zip Archive Manager
 - [texcad](https://texcad.sourceforge.io) - TeXCAD is a program for drawing or retouching {picture}s in LaTeX.
-- [CBSG](http://cbsg.sf.net) - The Corporate Bullshit Generator
+- [cbsg](http://cbsg.sf.net) - The Corporate Bullshit Generator
 
 #### Web
 - [ironsides](http://ironsides.martincarlisle.com) - Authoritative DNS server verified by SPARK/Ada
