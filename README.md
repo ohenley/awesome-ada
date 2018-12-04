@@ -17,7 +17,7 @@ A curated list of awesome resources and other links related to the Ada programmi
 ## OS/Kernel
 - [marte-os](https://marte.unican.es/) - MaRTE OS is a Hard Real-Time Operating System for embedded applications that follows the Minimal Real-Time POSIX.13 subset. It provides an easy to use and controlled environment to develop Multi-Thread Real-Time applications. 
 - [muen](https://muen.codelabs.ch/) - An x86/64 Separation Kernel for High Assurance
-- [Ewok](https://github.com/wookey-project/ewok-kernel) - Microkernel targeting micro-controllers and embedded systems
+- [ewok](https://github.com/wookey-project/ewok-kernel) - EwoK is a microkernel targeting micro-controllers and embedded systems
 
 ## Frameworks
 
@@ -98,7 +98,7 @@ lanugage.  It is loosely modelled after JUnit and some ideas from AUnit.
 ## Hardware/Embedded
 
 #### Drivers
-- [Ada Drivers Library](https://github.com/AdaCore/Ada_Drivers_Library) - Ada drivers for various MCU and sensors
+- [ada-drivers-library](https://github.com/AdaCore/Ada_Drivers_Library) - Ada drivers for various MCU and sensors
 - [embrick](https://github.com/it-cosmos/emBRICK) - emBRICK driver and support for emBRICK in Ada
 
 #### Controllers
@@ -107,19 +107,19 @@ lanugage.  It is loosely modelled after JUnit and some ideas from AUnit.
 #### Libraries
 - [giza](https://github.com/Fabien-Chouteau/Giza) - Giza is trying to be a simple widget tool kit for embedded platforms
 - [ada-synth-lib](https://github.com/raph-amiard/ada-synth-lib) - Simple audio synthesis library
-- [GESTE](https://github.com/Fabien-Chouteau/GESTE) - GESTE is a sprite and tile 2D render engine designed to run on micro-controllers
+- [geste](https://github.com/Fabien-Chouteau/GESTE) - GESTE is a sprite and tile 2D render engine designed to run on micro-controllers
 
 #### Applications
 - [coffee-clock](https://github.com/Fabien-Chouteau/coffee-clock) - Waking up with a fresh cup of coffee
 - [noise-nugget](https://github.com/Fabien-Chouteau/noise-nugget) - Square Inch Synthesizer
 - [spark-railway-demo](https://github.com/Fabien-Chouteau/spark-railway-demo) - Simulated railway network in SPARK/Ada
 - [micro-temp-pi](https://github.com/jklmnn/MicroTemPi) - Raspberry Pi using a BBC Micro:Bit as temperature sensor
-- [Wee Noise Maker](https://github.com/Fabien-Chouteau/Wee-Noise-Maker) - Open source pocket synthesizer 
+- [wee-noise-maker](https://github.com/Fabien-Chouteau/Wee-Noise-Maker) - Wee Noise Maker is an open source pocket synthesizer 
 
 #### Bindings
 - [svd2ada](https://github.com/Fabien-Chouteau/svd2ada) - An Ada binding generator from SVD descriptions for bare board ARM devices.
 - [ada-time](https://github.com/Fabien-Chouteau/Ada_Time) - Ada binding for the Pebble Time smartwatch
-- [wiring-pi-Ada](https://github.com/jklmnn/wiringPi-Ada) - Ada bindings for wiringPi
+- [wiring-pi-ada](https://github.com/jklmnn/wiringPi-Ada) - Ada bindings for wiringPi
 
 ## Applications
 
