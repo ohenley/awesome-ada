@@ -183,3 +183,4 @@ SCard API.
 - add Mosteo stuff
 - find and add stuff for every Make with Ada competition
 - add https://github.com/LionelDraghi stuff
+- add http://www.dmitry-kazakov.de/ada/aicwl.htm
