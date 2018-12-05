@@ -199,3 +199,4 @@ SCard API.
 - add https://github.com/LionelDraghi stuff
 - add http://www.dmitry-kazakov.de/ada/aicwl.htm stuff
 - add https://github.com/Alex-Gamper stuff
+- add stuff from star givers
