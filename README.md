@@ -23,6 +23,9 @@ A curated list of awesome resources and other links related to the Ada programmi
 - [muen](https://muen.codelabs.ch/) - An x86/64 Separation Kernel for High Assurance
 - [ewok](https://github.com/wookey-project/ewok-kernel) - EwoK is a microkernel targeting micro-controllers and embedded systems
 
+## Games
+- [steamsky](https://thindil.github.io/steamsky) - Roguelike in sky with a steampunk setting
+
 ## Frameworks
 
 #### GUI
