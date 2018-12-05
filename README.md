@@ -12,8 +12,8 @@ A curated list of awesome resources and other links related to the Ada programmi
 - [hac](https://sourceforge.net/projects/hacadacompiler/) - Experimental Ada compiler fully in Ada
 
 ## Online Compilers 
-- [TutorialsPoint Ada Compiler](https://www.tutorialspoint.com/compile_ada_online.php) - Online compiler built on the CodingGround engine 
-- [JDoodle Ada Compiler](https://www.jdoodle.com/execute-ada-online) - Online compiler that provides multiple versions of GNAT to test with. 
+- [tutorials-point-ada-compiler](https://www.tutorialspoint.com/compile_ada_online.php) - Online compiler built on the CodingGround engine 
+- [jdoodle-ada-compiler](https://www.jdoodle.com/execute-ada-online) - Online compiler that provides multiple versions of GNAT to test with. 
 
 ## Runtimes
 - [generic-ada-runtime](https://github.com/Componolit/ada-runtime) - A downsized Ada runtime which can be adapted to different platforms
