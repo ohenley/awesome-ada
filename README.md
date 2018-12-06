@@ -91,10 +91,10 @@ lanugage.  It is loosely modelled after JUnit and some ideas from AUnit.
 
 #### Algorithms, containers and protocols
 - [ada-traits-containers](https://github.com/AdaCore/ada-traits-containers) - Generic Ada Library for Algorithms and Containers
-- [mathpaqs](http://mathpaqs.sourceforge.net/) - Mathpaqs is a collection of mathematical, 100% portable, packages in the Ada programming language
-- [libadacrypt](https://github.com/cforler/Ada-Crypto-Library) - This is a crypto library for Ada with a nice API and is written for the i386 and x86_64 hardware architecture
 - [simple-components](http://www.dmitry-kazakov.de/ada/components.htm) - Implementation of various algorythn, containers or protocols
 - [pragmarc](http://pragmada.x10hosting.com/pragmarc.htm) - PragmAda Reusable Components (PragmARCs) from PragmAda S/W Engineering
+- [mathpaqs](http://mathpaqs.sourceforge.net/) - Mathpaqs is a collection of mathematical, 100% portable, packages in the Ada programming language
+- [libadacrypt](https://github.com/cforler/Ada-Crypto-Library) - This is a crypto library for Ada with a nice API and is written for the i386 and x86_64 hardware architecture
 - [booch95](https://sourceforge.net/projects/booch95/) - The Ada 95 Booch components are a port of Grady Booch's C++ components.
 - [gnatcoll](http://libre.adacore.com/tools/gnat-component-collection) - GNAT Component Collection from Adacore
 - [ada-id](https://github.com/anthony-arnold/AdaID) - Simple Ada library for generating UUIDs
