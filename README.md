@@ -11,6 +11,14 @@ A curated list of awesome resources and other links related to the Ada programmi
 - [greenhills-ada](https://www.ghs.com/products/ada_optimizing_compilers.html) - Green Hills Software offers the industry's first, fully validated family of Ada Cross Compilers for real-time targets
 - [hac](https://sourceforge.net/projects/hacadacompiler/) - Experimental Ada compiler fully in Ada
 
+## Editors
+
+#### Integrated Development Editor
+- [gps](https://github.com/AdaCore/gps) - The GNAT Programming Studio.
+
+#### Modes
+- [gnu-emacs-ada-mode](http://www.nongnu.org/ada-mode/) - Gnu Emacs major-mode for editing Ada sources
+
 ## Online Compilers 
 - [tutorials-point-ada-compiler](https://www.tutorialspoint.com/compile_ada_online.php) - Online compiler built on the CodingGround engine 
 - [jdoodle-ada-compiler](https://www.jdoodle.com/execute-ada-online) - Online compiler that provides multiple versions of GNAT to test with. 
