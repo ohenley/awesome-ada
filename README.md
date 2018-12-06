@@ -3,6 +3,8 @@
 A curated list of awesome resources and other links related to the Ada programming language.
 
 ## Compilers
+
+#### Local
 - [fsf-gnat](http://www.getadanow.com/) - Free Software Foundation compiler for the Ada programming language which forms part of the GNU Compiler Collection. It supports all versions of the language, i.e. Ada 2012, Ada 2005, Ada 95 and Ada 83
 - [gnat-ce](https://www.adacore.com/download) - Adacore compiler for the Ada programming language which forms part of the GNU Compiler Collection. It supports all versions of the language, i.e. Ada 2012, Ada 2005, Ada 95 and Ada 83
 - [janus-ada](http://www.rrsoftware.com/html/prodinf/janus95/j-ada95.htm) - Compiler supporting the complete syntax and features of the Ada 95 programming language
@@ -10,6 +12,10 @@ A curated list of awesome resources and other links related to the Ada programmi
 - [apex-ada](https://www.ptc.com/en/products/developer-tools/apexada) - PTC ApexAda is one of the industry’s most popular development environments for Ada and mixed Ada/C/C++ applications
 - [greenhills-ada](https://www.ghs.com/products/ada_optimizing_compilers.html) - Green Hills Software offers the industry's first, fully validated family of Ada Cross Compilers for real-time targets
 - [hac](https://sourceforge.net/projects/hacadacompiler/) - Experimental Ada compiler fully in Ada
+
+#### Online
+- [tutorials-point-ada-compiler](https://www.tutorialspoint.com/compile_ada_online.php) - Online compiler built on the CodingGround engine 
+- [jdoodle-ada-compiler](https://www.jdoodle.com/execute-ada-online) - Online compiler that provides multiple versions of GNAT to test with. 
 
 ## Editors
 
@@ -21,9 +27,16 @@ A curated list of awesome resources and other links related to the Ada programmi
 - [vim-ada-bundle](https://www.vim.org/scripts/script.php?script_id=1609) - Ada Bundle : Complete Ada-Mode as Vim-Ball or Tar.bz2
 - [ada-tmbundle](https://github.com/textmate/ada.tmbundle) - TextMate support for Ada
 
-## Online Compilers 
-- [tutorials-point-ada-compiler](https://www.tutorialspoint.com/compile_ada_online.php) - Online compiler built on the CodingGround engine 
-- [jdoodle-ada-compiler](https://www.jdoodle.com/execute-ada-online) - Online compiler that provides multiple versions of GNAT to test with. 
+## Deployment
+
+#### Package/Build
+- [gprbuild](https://github.com/AdaCore/gprbuild) - Adacore multi-language software build tool
+- [ravenadm](https://github.com/jrmarino/ravenadm) - Administration tool for Ravenports http://www.ravenports.com
+- [alire](https://github.com/alire-project/alire) - A catalog of ready-to-use Ada libraries plus a command-line tool (alr) to obtain, compile, and incorporate them into your own projects. It aims to fulfill a similar role to Rust's cargo or OCaml's opam
+- [synth](https://github.com/jrmarino/synth) - Next D/Ports build tool for live systems (Alternative for Portmaster and Portupgrade tools)
+
+#### Continuous Integration
+- [continuous-verification](https://github.com/jklmnn/continuous-verification) - SPARK formal verification automated with Travis CI
 
 ## Runtimes
 - [generic-ada-runtime](https://github.com/Componolit/ada-runtime) - A downsized Ada runtime which can be adapted to different platforms
@@ -46,7 +59,7 @@ A curated list of awesome resources and other links related to the Ada programmi
 - [gnatcoll-db](https://github.com/AdaCore/gnatcoll-db) - This is the DB module of the GNAT Components Collection
 
 #### Distributed
-- [polyorb](https://github.com/AdaCore/PolyORB) PolyORB provides a uniform solution to build distributed applications relying either on middleware standards
+- [polyorb](https://github.com/AdaCore/PolyORB) - PolyORB provides a uniform solution to build distributed applications relying either on middleware standards
 
 #### Graphical User Interface
 - [gnoga](https://sourceforge.net/projects/gnoga/) - The GNU Omnificent GUI for Ada
@@ -61,7 +74,6 @@ A curated list of awesome resources and other links related to the Ada programmi
 
 #### Web
 - [aws](https://github.com/AdaCore/aws) - AWS is a complete framework to develop Web based applications in Ada.
-- [template-parser] - AWS templates engine. 
 - [awa](https://github.com/stcarrez/ada-awa) - Ada Web Application is a framework to build a Web Application in Ada 2012. The framework provides several ready to use and extendable modules that are common to many web application. This includes the login, authentication, users, permissions, managing comments, tags, votes, documents, images.
 - [matreshka](http://forge.ada-ru.org/matreshka) - Matreshka is an Ada framework to develop information systems.  It consists
 of five major components: League, XML processor, Web framework, SQL access,
@@ -78,7 +90,7 @@ lanugage.  It is loosely modelled after JUnit and some ideas from AUnit.
 ## Libraries
 
 #### Algorithms, containers and protocols
-- [ada-traits-containers](https://github.com/AdaCore/ada-traits-containers) - https://github.com/AdaCore/ada-traits-containers
+- [ada-traits-containers](https://github.com/AdaCore/ada-traits-containers) - Generic Ada Library for Algorithms and Containers
 - [mathpaqs](http://mathpaqs.sourceforge.net/) - Mathpaqs is a collection of mathematical, 100% portable, packages in the Ada programming language
 - [libadacrypt](https://github.com/cforler/Ada-Crypto-Library) - This is a crypto library for Ada with a nice API and is written for the i386 and x86_64 hardware architecture
 - [simple-components](http://www.dmitry-kazakov.de/ada/components.htm) - Implementation of various algorythn, containers or protocols
@@ -122,6 +134,9 @@ lanugage.  It is loosely modelled after JUnit and some ideas from AUnit.
 - [anet](https://www.codelabs.ch/anet/) - Anet is a networking library for the Ada programming language.
 - [adasockets](http://www.rfc1149.net/devel/adasockets.html) - IPv4 socket library (TCP, UDP, and multicast)
 - [adhcp](https://codelabs.ch/adhcp/index.html) - ADHCP is an implementation of the DHCP protocol in Ada
+
+#### Web
+- [template-parser](https://github.com/AdaCore/templates-parser) - AWS templates engine. 
 
 #### Multimedia
 - [opengl-ada](https://github.com/flyx/OpenGLAda) - Thick Ada binding for OpenGL and GLFW
@@ -191,15 +206,6 @@ lanugage.  It is loosely modelled after JUnit and some ideas from AUnit.
 - [p2ada](http://p2ada.sourceforge.net/) - A Pascal to Ada translator
 - [tiled-code-gen](https://github.com/Fabien-Chouteau/tiled-code-gen) - Code generator for Tiled the map editor
 - [cvsweb2git](https://github.com/reznikmm/cvsweb2git) - This tool imports CVS repository shared on Ada Conformity Assessment Authority into the Git repository
-
-#### Package/Build
-- [gprbuild](https://github.com/AdaCore/gprbuild) - Adacore multi-language software build tool
-- [ravenadm](https://github.com/jrmarino/ravenadm) - Administration tool for Ravenports http://www.ravenports.com
-- [alire](https://github.com/alire-project/alire) - A catalog of ready-to-use Ada libraries plus a command-line tool (alr) to obtain, compile, and incorporate them into your own projects. It aims to fulfill a similar role to Rust's cargo or OCaml's opam
-- [synth](https://github.com/jrmarino/synth) - Next D/Ports build tool for live systems (Alternative for Portmaster and Portupgrade tools)
-
-#### Continuous Integration
-- [continuous-verification](https://github.com/jklmnn/continuous-verification) - SPARK formal verification automated with Travis CI
 
 ## Bindings
 - [adacurses](http://invisible-island.net/ncurses/ncurses-Ada95.html) - Ada95 bindings for ncurses
