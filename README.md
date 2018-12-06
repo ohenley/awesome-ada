@@ -16,8 +16,9 @@ A curated list of awesome resources and other links related to the Ada programmi
 #### Integrated Development Editor
 - [gps](https://github.com/AdaCore/gps) - The GNAT Programming Studio.
 
-#### Modes
+#### Text Mode
 - [gnu-emacs-ada-mode](http://www.nongnu.org/ada-mode/) - Gnu Emacs major-mode for editing Ada sources
+- [vim-ada-bundle](https://www.vim.org/scripts/script.php?script_id=1609) - Ada Bundle : Complete Ada-Mode as Vim-Ball or Tar.bz2
 
 ## Online Compilers 
 - [tutorials-point-ada-compiler](https://www.tutorialspoint.com/compile_ada_online.php) - Online compiler built on the CodingGround engine 
@@ -33,10 +34,20 @@ A curated list of awesome resources and other links related to the Ada programmi
 
 ## Games
 - [steamsky](https://thindil.github.io/steamsky) - Roguelike in sky with a steampunk setting
+- [unity-ada-tetris](https://blog.adacore.com/unity-ada) - Tetris, in Ada, for the Unity game engine
+- [tictactoe](https://github.com/AdaCore/tictactoe) - A tictactoe game written and proven in SPARK/Ada
 
 ## Frameworks
 
-#### GUI
+#### Components
+- [gnatcoll-core](https://github.com/AdaCore/gnatcoll-core) - This is the core module of the GNAT Components Collection
+- [gnatcoll-bindings](https://github.com/AdaCore/gnatcoll-bindings) - This is the bindings module of the GNAT Components Collection
+- [gnatcoll-db](https://github.com/AdaCore/gnatcoll-db) - This is the DB module of the GNAT Components Collection
+
+#### Distributed
+- [polyorb](https://github.com/AdaCore/PolyORB) PolyORB provides a uniform solution to build distributed applications relying either on middleware standards
+
+#### Graphical User Interface
 - [gnoga](https://sourceforge.net/projects/gnoga/) - The GNU Omnificent GUI for Ada
 - [gnavi](https://sourceforge.net/projects/gnavi/) - GNU Ada Visual Interface
 - [claw](http://www.rrsoftware.com/html/prodinf/claw/claw.htm) - CLAW, a High Level, Portable, Ada 95 Binding for Microsoft Windows
@@ -49,6 +60,7 @@ A curated list of awesome resources and other links related to the Ada programmi
 
 #### Web
 - [aws](https://github.com/AdaCore/aws) - AWS is a complete framework to develop Web based applications in Ada.
+- [template-parser] - AWS templates engine. 
 - [awa](https://github.com/stcarrez/ada-awa) - Ada Web Application is a framework to build a Web Application in Ada 2012. The framework provides several ready to use and extendable modules that are common to many web application. This includes the login, authentication, users, permissions, managing comments, tags, votes, documents, images.
 - [matreshka](http://forge.ada-ru.org/matreshka) - Matreshka is an Ada framework to develop information systems.  It consists
 of five major components: League, XML processor, Web framework, SQL access,
@@ -65,6 +77,7 @@ lanugage.  It is loosely modelled after JUnit and some ideas from AUnit.
 ## Libraries
 
 #### Algorithms, containers and protocols
+- [ada-traits-containers](https://github.com/AdaCore/ada-traits-containers) - https://github.com/AdaCore/ada-traits-containers
 - [mathpaqs](http://mathpaqs.sourceforge.net/) - Mathpaqs is a collection of mathematical, 100% portable, packages in the Ada programming language
 - [libadacrypt](https://github.com/cforler/Ada-Crypto-Library) - This is a crypto library for Ada with a nice API and is written for the i386 and x86_64 hardware architecture
 - [simple-components](http://www.dmitry-kazakov.de/ada/components.htm) - Implementation of various algorythn, containers or protocols
@@ -78,8 +91,11 @@ lanugage.  It is loosely modelled after JUnit and some ideas from AUnit.
 - [sl3p](https://github.com/jklmnn/sl3p) - Simple Layer 3 Protocol
 - [sip-hash](https://github.com/grim7reaper/SipHash) - A pure Ada implementation of the SipHash PRF
 - [ada-lsp](https://github.com/reznikmm/ada-lsp) - Language Server Protocol for Ada
+- [ada-language-server](https://github.com/AdaCore/ada_language_server) - prototype implementation of the Microsoft Language Server Protocol for Ada/SPARK
 
 #### Parsers/scanners/linters/analysers/prettyprinters
+- [libadalang](https://github.com/AdaCore/libadalang/) - Libadalang is a library for parsing and semantic analysis of Ada code. It is meant as a building block for integration into other tools. (IDE, static analyzers, etc.)
+- [gnat-coverage](https://github.com/AdaCore/gnatcoverage) - GNATcoverage is a tool to analyze and report program coverage
 - [aflex-ayacc](http://thiberlog.free.fr/) - Ada95 scanner and parser generators
 - [adacontrol](http://www.adalog.fr) - Ada constructs lint tool
 - [opentoken](http://stephe-leake.org/ada/opentoken.html) - Lexical analyser and parser for the Ada language
@@ -113,6 +129,16 @@ lanugage.  It is loosely modelled after JUnit and some ideas from AUnit.
 
 ## Hardware/Embedded
 
+#### Frameworks
+- [robotics-with-ada](https://github.com/AdaCore/Robotics_with_Ada) - Robotics with Ada, ARM, and Lego
+
+#### Firmware
+- [certiflie](https://github.com/AdaCore/Certyflie) - Source code for the full Ada + SPARK Crazyflie 2.0 firmware 
+
+#### Runtimes
+- [bb-runtimes](https://github.com/AdaCore/bb-runtimes) - GNAT bare metal board support package (BSP) 
+- [embedded-runtimes](https://github.com/AdaCore/embedded-runtimes) - Runtimes that add support for various boards to the GNAT GPL compiler for ARM
+
 #### Drivers
 - [ada-drivers-library](https://github.com/AdaCore/Ada_Drivers_Library) - Ada drivers for various MCU and sensors
 - [embrick](https://github.com/it-cosmos/emBRICK) - emBRICK driver and support for emBRICK in Ada
@@ -130,10 +156,11 @@ lanugage.  It is loosely modelled after JUnit and some ideas from AUnit.
 - [noise-nugget](https://github.com/Fabien-Chouteau/noise-nugget) - Square Inch Synthesizer
 - [spark-railway-demo](https://github.com/Fabien-Chouteau/spark-railway-demo) - Simulated railway network in SPARK/Ada
 - [micro-temp-pi](https://github.com/jklmnn/MicroTemPi) - Raspberry Pi using a BBC Micro:Bit as temperature sensor
-- [wee-noise-maker](https://github.com/Fabien-Chouteau/Wee-Noise-Maker) - Wee Noise Maker is an open source pocket synthesizer 
+- [wee-noise-maker](https://github.com/Fabien-Chouteau/Wee-Noise-Maker) - Wee Noise Maker is an open source pocket synthesizer
+- [lunar-lander-rotation](https://github.com/AdaCore/Lunar_Lander_Rotation_Demo) - Program that interacts with the AdaFruit BNO055 breakout board in order to send orientation data to a host computer
 
 #### Bindings
-- [svd2ada](https://github.com/Fabien-Chouteau/svd2ada) - An Ada binding generator from SVD descriptions for bare board ARM devices.
+- [svd2ada](https://github.com/AdaCore/svd2ada) - An Ada binding generator from SVD descriptions for bare board ARM devices.
 - [ada-time](https://github.com/Fabien-Chouteau/Ada_Time) - Ada binding for the Pebble Time smartwatch
 - [wiring-pi-ada](https://github.com/jklmnn/wiringPi-Ada) - Ada bindings for wiringPi
 
@@ -164,7 +191,7 @@ lanugage.  It is loosely modelled after JUnit and some ideas from AUnit.
 - [cvsweb2git](https://github.com/reznikmm/cvsweb2git) - This tool imports CVS repository shared on Ada Conformity Assessment Authority into the Git repository
 
 #### Package/Build
-- [gprbuild](http://docs.adacore.com/live/wave/gprbuild/html/gprbuild_ug/gprbuild_ug.html) - Adacore multi-language software build tool
+- [gprbuild](https://github.com/AdaCore/gprbuild) - Adacore multi-language software build tool
 - [ravenadm](https://github.com/jrmarino/ravenadm) - Administration tool for Ravenports http://www.ravenports.com
 - [alire](https://github.com/alire-project/alire) - A catalog of ready-to-use Ada libraries plus a command-line tool (alr) to obtain, compile, and incorporate them into your own projects. It aims to fulfill a similar role to Rust's cargo or OCaml's opam
 - [synth](https://github.com/jrmarino/synth) - Next D/Ports build tool for live systems (Alternative for Portmaster and Portupgrade tools)
@@ -179,7 +206,7 @@ lanugage.  It is loosely modelled after JUnit and some ideas from AUnit.
 - [pcsc-ada](http://www.codelabs.ch/pcscada) - PCSC/Ada provides a thick Ada binding to PC/SC-middleware. The library
 allows programs written in Ada to communicate with smart cards using the
 SCard API.
-- [lua-ada](https://github.com/AdaCore/ada-lua) - Ada binding for Lua
+- [ada-lua](https://github.com/AdaCore/ada-lua) - Ada binding for Lua
 - [ada-base](http://jrmarino.github.io/AdaBase/) - Thick database bindings for MySQL, PostgreSQL and SQLite written in Ada.
 - [apq-base](http://www.ravenports.com/catalog/bucket_F2/apq-base/standard/) - APQ is a database interface library written in Ada95
 - [cuda-ada](https://codelabs.ch/cuda-ada/index.html) - CUDA/Ada is an Ada binding to NVIDIA’s CUDA parallel computing platform and programming model
@@ -191,10 +218,11 @@ SCard API.
 - [adav4l2](https://github.com/frett27/AdaV4L2) - Ada Posix Binding to Video 4 Linux, used for RPI
 - [ada-nanovg](https://github.com/raph-amiard/ada-nanovg) - Ada bindings to NanoVG
 - [ada-soundio](https://github.com/raph-amiard/ada-soundio) - Ada bindings for libsoundio
+- [win32ada](https://github.com/AdaCore/win32ada) - Ada API to the Windows library
+- [wposix](https://github.com/AdaCore/wposix) - Ada Windows POSIX binding
 
 
 [TODO]
-- add Adacore stuff
 - add simon w. stuff
 - find proper qt bindings
 - add Stephane Carrez stuff
