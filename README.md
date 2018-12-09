@@ -1,5 +1,5 @@
 <div align="center">
-	<img width="200"  src="awesome_ada.svg" alt="Awesome">
+	<img width="200"  src="awesome_ada_purple.svg" alt="Awesome">
 </div>
 
 # Awesome Ada [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
