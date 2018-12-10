@@ -12,6 +12,7 @@
 - add http://www.dmitry-kazakov.de/ada/aicwl.htm stuff
 - add https://github.com/Alex-Gamper stuff
 - add stuff from star givers
+- add persan stuff
 
 - books
 - ressources in general: check https://github.com/samuell/awesome-ada and adaic.org
