@@ -58,6 +58,7 @@ A curated list of awesome resources and other links related to the Ada programmi
 ## Frameworks
 
 #### Components
+- [simple-components](http://www.dmitry-kazakov.de/ada/components.htm) - Implementation of various algorithm, containers or protocols
 - [gnatcoll-core](https://github.com/AdaCore/gnatcoll-core) - This is the core module of the GNAT Components Collection
 - [gnatcoll-bindings](https://github.com/AdaCore/gnatcoll-bindings) - This is the bindings module of the GNAT Components Collection
 - [gnatcoll-db](https://github.com/AdaCore/gnatcoll-db) - This is the DB module of the GNAT Components Collection
@@ -95,7 +96,6 @@ lanugage.  It is loosely modelled after JUnit and some ideas from AUnit.
 
 #### Algorithms, containers and protocols
 - [ada-traits-containers](https://github.com/AdaCore/ada-traits-containers) - Generic Ada Library for Algorithms and Containers
-- [simple-components](http://www.dmitry-kazakov.de/ada/components.htm) - Implementation of various algorythn, containers or protocols
 - [pragmarc](http://pragmada.x10hosting.com/pragmarc.htm) - PragmAda Reusable Components (PragmARCs) from PragmAda S/W Engineering
 - [mathpaqs](http://mathpaqs.sourceforge.net/) - Mathpaqs is a collection of mathematical, 100% portable, packages in the Ada programming language
 - [libadacrypt](https://github.com/cforler/Ada-Crypto-Library) - This is a crypto library for Ada with a nice API and is written for the i386 and x86_64 hardware architecture
