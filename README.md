@@ -175,6 +175,7 @@ lanugage.  It is loosely modelled after JUnit and some ideas from AUnit.
 #### Runtimes
 - [bb-runtimes](https://github.com/AdaCore/bb-runtimes) - GNAT bare metal board support package (BSP) 
 - [embedded-runtimes](https://github.com/AdaCore/embedded-runtimes) - Runtimes that add support for various boards to the GNAT GPL compiler for ARM
+- [AVR-Ada](https://sourceforge.net/projects/avr-ada) - GNAT for 8-bit AVR microcontrollers
 
 #### Drivers
 - [ada-drivers-library](https://github.com/AdaCore/Ada_Drivers_Library) - Ada drivers for various MCU and sensors
