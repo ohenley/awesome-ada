@@ -44,6 +44,9 @@ A curated list of awesome resources and other links related to the Ada programmi
 
 ## Runtimes
 - [generic-ada-runtime](https://github.com/Componolit/ada-runtime) - A downsized Ada runtime which can be adapted to different platforms
+- [bb-runtimes](https://github.com/AdaCore/bb-runtimes) - GNAT bare metal board support package (BSP) 
+- [embedded-runtimes](https://github.com/AdaCore/embedded-runtimes) - Runtimes that add support for various boards to the GNAT GPL compiler for ARM
+- [avr-ada](https://sourceforge.net/projects/avr-ada) - GNAT for 8-bit AVR microcontrollers
 
 ## OS/Kernel
 - [marte-os](https://marte.unican.es/) - MaRTE OS is a Hard Real-Time Operating System for embedded applications that follows the Minimal Real-Time POSIX.13 subset. It provides an easy to use and controlled environment to develop Multi-Thread Real-Time applications. 
@@ -171,11 +174,6 @@ lanugage.  It is loosely modelled after JUnit and some ideas from AUnit.
 
 #### Firmware
 - [certiflie](https://github.com/AdaCore/Certyflie) - Source code for the full Ada + SPARK Crazyflie 2.0 firmware 
-
-#### Runtimes
-- [bb-runtimes](https://github.com/AdaCore/bb-runtimes) - GNAT bare metal board support package (BSP) 
-- [embedded-runtimes](https://github.com/AdaCore/embedded-runtimes) - Runtimes that add support for various boards to the GNAT GPL compiler for ARM
-- [avr-ada](https://sourceforge.net/projects/avr-ada) - GNAT for 8-bit AVR microcontrollers
 
 #### Drivers
 - [ada-drivers-library](https://github.com/AdaCore/Ada_Drivers_Library) - Ada drivers for various MCU and sensors
