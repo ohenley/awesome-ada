@@ -13,6 +13,7 @@
 - add https://github.com/Alex-Gamper stuff
 - add stuff from star givers
 - add persan stuff
+- add https://github.com/Entomy/
 
 - books
 - ressources in general: check https://github.com/samuell/awesome-ada and adaic.org
