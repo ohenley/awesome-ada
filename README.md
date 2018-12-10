@@ -109,6 +109,8 @@ lanugage.  It is loosely modelled after JUnit and some ideas from AUnit.
 - [sip-hash](https://github.com/grim7reaper/SipHash) - A pure Ada implementation of the SipHash PRF
 - [ada-lsp](https://github.com/reznikmm/ada-lsp) - Language Server Protocol for Ada
 - [ada-language-server](https://github.com/AdaCore/ada_language_server) - prototype implementation of the Microsoft Language Server Protocol for Ada/SPARK
+- [smart-pointers](http://www.christ-usch-grein.homepage.t-online.de/Ada/Smart_Pointers.html) - A package providing a reference-counted access type Smart_Pointer
+- [marsaglia-random-number-generator](http://www.christ-usch-grein.homepage.t-online.de/Ada/Marsaglia.html) - Ada implementation of the algorithm developed by George Marsaglia, Supercomputer Computations Research Institute, Florida State University.
 
 #### Parsers/scanners/linters/analysers/prettyprinters
 - [libadalang](https://github.com/AdaCore/libadalang/) - Libadalang is a library for parsing and semantic analysis of Ada code. It is meant as a building block for integration into other tools. (IDE, static analyzers, etc.)
@@ -120,6 +122,7 @@ lanugage.  It is loosely modelled after JUnit and some ideas from AUnit.
 - [anagram](https://github.com/reznikmm/anagram) - Grammar handling and parser generation Ada library
 - [ada-pretty](https://github.com/reznikmm/ada-pretty) - Pretty printing library for Ada
 - [increment](https://github.com/reznikmm/increment) - Incremental analysis in Ada
+- [ada-lexer](http://www.christ-usch-grein.homepage.t-online.de/Ada/Lexer.html) - A lexical analyzer written in Ada, which transforms a stream of characters representing an Ada program into a stream of language specific tokens
 
 #### Format reader/writer
 - [ini-file-manager](https://sourceforge.net/projects/ini-files) - The Ini file manager consists of a package, Config, which can read and modify informations from various configuration files known as "ini" files.
@@ -146,6 +149,20 @@ lanugage.  It is loosely modelled after JUnit and some ideas from AUnit.
 - [opengl-ada](https://github.com/flyx/OpenGLAda) - Thick Ada binding for OpenGL and GLFW
 - [ada-synthetizer](https://github.com/frett27/Ada-Synthetizer) - Sound Synthetizer Library implemented in Ada
 - [engine-3d](https://sourceforge.net/projects/engine-3d) - A 3D engine for DOS-talgics
+
+#### Science
+- [landscape](http://www.christ-usch-grein.homepage.t-online.de/Ada/Landscape.html) - A library to plot functions of two real variables
+- [polynomials](http://www.christ-usch-grein.homepage.t-online.de/Ada/Polynomials.html) - This package allows formal manipulation of polynomials of several variables
+- [si-units](http://www.christ-usch-grein.homepage.t-online.de/Ada/Dimension/SI.html) - A set of Ada packages to compute with dimensioned items in full generality
+
+#### Localization
+- [translator](http://www.christ-usch-grein.homepage.t-online.de/Ada/Translator.html) - An Ada package to write language independent messages
+
+#### Utilities
+- [split-n-join](http://www.christ-usch-grein.homepage.t-online.de/Ada/Split_n_Join.html) - An Ada package Ada.Strings.Unbounded.Lists to split and join Strings similar to Perl
+- [make-body](http://www.christ-usch-grein.homepage.t-online.de/Ada/Utilities.html) - From a given Ada package spezification, create a body template
+- [colorize](http://www.christ-usch-grein.homepage.t-online.de/Ada/Utilities.html) - Presentation of tokens of an Ada program in different colors
+- [lines-of-code](http://www.christ-usch-grein.homepage.t-online.de/Ada/Utilities.html) - Count the lines of code of an Ada program
 
 ## Hardware/Embedded
 
@@ -179,6 +196,7 @@ lanugage.  It is loosely modelled after JUnit and some ideas from AUnit.
 - [wee-noise-maker](https://github.com/Fabien-Chouteau/Wee-Noise-Maker) - Wee Noise Maker is an open source pocket synthesizer
 - [lunar-lander-rotation](https://github.com/AdaCore/Lunar_Lander_Rotation_Demo) - Program that interacts with the AdaFruit BNO055 breakout board in order to send orientation data to a host computer
 - [railway-simulation](https://github.com/AdaCore/SPARK_Railway_Simulation_Demo) - Program simulating a railway network with trains, switches and signaling. The signaling system is proven with SPARK/Ada to ensure that trains cannot collide.
+- [fsm-edit](http://www.christ-usch-grein.homepage.t-online.de/Ada/FSM.html) - FSMedit is an editor for finite state machines. It is written in Ada with the graphical user's interface by alternatively Claw or GtkAda. 
 
 #### Bindings
 - [svd2ada](https://github.com/AdaCore/svd2ada) - An Ada binding generator from SVD descriptions for bare board ARM devices.
