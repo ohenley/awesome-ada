@@ -14,7 +14,7 @@ A curated list of awesome resources and other links related to the Ada and SPARK
 - [iso-standard-ada-reference-manual-and-rational](http://www.ada-auth.org/standards/ada12.html) - The 2012 revision to the Ada Standard, usually known as Ada 2012
 
 #### Books
-- <img height="50px" width="36px" hspace="10px" src="https://assets.cambridge.org/97811074/24814/cover/9781107424814.jpg">[Programming in Ada 2012](https://www.cambridge.org/core/books/programming-in-ada-2012/55B998B4E908A017E4D74A87364FF224#) - Language reference
+- <img height="50px" width="36px" hspace="10px" src="https://assets.cambridge.org/97811074/24814/cover/9781107424814.jpg">[Programming in Ada 2012](https://www.cambridge.org/core/books/programming-in-ada-2012/55B998B4E908A017E4D74A87364FF224#) - Comprehensive reference
 - <img height="50px" width="36px" hspace="10px" src="https://images-na.ssl-images-amazon.com/images/I/41RVoxIX2TL._SX398_BO1,204,203,200_.jpg">[Introduction to Ada Programming, 2nd Edition](https://www.amazon.com/Introduction-Ada-Programming-Andrew-Shvets/dp/1987673859/ref=sr_1_8?ie=UTF8&qid=1544540272&sr=8-8&keywords=ada+programming+language) - Introduction
 - <img height="50px" width="36px" hspace="10px" src="https://images.springer.com/sgw/books/medium/9781848823136.jpg"> [Ada for Software Engineers](https://www.springer.com/gp/book/9781848823136) - Architecture
 - <img height="50px" width="36px" hspace="10px" src="https://assets.cambridge.org/97805218/66972/cover/9780521866972.jpg">[Concurrent and Real-Time Programming in Ada](https://www.cambridge.org/core/books/concurrent-and-realtime-programming-in-ada/9DA4389E52005382D4CC1FC5D812DA71) - Concurrency, Containers, Scheduling
