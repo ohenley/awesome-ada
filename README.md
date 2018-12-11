@@ -28,8 +28,13 @@ A curated list of awesome resources and other links related to the Ada and SPARK
 - [spark-by-example](https://github.com/tofgarion/spark-by-example) - Collection of verified functions and data types in SPARK
 
 ## Community
-- [adacore-blog](https://blog.adacore.com/) - An Insight Into the AdaCore Ecosystem
+
+#### Q&A
 - [comp-lang-ada](https://groups.google.com/forum/#!forum/comp.lang.ada) - Ada Google forum
+- [stack-overflow-ada-tag](https://stackoverflow.com/questions/tagged/ada) - Ada at Stack Overflow
+
+#### News
+- [adacore-blog](https://blog.adacore.com/) - An Insight Into the AdaCore Ecosystem
 - [ada-programming](https://plus.google.com/u/0/communities/102688015980369378804) - Ada Google Plus Community
 
 ## Compilers
