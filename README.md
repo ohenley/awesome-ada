@@ -30,7 +30,7 @@ A curated list of awesome resources and other links related to the Ada and SPARK
 ## Community
 - [adacore-blog](https://blog.adacore.com/) - An Insight Into the AdaCore Ecosystem
 - [comp-lang-ada](https://groups.google.com/forum/#!forum/comp.lang.ada) - Ada Google forum
-- [Ada Programming](https://plus.google.com/u/0/communities/102688015980369378804) - Ada Google Plus Community
+- [ada-programming](https://plus.google.com/u/0/communities/102688015980369378804) - Ada Google Plus Community
 
 ## Compilers
 
