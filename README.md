@@ -55,7 +55,7 @@ A curated list of awesome resources and other links related to the Ada programmi
 
 - [gnat-coverage](https://github.com/AdaCore/gnatcoverage) - GNATcoverage is a tool to analyze and report program coverage
 - [adacontrol](http://www.adalog.fr) - Ada constructs lint tool
-- [spark2014](https://github.com/AdaCore/spark2014/) - SPARK formal verification toolset
+- [spark-2014](https://github.com/AdaCore/spark2014/) - SPARK formal verification toolset
 
 ## Deployment
 
@@ -136,8 +136,8 @@ lanugage.  It is loosely modelled after JUnit and some ideas from AUnit.
 - [mathpaqs](http://mathpaqs.sourceforge.net/) - Mathpaqs is a collection of mathematical, 100% portable, packages in the Ada programming language
 - [amatrix](https://github.com/jklmnn/amatrix) - Matrix implementation in Ada
 - [polynomials](http://www.christ-usch-grein.homepage.t-online.de/Ada/Polynomials.html) - This package allows formal manipulation of polynomials of several variables
-- [Numerics](https://github.com/Entomy/Numerics) - Provides numerous improvements to numerical handling in Ada, mostly through additional types
-- [Mathematics](https://github.com/Entomy/Mathematics) - Collection of Ada packages for mathematics, includes things like distributive algebra, angular algebra, and more
+- [numerics](https://github.com/Entomy/Numerics) - Provides numerous improvements to numerical handling in Ada, mostly through additional types
+- [mathematics](https://github.com/Entomy/Mathematics) - Collection of Ada packages for mathematics, includes things like distributive algebra, angular algebra, and more
 
 #### Algorithms, containers and protocols
 - [ada-traits-containers](https://github.com/AdaCore/ada-traits-containers) - Generic Ada Library for Algorithms and Containers
@@ -154,13 +154,13 @@ lanugage.  It is loosely modelled after JUnit and some ideas from AUnit.
 - [ada-language-server](https://github.com/AdaCore/ada_language_server) - prototype implementation of the Microsoft Language Server Protocol for Ada/SPARK
 - [smart-pointers](http://www.christ-usch-grein.homepage.t-online.de/Ada/Smart_Pointers.html) - A package providing a reference-counted access type Smart_Pointer
 - [marsaglia-random-number-generator](http://www.christ-usch-grein.homepage.t-online.de/Ada/Marsaglia.html) - Ada implementation of the algorithm developed by George Marsaglia, Supercomputer Computations Research Institute, Florida State University.
-- [Containers](https://github.com/Entomy/Containers) - Collection of containers for Ada
+- [containers](https://github.com/Entomy/Containers) - Collection of containers for Ada
 - [libsparkcrypto](https://github.com/Componolit/libsparkcrypto) - A cryptographic library implemented in SPARK
 - [libkeccak](https://github.com/damaki/libkeccak) - A SPARK implementation of the Keccak family of sponge functions and related constructions
-- [Ascon_SPARK](https://github.com/jhumphry/Ascon_SPARK) - Ada/SPARK implementation of the Ascon Authenticated Encryption with Additional Data Algorithm
-- [SPARK_SipHash](https://github.com/jhumphry/SPARK_SipHash) - Ada/SPARK implementation of the SipHash keyed hash function
-- [SPARK_NORX](https://github.com/jhumphry/SPARK_NORX) - Ada/SPARK implementation of the NORX Authenticated Encryption with Additional Data Algorithm
-- [Reqrep_Task_Pools](https://github.com/jhumphry/Reqrep_Task_Pools) - Task pool system for jobs
+- [ascon-spark](https://github.com/jhumphry/Ascon_SPARK) - Ada/SPARK implementation of the Ascon Authenticated Encryption with Additional Data Algorithm
+- [spark-sip-hash](https://github.com/jhumphry/SPARK_SipHash) - Ada/SPARK implementation of the SipHash keyed hash function
+- [spark-norx](https://github.com/jhumphry/SPARK_NORX) - Ada/SPARK implementation of the NORX Authenticated Encryption with Additional Data Algorithm
+- [reqrep-task-pools](https://github.com/jhumphry/Reqrep_Task_Pools) - Task pool system for jobs
 - [hungarian-algorithm](https://github.com/fastrgv/HungarianAlgorithm) - Hungarian Algorithm implementation in Ada
 
 #### Science
@@ -176,7 +176,7 @@ lanugage.  It is loosely modelled after JUnit and some ideas from AUnit.
 - [ada-pretty](https://github.com/reznikmm/ada-pretty) - Pretty printing library for Ada
 - [increment](https://github.com/reznikmm/increment) - Incremental analysis in Ada
 - [ada-lexer](http://www.christ-usch-grein.homepage.t-online.de/Ada/Lexer.html) - A lexical analyzer written in Ada, which transforms a stream of characters representing an Ada program into a stream of language specific tokens
-- [Parse_Args](https://github.com/jhumphry/parse_args) - Simple command-line argument parsing
+- [parse-args](https://github.com/jhumphry/parse_args) - Simple command-line argument parsing
 
 #### Format reader/writer
 - [ini-file-manager](https://sourceforge.net/projects/ini-files) - The Ini file manager consists of a package, Config, which can read and modify informations from various configuration files known as "ini" files.
@@ -185,14 +185,14 @@ lanugage.  It is loosely modelled after JUnit and some ideas from AUnit.
 - [JWX](https://github.com/Componolit/jwx) - A formally verified JSON library in SPARK
 - [xmlada](https://github.com/AdaCore/xmlada) - The XML/Ada toolkit
 - [xml-ez-out](http://www.mckae.com/xmlEz.html) - Library for emitting XML from Ada programs
-- [SXML](https://github.com/Componolit/SXML) - A formally verified XML library in SPARK
+- [spark-xml](https://github.com/Componolit/SXML) - A formally verified XML library in SPARK
 - [excel-writer](http://excel-writer.sourceforge.net) - Create Excel files with basic formats
 - [generic-image-decoder](http://gen-img-dec.sourceforge.net/) - Multi-format image decoder library for Ada
 - [zip-ada](http://unzip-ada.sourceforge.net/) - Zip-Ada is a programming library for dealing with the Zip compressed archive file format.
 - [apdf](https://apdf.sourceforge.io/) - Ada package for producing easily and automatically PDF files, from an Ada program, with text, vector graphics, images (JPEG)
 - [ada-midi](https://github.com/frett27/Ada-Midi) - Implementation of Midi / MidiFile reading and writing
 - [ada-bar-codes](https://sourceforge.net/projects/ada-bar-codes) - Ada Bar Codes provides a package for generating various types of bar codes (1D, or 2D like QR codes) on different output formats, such as PDF or SVG.
-- [Ada_BinToAsc] - Various binary-to-ASCII codecs such as Base64
+- [ada-bin2asc] - Various binary-to-ASCII codecs such as Base64
 
 #### Network
 - [anet](https://www.codelabs.ch/anet/) - Anet is a networking library for the Ada programming language.
@@ -215,7 +215,7 @@ lanugage.  It is loosely modelled after JUnit and some ideas from AUnit.
 - [make-body](http://www.christ-usch-grein.homepage.t-online.de/Ada/Utilities.html) - From a given Ada package spezification, create a body template
 - [colorize](http://www.christ-usch-grein.homepage.t-online.de/Ada/Utilities.html) - Presentation of tokens of an Ada program in different colors
 - [lines-of-code](http://www.christ-usch-grein.homepage.t-online.de/Ada/Utilities.html) - Count the lines of code of an Ada program
-- [Auto_Counters](https://github.com/jhumphry/auto_counters) - Reference counting approaches to resource management
+- [auto-counters](https://github.com/jhumphry/auto_counters) - Reference counting approaches to resource management
 
 ## Hardware/Embedded
 
@@ -228,8 +228,8 @@ lanugage.  It is loosely modelled after JUnit and some ideas from AUnit.
 #### Drivers
 - [ada-drivers-library](https://github.com/AdaCore/Ada_Drivers_Library) - Ada drivers for various MCU and sensors
 - [embrick](https://github.com/it-cosmos/emBRICK) - emBRICK driver and support for emBRICK in Ada
-- [DW1000](https://github.com/damaki/DW1000) - Ada/SPARK driver for the DecaWave DW1000 ultra-wideband (UWB) radio chip
-- [EVB1000](https://github.com/damaki/EVB1000) - Ada/SPARK drivers to control the on-board peripherals of the DecaWave EVB1000 evaluation board
+- [decawave-dw1000](https://github.com/damaki/DW1000) - Ada/SPARK driver for the DecaWave DW1000 ultra-wideband (UWB) radio chip
+- [decawave-evb1000](https://github.com/damaki/EVB1000) - Ada/SPARK drivers to control the on-board peripherals of the DecaWave EVB1000 evaluation board
 
 #### Controllers
 - [solenoid-engine-controller](https://github.com/Fabien-Chouteau/solenoid-engine-controller) - Software controller for solenoid engines (Ada/STM32F4)
@@ -294,9 +294,9 @@ lanugage.  It is loosely modelled after JUnit and some ideas from AUnit.
 - [opengl-ada](http://flyx.github.io/OpenGLAda/) - Thick Ada binding for OpenGL and GLFW
 - [opencl-ada](http://flyx.github.io/OpenCLAda) - Ada binding for the OpenCL host API
 - [rclada](https://github.com/ada-ros/rclada) - Ada client library for ROS2/RCL
-- [adav4l2](https://github.com/frett27/AdaV4L2) - Ada Posix Binding to Video 4 Linux, used for RPI
+- [ada-v4l2](https://github.com/frett27/AdaV4L2) - Ada Posix Binding to Video 4 Linux, used for RPI
 - [ada-nanovg](https://github.com/raph-amiard/ada-nanovg) - Ada bindings to NanoVG
 - [ada-soundio](https://github.com/raph-amiard/ada-soundio) - Ada bindings for libsoundio
 - [win32ada](https://github.com/AdaCore/win32ada) - Ada API to the Windows library
 - [wposix](https://github.com/AdaCore/wposix) - Ada Windows POSIX binding
-- [LALG](https://github.com/jhumphry/LALG) - Interface to dense linear algebra packages
+- [lalg](https://github.com/jhumphry/LALG) - Interface to dense linear algebra packages
