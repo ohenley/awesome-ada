@@ -58,6 +58,14 @@ A curated list of awesome resources and other links related to the Ada programmi
 - [steamsky](https://thindil.github.io/steamsky) - Roguelike in sky with a steampunk setting
 - [unity-ada-tetris](https://blog.adacore.com/unity-ada) - Tetris, in Ada, for the Unity game engine
 - [tictactoe](https://github.com/AdaCore/tictactoe) - A tictactoe game written and proven in SPARK/Ada
+- [ada-gate](https://github.com/fastrgv/AdaGate) - AdaGate is a first-person 3D sokoban puzzle game within a Stargate / Portal fantasy setting for Windows, OS-X and Linux
+- [rufas-cube](https://github.com/fastrgv/RufasCube) - RufasCube is a puzzle game for Windows, OS-X and GNU Linux... it looks like a rubic cube but it's a slider, not a twister
+- [ada-venture](https://github.com/fastrgv/AdaVenture) - AdaVenture is a kid-friendly retro point&click game with mazes, dragons, bats & snakes
+- [terminal-apps](https://github.com/fastrgv/TerminalApps) - Fun puzzle games that run on any terminal on any OS
+- [co-terminal-apps](https://github.com/fastrgv/CoTerminalApps) - Retro Games that run in a terminal on any platform.
+- [mini-pacman](https://github.com/fastrgv/MiniPacman) - MiniPac is a kid friendly ascii character version of Pacman that plays in a commandline terminal
+- [world-cup-sokerban](https://github.com/fastrgv/WorldCupSokerban) - This is a soccer-themed, 3D sokoban puzzle game that runs on Windows, Mac OS-X and GNU Linux
+
 
 ## Frameworks
 
@@ -119,6 +127,7 @@ lanugage.  It is loosely modelled after JUnit and some ideas from AUnit.
 - [ada-language-server](https://github.com/AdaCore/ada_language_server) - prototype implementation of the Microsoft Language Server Protocol for Ada/SPARK
 - [smart-pointers](http://www.christ-usch-grein.homepage.t-online.de/Ada/Smart_Pointers.html) - A package providing a reference-counted access type Smart_Pointer
 - [marsaglia-random-number-generator](http://www.christ-usch-grein.homepage.t-online.de/Ada/Marsaglia.html) - Ada implementation of the algorithm developed by George Marsaglia, Supercomputer Computations Research Institute, Florida State University.
+- [hungarian-algorithm](https://github.com/fastrgv/HungarianAlgorithm) - Hungarian Algorithm implementation in Ada
 
 #### Science
 - [landscape](http://www.christ-usch-grein.homepage.t-online.de/Ada/Landscape.html) - A library to plot functions of two real variables
