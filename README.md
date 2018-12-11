@@ -152,6 +152,7 @@ lanugage.  It is loosely modelled after JUnit and some ideas from AUnit.
 - [anet](https://www.codelabs.ch/anet/) - Anet is a networking library for the Ada programming language.
 - [adasockets](http://www.rfc1149.net/devel/adasockets.html) - IPv4 socket library (TCP, UDP, and multicast)
 - [adhcp](https://codelabs.ch/adhcp/index.html) - ADHCP is an implementation of the DHCP protocol in Ada
+- [zeromq-Ada](https://github.com/persan/zeromq-Ada.git) Binding to the 0MQ comunications-library.
 
 #### Web
 - [template-parser](https://github.com/AdaCore/templates-parser) - AWS templates engine. 
@@ -169,7 +170,8 @@ lanugage.  It is loosely modelled after JUnit and some ideas from AUnit.
 - [make-body](http://www.christ-usch-grein.homepage.t-online.de/Ada/Utilities.html) - From a given Ada package spezification, create a body template
 - [colorize](http://www.christ-usch-grein.homepage.t-online.de/Ada/Utilities.html) - Presentation of tokens of an Ada program in different colors
 - [lines-of-code](http://www.christ-usch-grein.homepage.t-online.de/Ada/Utilities.html) - Count the lines of code of an Ada program
-
+- [a-stream-tools](https://github.com/persan/a-stream-tools.git) - use Ada.Streams in memory ore record writes on disk... 
+- [ssprep](https://github.com/persan/ssprep.git) a template engine a like jinja but its using [template_parser] as engine and is intended for command line usage.
 ## Hardware/Embedded
 
 #### Frameworks
