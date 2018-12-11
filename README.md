@@ -14,9 +14,9 @@ A curated list of awesome resources and other links related to the Ada programmi
 - [iso-standard-ada-reference-manual-and-rational](http://www.ada-auth.org/standards/ada12.html) - The 2012 revision to the Ada Standard, usually known as Ada 2012
 
 #### Books
-- <img width="50px" hspace="10px" src="https://images-na.ssl-images-amazon.com/images/I/41RVoxIX2TL._AC_US218_.jpg">[introduction-to-ada-programming](https://www.amazon.com/Introduction-Ada-Programming-Andrew-Shvets/dp/1987673859/ref=sr_1_8?ie=UTF8&qid=1544540272&sr=8-8&keywords=ada+programming+language)
+- <img height="50px" hspace="10px" src="https://images-na.ssl-images-amazon.com/images/I/41RVoxIX2TL._AC_US218_.jpg">[introduction-to-ada-programming](https://www.amazon.com/Introduction-Ada-Programming-Andrew-Shvets/dp/1987673859/ref=sr_1_8?ie=UTF8&qid=1544540272&sr=8-8&keywords=ada+programming+language)
 - [programming-in-ada-2012](https://www.cambridge.org/core/books/programming-in-ada-2012/55B998B4E908A017E4D74A87364FF224#)
-- <img width="50px" hspace="10px" src="https://images.springer.com/sgw/books/medium/9781848823136.jpg"> [ada-for-software-engineers](https://www.springer.com/gp/book/9781848823136)
+- <img height="50px" hspace="10px" src="https://images.springer.com/sgw/books/medium/9781848823136.jpg"> [ada-for-software-engineers](https://www.springer.com/gp/book/9781848823136)
 - [concurrent-and-real-time-programming-in-ada](https://www.cambridge.org/core/books/concurrent-and-realtime-programming-in-ada/9DA4389E52005382D4CC1FC5D812DA71)
 - [data-structures-and-algorithms](https://www.springer.com/gp/book/9780387948348)
 
