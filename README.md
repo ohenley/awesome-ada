@@ -10,7 +10,6 @@ A curated list of awesome resources and other links related to the Ada programmi
 
 #### Online
 - [learn](https://learn.adacore.com/) - Interactive learning platform designed to teach the Ada and SPARK programming languages
-- [spark-by-example](https://github.com/tofgarion/spark-by-example) - Collection of verified functions and data types in SPARK
 - [ada-programming](https://en.wikibooks.org/wiki/Ada_Programming) - Ada Programming tutorial at Wikibooks
 - [iso-standard-ada-reference-manual-and-rational](http://www.ada-auth.org/standards/ada12.html) - The 2012 revision to the Ada Standard, usually known as Ada 2012
 
@@ -23,6 +22,8 @@ A curated list of awesome resources and other links related to the Ada programmi
 - <img height="50px" width="36px" hspace="10px" src="https://assets.cambridge.org/97805211/97168/cover/9780521197168.jpg">[Building Parallel, Embedded, and Real-Time Applications with Ada](https://www.cambridge.org/core/books/building-parallel-embedded-and-real-time-applications-with-ada/9FC78A90F1B6A2228D69E32CE610A66C) - Concurrency, Distributed
 - <img height="50px" width="36px" hspace="10px" src="https://images-na.ssl-images-amazon.com/images/I/41HIwJp0ktL._SX336_BO1,204,203,200_.jpg">[Analysable Real-Time Systems: Programmed in Ada](https://www.amazon.com/Analysable-Real-Time-Systems-Programmed-Ada/dp/1530265509/ref=sr_1_2?ie=UTF8&qid=1544540272&sr=8-2&keywords=ada+programming+language) - Scheduling
 
+#### Tutorials
+- [spark-by-example](https://github.com/tofgarion/spark-by-example) - Collection of verified functions and data types in SPARK
 
 ## Compilers
 
@@ -48,6 +49,7 @@ A curated list of awesome resources and other links related to the Ada programmi
 - [gnu-emacs-ada-mode](http://www.nongnu.org/ada-mode/) - Gnu Emacs major-mode for editing Ada sources
 - [vim-ada-bundle](https://www.vim.org/scripts/script.php?script_id=1609) - Ada Bundle : Complete Ada-Mode as Vim-Ball or Tar.bz2
 - [ada-tmbundle](https://github.com/textmate/ada.tmbundle) - TextMate support for Ada
+- [ada-vscode](https://marketplace.visualstudio.com/items?itemName=Entomy.ada) - VisualStudio Code support for Ada
 
 ## Tools
 
@@ -116,14 +118,13 @@ A curated list of awesome resources and other links related to the Ada programmi
 #### Web
 - [aws](https://github.com/AdaCore/aws) - AWS is a complete framework to develop Web based applications in Ada.
 - [awa](https://github.com/stcarrez/ada-awa) - Ada Web Application is a framework to build a Web Application in Ada 2012. The framework provides several ready to use and extendable modules that are common to many web application. This includes the login, authentication, users, permissions, managing comments, tags, votes, documents, images.
-- [matreshka](http://forge.ada-ru.org/matreshka) - Matreshka is an Ada framework to develop information systems.  It consists
-of five major components: League, XML processor, Web framework, SQL access,
-and the Modeling framework.
+- [matreshka](http://forge.ada-ru.org/matreshka) - Matreshka is an Ada framework to develop information systems.  It consists of five major components: League, XML processor, Web framework, SQL access, and the Modeling framework.
 
 #### Unit Test
 - [ahven](http://ahven.stronglytyped.org/) - Ahven is a simple unit test library and framework for the Ada programming
 lanugage.  It is loosely modelled after JUnit and some ideas from AUnit.
 - [aunit](http://libre.adacore.com/tools/aunit/) - Ada unit testing framework
+- [Testing](https://github.com/Entomy/Testing) - Ada unit testing and measuring framework
 
 #### Logging
 - [alog](https://www.codelabs.ch/alog/) - Alog is a stackable logging framework for Ada
@@ -135,6 +136,8 @@ lanugage.  It is loosely modelled after JUnit and some ideas from AUnit.
 - [mathpaqs](http://mathpaqs.sourceforge.net/) - Mathpaqs is a collection of mathematical, 100% portable, packages in the Ada programming language
 - [amatrix](https://github.com/jklmnn/amatrix) - Matrix implementation in Ada
 - [polynomials](http://www.christ-usch-grein.homepage.t-online.de/Ada/Polynomials.html) - This package allows formal manipulation of polynomials of several variables
+- [Numerics](https://github.com/Entomy/Numerics) - Provides numerous improvements to numerical handling in Ada, mostly through additional types
+- [Mathematics](https://github.com/Entomy/Mathematics) - Collection of Ada packages for mathematics, includes things like distributive algebra, angular algebra, and more
 
 #### Algorithms, containers and protocols
 - [ada-traits-containers](https://github.com/AdaCore/ada-traits-containers) - Generic Ada Library for Algorithms and Containers
@@ -151,6 +154,7 @@ lanugage.  It is loosely modelled after JUnit and some ideas from AUnit.
 - [ada-language-server](https://github.com/AdaCore/ada_language_server) - prototype implementation of the Microsoft Language Server Protocol for Ada/SPARK
 - [smart-pointers](http://www.christ-usch-grein.homepage.t-online.de/Ada/Smart_Pointers.html) - A package providing a reference-counted access type Smart_Pointer
 - [marsaglia-random-number-generator](http://www.christ-usch-grein.homepage.t-online.de/Ada/Marsaglia.html) - Ada implementation of the algorithm developed by George Marsaglia, Supercomputer Computations Research Institute, Florida State University.
+- [Containers](https://github.com/Entomy/Containers) - Collection of containers for Ada
 - [libsparkcrypto](https://github.com/Componolit/libsparkcrypto) - A cryptographic library implemented in SPARK
 - [libkeccak](https://github.com/damaki/libkeccak) - A SPARK implementation of the Keccak family of sponge functions and related constructions
 - [Ascon_SPARK](https://github.com/jhumphry/Ascon_SPARK) - Ada/SPARK implementation of the Ascon Authenticated Encryption with Additional Data Algorithm
@@ -280,9 +284,7 @@ lanugage.  It is loosely modelled after JUnit and some ideas from AUnit.
 - [adacurses](http://invisible-island.net/ncurses/ncurses-Ada95.html) - Ada95 bindings for ncurses
 - [florist](https://www.cs.fsu.edu/~baker/florist.html) - POSIX Ada binding, IEEE Standards 1003.5(b,c)
 - [sdlada](https://github.com/Lucretia/sdlada) - Ada 2012 bindings to SDL 2
-- [pcsc-ada](http://www.codelabs.ch/pcscada) - PCSC/Ada provides a thick Ada binding to PC/SC-middleware. The library
-allows programs written in Ada to communicate with smart cards using the
-SCard API.
+- [pcsc-ada](http://www.codelabs.ch/pcscada) - PCSC/Ada provides a thick Ada binding to PC/SC-middleware. The library allows programs written in Ada to communicate with smart cards using the SCard API.
 - [ada-lua](https://github.com/AdaCore/ada-lua) - Ada binding for Lua
 - [ada-base](http://jrmarino.github.io/AdaBase/) - Thick database bindings for MySQL, PostgreSQL and SQLite written in Ada.
 - [apq-base](http://www.ravenports.com/catalog/bucket_F2/apq-base/standard/) - APQ is a database interface library written in Ada95
