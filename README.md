@@ -12,7 +12,7 @@ A curated list of awesome resources and other links related to the Ada and SPARK
 - [learn](https://learn.adacore.com/) - Interactive learning platform designed to teach the Ada and SPARK programming languages
 - [gems](https://www.adacore.com/gems/) - Ada Gem Archive
 - [ada-wikibook](https://en.wikibooks.org/wiki/Ada_Programming) - Ada Programming tutorial at Wikibooks
-- [iso-standard-ada-reference-manual-and-rational](http://www.ada-auth.org/standards/ada12.html) - The 2012 revision to the Ada Standard, usually known as Ada 2012
+- [iso-standard](http://www.ada-auth.org/standards/ada12.html) - The 2012 revision to the Ada Standard, usually known as Ada 2012
 
 #### Books
 - <img height="50px" width="36px" hspace="10px" src="https://assets.cambridge.org/97811074/24814/cover/9781107424814.jpg">[Programming in Ada 2012](https://www.cambridge.org/core/books/programming-in-ada-2012/55B998B4E908A017E4D74A87364FF224#) - Comprehensive
