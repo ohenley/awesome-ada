@@ -14,13 +14,13 @@ A curated list of awesome resources and other links related to the Ada programmi
 - [iso-standard-ada-reference-manual-and-rational](http://www.ada-auth.org/standards/ada12.html) - The 2012 revision to the Ada Standard, usually known as Ada 2012
 
 #### Books
-- <img height="50px" width="36px" hspace="10px" src="https://assets.cambridge.org/97811074/24814/cover/9781107424814.jpg">[programming-in-ada-2012](https://www.cambridge.org/core/books/programming-in-ada-2012/55B998B4E908A017E4D74A87364FF224#) - Language reference 
+- <img height="50px" width="36px" hspace="10px" src="https://assets.cambridge.org/97811074/24814/cover/9781107424814.jpg">[Programming-in-ada-2012](https://www.cambridge.org/core/books/programming-in-ada-2012/55B998B4E908A017E4D74A87364FF224#) - Language reference 
 - <img height="50px" width="36px" hspace="10px" src="https://images-na.ssl-images-amazon.com/images/I/41RVoxIX2TL._SX398_BO1,204,203,200_.jpg">[introduction-to-ada-programming](https://www.amazon.com/Introduction-Ada-Programming-Andrew-Shvets/dp/1987673859/ref=sr_1_8?ie=UTF8&qid=1544540272&sr=8-8&keywords=ada+programming+language) - Introduction
 - <img height="50px" width="36px" hspace="10px" src="https://images.springer.com/sgw/books/medium/9781848823136.jpg"> [ada-for-software-engineers](https://www.springer.com/gp/book/9781848823136) - Architecture
 - <img height="50px" width="36px" hspace="10px" src="https://assets.cambridge.org/97805218/66972/cover/9780521866972.jpg">[concurrent-and-real-time-programming-in-ada](https://www.cambridge.org/core/books/concurrent-and-realtime-programming-in-ada/9DA4389E52005382D4CC1FC5D812DA71) - Concurrency, Containers, Scheduling
 - <img height="50px" width="36px" hspace="10px" src="https://images.springer.com/sgw/books/medium/9780387948348.jpg">[data-structures-and-algorithms](https://www.springer.com/gp/book/9780387948348) - Data structures
-- <img height="50px" width="36px" hspace="10px" src="https://assets.cambridge.org/97805211/97168/cover/9780521197168.jpg">[building-parallel-embedded-and-real-time-applications-with-ada](https://www.cambridge.org/core/books/building-parallel-embedded-and-real-time-applications-with-ada/9FC78A90F1B6A2228D69E32CE610A66C) - Concurrency, Distributed
-- <img height="50px" width="36px" hspace="10px" src="https://images-na.ssl-images-amazon.com/images/I/41HIwJp0ktL._SX336_BO1,204,203,200_.jpg">[analysable-real-time-systems-programmed-in-ada](https://www.amazon.com/Analysable-Real-Time-Systems-Programmed-Ada/dp/1530265509/ref=sr_1_2?ie=UTF8&qid=1544540272&sr=8-2&keywords=ada+programming+language) - Scheduling
+- <img height="50px" width="36px" hspace="10px" src="https://assets.cambridge.org/97805211/97168/cover/9780521197168.jpg">[Building Parallel, Embedded, and Real-Time Applications with Ada](https://www.cambridge.org/core/books/building-parallel-embedded-and-real-time-applications-with-ada/9FC78A90F1B6A2228D69E32CE610A66C) - Concurrency, Distributed
+- <img height="50px" width="36px" hspace="10px" src="https://images-na.ssl-images-amazon.com/images/I/41HIwJp0ktL._SX336_BO1,204,203,200_.jpg">[Analysable Real-Time Systems: Programmed in Ada](https://www.amazon.com/Analysable-Real-Time-Systems-Programmed-Ada/dp/1530265509/ref=sr_1_2?ie=UTF8&qid=1544540272&sr=8-2&keywords=ada+programming+language) - Scheduling
 
 
 
