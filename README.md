@@ -102,7 +102,7 @@ A curated list of awesome resources and other links related to the Ada programmi
 - [gnatcoll-db](https://github.com/AdaCore/gnatcoll-db) - This is the DB module of the GNAT Components Collection
 
 #### Distributed
-- [polyorb](https://github.com/AdaCore/PolyORB) - PolyORB provides a uniform solution to build distributed applications relying either on middleware standards
+- [poly-orb](https://github.com/AdaCore/PolyORB) - PolyORB provides a uniform solution to build distributed applications relying either on middleware standards
 
 #### Graphical User Interface
 - [gnoga](https://sourceforge.net/projects/gnoga/) - The GNU Omnificent GUI for Ada
@@ -124,7 +124,7 @@ A curated list of awesome resources and other links related to the Ada programmi
 - [ahven](http://ahven.stronglytyped.org/) - Ahven is a simple unit test library and framework for the Ada programming
 lanugage.  It is loosely modelled after JUnit and some ideas from AUnit.
 - [aunit](http://libre.adacore.com/tools/aunit/) - Ada unit testing framework
-- [Testing](https://github.com/Entomy/Testing) - Ada unit testing and measuring framework
+- [testing](https://github.com/Entomy/Testing) - Ada unit testing and measuring framework
 
 #### Logging
 - [alog](https://www.codelabs.ch/alog/) - Alog is a stackable logging framework for Ada
@@ -182,7 +182,7 @@ lanugage.  It is loosely modelled after JUnit and some ideas from AUnit.
 - [ini-file-manager](https://sourceforge.net/projects/ini-files) - The Ini file manager consists of a package, Config, which can read and modify informations from various configuration files known as "ini" files.
 - [ada-yaml](https://github.com/yaml/AdaYaml) - Experimental YAML 1.3 implementation in Ada
 - [json-ada](https://github.com/onox/json-ada) - An Ada 2012 library for parsing JSON
-- [JWX](https://github.com/Componolit/jwx) - A formally verified JSON library in SPARK
+- [jwx](https://github.com/Componolit/jwx) - A formally verified JSON library in SPARK
 - [xmlada](https://github.com/AdaCore/xmlada) - The XML/Ada toolkit
 - [xml-ez-out](http://www.mckae.com/xmlEz.html) - Library for emitting XML from Ada programs
 - [spark-xml](https://github.com/Componolit/SXML) - A formally verified XML library in SPARK
