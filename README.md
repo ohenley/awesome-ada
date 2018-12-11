@@ -23,6 +23,7 @@ A curated list of awesome resources and other links related to the Ada and SPARK
 - <img height="50px" width="36px" hspace="10px" src="https://assets.cambridge.org/97805211/97168/cover/9780521197168.jpg">[Building Parallel, Embedded, and Real-Time Applications with Ada](https://www.cambridge.org/core/books/building-parallel-embedded-and-real-time-applications-with-ada/9FC78A90F1B6A2228D69E32CE610A66C) - Concurrency, Distributed
 - <img height="50px" width="36px" hspace="10px" src="https://images-na.ssl-images-amazon.com/images/I/41HIwJp0ktL._SX336_BO1,204,203,200_.jpg">[Analysable Real-Time Systems: Programmed in Ada](https://www.amazon.com/Analysable-Real-Time-Systems-Programmed-Ada/dp/1530265509/ref=sr_1_2?ie=UTF8&qid=1544540272&sr=8-2&keywords=ada+programming+language) - Scheduling
 - <img height="50px" width="36px" hspace="10px" src="https://assets.cambridge.org/97811076/56840/cover/9781107656840.jpg">[Building High Integrity Applications with SPARK](https://www.cambridge.org/core/books/building-high-integrity-applications-with-spark/F213D9867D2E271F5FF3EDA765D48E95) - Formal verification
+- <img height="50px" width="36px" hspace="10px" src="https://static.lulu.com/browse/product_thumbnail.php?productId=22614818&resolution=320">[Ada and SPARK on ARM Cortex-M](http://www.lulu.com/shop/maciej-sobczak/ada-and-spark-on-arm-cortex-m/paperback/product-22614818.html) - Embedded
 
 #### Tutorials
 - [spark-by-example](https://github.com/tofgarion/spark-by-example) - Collection of verified functions and data types in SPARK
@@ -68,6 +69,7 @@ A curated list of awesome resources and other links related to the Ada and SPARK
 - [gnat-coverage](https://github.com/AdaCore/gnatcoverage) - GNATcoverage is a tool to analyze and report program coverage
 - [adacontrol](http://www.adalog.fr/en/adacontrol.html) - Ada constructs lint tool
 - [spark-2014](https://github.com/AdaCore/spark2014/) - SPARK formal verification toolset
+- [fmt](http://www.inspirel.com/fmt/) - Formal Methods Toolkit is a set of extension packages for Mathematica, supporting software engineering activities related to modeling, verification and Ada code generation
 
 ## Deployment
 
@@ -229,7 +231,7 @@ lanugage.  It is loosely modelled after JUnit and some ideas from AUnit.
 - [lines-of-code](http://www.christ-usch-grein.homepage.t-online.de/Ada/Utilities.html) - Count the lines of code of an Ada program
 - [auto-counters](https://github.com/jhumphry/auto_counters) - Reference counting approaches to resource management
 - [ada-stream-tools](https://github.com/persan/a-stream-tools.git) - Stream utilities for Ada2005 and 2012 
-- [ssprep](https://github.com/persan/ssprep.git) An extensible template engine akin to jinja but using [template-parser](https://github.com/AdaCore/templates-parser) and intended for command line usage.
+- [ssprep](https://github.com/persan/ssprep.git) - An extensible template engine akin to jinja but using [template-parser](https://github.com/AdaCore/templates-parser) and intended for command line usage.
 ## Hardware/Embedded
 
 #### Frameworks
@@ -313,4 +315,4 @@ lanugage.  It is loosely modelled after JUnit and some ideas from AUnit.
 - [win32ada](https://github.com/AdaCore/win32ada) - Ada API to the Windows library
 - [wposix](https://github.com/AdaCore/wposix) - Ada Windows POSIX binding
 - [lalg](https://github.com/jhumphry/LALG) - Interface to dense linear algebra packages
-- [zeromq-ada](https://github.com/persan/zeromq-Ada.git) Binding to the ZeroMQ comunications-library.
+- [zeromq-ada](https://github.com/persan/zeromq-Ada.git) - Binding to the ZeroMQ comunications-library.
