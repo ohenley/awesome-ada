@@ -55,7 +55,7 @@ A curated list of awesome resources and other links related to the Ada programmi
 ## Tools
 
 - [gnat-coverage](https://github.com/AdaCore/gnatcoverage) - GNATcoverage is a tool to analyze and report program coverage
-- [adacontrol](http://www.adalog.fr) - Ada constructs lint tool
+- [adacontrol](http://www.adalog.fr/en/adacontrol.html) - Ada constructs lint tool
 - [spark-2014](https://github.com/AdaCore/spark2014/) - SPARK formal verification toolset
 
 ## Deployment
