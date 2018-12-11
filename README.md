@@ -30,6 +30,7 @@ A curated list of awesome resources and other links related to the Ada programmi
 - [gnu-emacs-ada-mode](http://www.nongnu.org/ada-mode/) - Gnu Emacs major-mode for editing Ada sources
 - [vim-ada-bundle](https://www.vim.org/scripts/script.php?script_id=1609) - Ada Bundle : Complete Ada-Mode as Vim-Ball or Tar.bz2
 - [ada-tmbundle](https://github.com/textmate/ada.tmbundle) - TextMate support for Ada
+- [ada-vscode](https://marketplace.visualstudio.com/items?itemName=Entomy.ada) - VisualStudio Code support for Ada
 
 ## Deployment
 
@@ -92,6 +93,7 @@ and the Modeling framework.
 - [ahven](http://ahven.stronglytyped.org/) - Ahven is a simple unit test library and framework for the Ada programming
 lanugage.  It is loosely modelled after JUnit and some ideas from AUnit.
 - [aunit](http://libre.adacore.com/tools/aunit/) - Ada unit testing framework
+- [Testing](https://github.com/Entomy/Testing) - Ada unit testing and measuring framework
 
 #### Logging
 - [alog](https://www.codelabs.ch/alog/) - Alog is a stackable logging framework for Ada
@@ -103,6 +105,8 @@ lanugage.  It is loosely modelled after JUnit and some ideas from AUnit.
 - [mathpaqs](http://mathpaqs.sourceforge.net/) - Mathpaqs is a collection of mathematical, 100% portable, packages in the Ada programming language
 - [amatrix](https://github.com/jklmnn/amatrix) - Matrix implementation in Ada
 - [polynomials](http://www.christ-usch-grein.homepage.t-online.de/Ada/Polynomials.html) - This package allows formal manipulation of polynomials of several variables
+- [Numerics](https://github.com/Entomy/Numerics) - Provides numerous improvements to numerical handling in Ada, mostly through additional types
+- [Mathematics](https://github.com/Entomy/Mathematics) - Collection of Ada packages for mathematics, includes things like distributive algebra, angular algebra, and more
 
 #### Algorithms, containers and protocols
 - [ada-traits-containers](https://github.com/AdaCore/ada-traits-containers) - Generic Ada Library for Algorithms and Containers
@@ -119,6 +123,7 @@ lanugage.  It is loosely modelled after JUnit and some ideas from AUnit.
 - [ada-language-server](https://github.com/AdaCore/ada_language_server) - prototype implementation of the Microsoft Language Server Protocol for Ada/SPARK
 - [smart-pointers](http://www.christ-usch-grein.homepage.t-online.de/Ada/Smart_Pointers.html) - A package providing a reference-counted access type Smart_Pointer
 - [marsaglia-random-number-generator](http://www.christ-usch-grein.homepage.t-online.de/Ada/Marsaglia.html) - Ada implementation of the algorithm developed by George Marsaglia, Supercomputer Computations Research Institute, Florida State University.
+- [Containers](https://github.com/Entomy/Containers) - Collection of containers for Ada
 
 #### Science
 - [landscape](http://www.christ-usch-grein.homepage.t-online.de/Ada/Landscape.html) - A library to plot functions of two real variables
