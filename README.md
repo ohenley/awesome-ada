@@ -98,7 +98,7 @@ lanugage.  It is loosely modelled after JUnit and some ideas from AUnit.
 ## Libraries
 
 #### Math
-- [math_packages](https://github.com/jscparker/math_packages) - Collection of basic math routines in Ada
+- [math-packages](https://github.com/jscparker/math_packages) - Collection of basic math routines in Ada
 - [mathpaqs](http://mathpaqs.sourceforge.net/) - Mathpaqs is a collection of mathematical, 100% portable, packages in the Ada programming language
 - [amatrix](https://github.com/jklmnn/amatrix) - Matrix implementation in Ada
 - [polynomials](http://www.christ-usch-grein.homepage.t-online.de/Ada/Polynomials.html) - This package allows formal manipulation of polynomials of several variables
