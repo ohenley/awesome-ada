@@ -210,7 +210,6 @@ lanugage.  It is loosely modelled after JUnit and some ideas from AUnit.
 - [anet](https://www.codelabs.ch/anet/) - Anet is a networking library for the Ada programming language.
 - [adasockets](http://www.rfc1149.net/devel/adasockets.html) - IPv4 socket library (TCP, UDP, and multicast)
 - [adhcp](https://codelabs.ch/adhcp/index.html) - ADHCP is an implementation of the DHCP protocol in Ada
-- [zeromq-Ada](https://github.com/persan/zeromq-Ada.git) Binding to the 0MQ comunications-library.
 
 #### Web
 - [template-parser](https://github.com/AdaCore/templates-parser) - AWS templates engine.
@@ -229,8 +228,8 @@ lanugage.  It is loosely modelled after JUnit and some ideas from AUnit.
 - [colorize](http://www.christ-usch-grein.homepage.t-online.de/Ada/Utilities.html) - Presentation of tokens of an Ada program in different colors
 - [lines-of-code](http://www.christ-usch-grein.homepage.t-online.de/Ada/Utilities.html) - Count the lines of code of an Ada program
 - [auto-counters](https://github.com/jhumphry/auto_counters) - Reference counting approaches to resource management
-- [a-stream-tools](https://github.com/persan/a-stream-tools.git) - use Ada.Streams in memory ore record writes on disk... 
-- [ssprep](https://github.com/persan/ssprep.git) a template engine a like jinja but its using [template_parser] as engine and is intended for command line usage.
+- [ada-stream-tools](https://github.com/persan/a-stream-tools.git) - Stream utilities for Ada2005 and 2012 
+- [ssprep](https://github.com/persan/ssprep.git) An extensible template engine akin to jinja but using [template-parser](https://github.com/AdaCore/templates-parser) and intended for command line usage.
 ## Hardware/Embedded
 
 #### Frameworks
@@ -242,8 +241,8 @@ lanugage.  It is loosely modelled after JUnit and some ideas from AUnit.
 #### Drivers
 - [ada-drivers-library](https://github.com/AdaCore/Ada_Drivers_Library) - Ada drivers for various MCU and sensors
 - [embrick](https://github.com/it-cosmos/emBRICK) - emBRICK driver and support for emBRICK in Ada
-- [decawave-dw1000](https://github.com/damaki/DW1000) - Ada/SPARK driver for the DecaWave DW1000 ultra-wideband (UWB) radio chip
-- [decawave-evb1000](https://github.com/damaki/EVB1000) - Ada/SPARK drivers to control the on-board peripherals of the DecaWave EVB1000 evaluation board
+- [dw1000](https://github.com/damaki/DW1000) - Ada/SPARK driver for the DecaWave DW1000 ultra-wideband (UWB) radio chip
+- [evb1000](https://github.com/damaki/EVB1000) - Ada/SPARK drivers to control the on-board peripherals of the DecaWave EVB1000 evaluation board
 
 #### Controllers
 - [solenoid-engine-controller](https://github.com/Fabien-Chouteau/solenoid-engine-controller) - Software controller for solenoid engines (Ada/STM32F4)
@@ -314,3 +313,4 @@ lanugage.  It is loosely modelled after JUnit and some ideas from AUnit.
 - [win32ada](https://github.com/AdaCore/win32ada) - Ada API to the Windows library
 - [wposix](https://github.com/AdaCore/wposix) - Ada Windows POSIX binding
 - [lalg](https://github.com/jhumphry/LALG) - Interface to dense linear algebra packages
+- [zeromq-ada](https://github.com/persan/zeromq-Ada.git) Binding to the ZeroMQ comunications-library.
