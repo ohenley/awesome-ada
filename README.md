@@ -193,7 +193,7 @@ lanugage.  It is loosely modelled after JUnit and some ideas from AUnit.
 - [apdf](https://apdf.sourceforge.io/) - Ada package for producing easily and automatically PDF files, from an Ada program, with text, vector graphics, images (JPEG)
 - [ada-midi](https://github.com/frett27/Ada-Midi) - Implementation of Midi / MidiFile reading and writing
 - [ada-bar-codes](https://sourceforge.net/projects/ada-bar-codes) - Ada Bar Codes provides a package for generating various types of bar codes (1D, or 2D like QR codes) on different output formats, such as PDF or SVG.
-- [ada-bin2asc] - Various binary-to-ASCII codecs such as Base64
+- [ada-bin2asc](https://github.com/jhumphry/Ada_BinToAsc) - Various binary-to-ASCII codecs such as Base64
 
 #### Network
 - [anet](https://www.codelabs.ch/anet/) - Anet is a networking library for the Ada programming language.
