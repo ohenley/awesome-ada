@@ -176,7 +176,7 @@ lanugage.  It is loosely modelled after JUnit and some ideas from AUnit.
 - [spark-norx](https://github.com/jhumphry/SPARK_NORX) - Ada/SPARK implementation of the NORX Authenticated Encryption with Additional Data Algorithm
 - [reqrep-task-pools](https://github.com/jhumphry/Reqrep_Task_Pools) - Task pool system for jobs
 - [hungarian-algorithm](https://github.com/fastrgv/HungarianAlgorithm) - Hungarian Algorithm implementation in Ada
-- [STOTP](https://github.com/jklmnn/STOTP) - Timed One-Time-Pad (RFC 6238) implementation in SPARK
+- [stotp](https://github.com/jklmnn/STOTP) - Timed One-Time-Pad (RFC 6238) implementation in SPARK
 
 #### Science
 - [landscape](http://www.christ-usch-grein.homepage.t-online.de/Ada/Landscape.html) - A library to plot functions of two real variables
@@ -276,7 +276,6 @@ lanugage.  It is loosely modelled after JUnit and some ideas from AUnit.
 - [azip](https://azip.sourceforge.io) - A free, portable Zip Archive Manager
 - [texcad](https://texcad.sourceforge.io) - TeXCAD is a program for drawing or retouching {picture}s in LaTeX.
 - [cbsg](http://cbsg.sf.net) - The Corporate Bullshit Generator
-- [STOTP](https://github.com/jklmnn/STOTP) - Time based one time pad (TOTP) written in SPARK
 
 #### Web
 - [ironsides](http://ironsides.martincarlisle.com) - Authoritative DNS server verified by SPARK/Ada
