@@ -230,7 +230,7 @@ lanugage.  It is loosely modelled after JUnit and some ideas from AUnit.
 - [colorize](http://www.christ-usch-grein.homepage.t-online.de/Ada/Utilities.html) - Presentation of tokens of an Ada program in different colors
 - [lines-of-code](http://www.christ-usch-grein.homepage.t-online.de/Ada/Utilities.html) - Count the lines of code of an Ada program
 - [auto-counters](https://github.com/jhumphry/auto_counters) - Reference counting approaches to resource management
-- [ada-stream-tools](https://github.com/persan/a-stream-tools.git) - Stream utilities for Ada2005 and 2012 
+- [ada-stream-tools](https://github.com/persan/a-stream-tools.git) - Stream utilities for Ada2005 and 2012
 - [ssprep](https://github.com/persan/ssprep.git) - An extensible template engine akin to jinja but using [template-parser](https://github.com/AdaCore/templates-parser) and intended for command line usage.
 ## Hardware/Embedded
 
@@ -275,6 +275,7 @@ lanugage.  It is loosely modelled after JUnit and some ideas from AUnit.
 - [azip](https://azip.sourceforge.io) - A free, portable Zip Archive Manager
 - [texcad](https://texcad.sourceforge.io) - TeXCAD is a program for drawing or retouching {picture}s in LaTeX.
 - [cbsg](http://cbsg.sf.net) - The Corporate Bullshit Generator
+- [STOTP](https://github.com/jklmnn/STOTP) - Time based one time pad (TOTP) written in SPARK
 
 #### Web
 - [ironsides](http://ironsides.martincarlisle.com) - Authoritative DNS server verified by SPARK/Ada
