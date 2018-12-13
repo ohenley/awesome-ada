@@ -6,6 +6,11 @@
 
 A curated list of awesome resources and other links related to the Ada and SPARK programming language.
 
+## Presentation
+<div align="center">
+<img src="https://img.youtube.com/vi/yUqJkAZofZs/1.jpg">(https://www.youtube.com/embed/yUqJkAZofZs)
+</div>
+
 ## Education
 
 #### Online
