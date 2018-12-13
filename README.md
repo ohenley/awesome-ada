@@ -7,7 +7,15 @@
 A curated list of awesome resources and other links related to the Ada and SPARK programming language.
 
 ## Presentation
-<div align="center">
+
+<style>
+.flex-container {
+  display: flex;
+  flex-wrap: nowrap;
+}
+</style>
+
+<div align="center" class="flex-container">
 
 <div>
 <a href="https://www.youtube.com/embed/yUqJkAZofZs">
