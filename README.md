@@ -31,12 +31,14 @@ A curated list of awesome resources and other links related to the Ada and SPARK
 ## Community
 
 #### Q&A
-- [comp-lang-ada](https://groups.google.com/forum/#!forum/comp.lang.ada) - Ada Google forum
+- [comp-lang-ada](https://groups.google.com/forum/#!forum/comp.lang.ada) - Ada Usenet newsgroup/forum hosted by Google
 - [stack-overflow-ada-tag](https://stackoverflow.com/questions/tagged/ada) - Ada at Stack Overflow
 
 #### News
 - [adacore-blog](https://blog.adacore.com/) - An Insight Into the AdaCore Ecosystem
 - [ada-programming](https://plus.google.com/u/0/communities/102688015980369378804) - Ada Google Plus Community
+- [ada-europe](http://www.ada-europe.org/) - Ada-Europe is an international organization, set up to promote the use of Ada
+- [acm-sig-ada](https://www.sigada.org/) - The Special Interest Group on Ada
 
 ## Compilers
 
