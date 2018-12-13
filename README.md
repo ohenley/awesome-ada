@@ -70,6 +70,7 @@ A curated list of awesome resources and other links related to the Ada and SPARK
 
 </details>
 
+<summary>Click to expand</summary>
 ## Presentation
 <div align="center">
 
