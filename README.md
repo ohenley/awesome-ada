@@ -45,7 +45,7 @@ A curated list of awesome resources and other links related to the Ada and SPARK
 	2. [Algorithms, Containers and Protocols](#Algorithms-Containers-and-Protocols)   
 	3. [Science](#Science)   
 	4. [Parsers, Scanners, Linters, Analysers and Prettyprinters](#Parsers-Scanners-Linters-Analysers-and-Prettyprinters)   
-	5. [Format, Readers and Writers](#Format-Readers-and-Writers)   
+	5. [Format Readers and Writers](#Format-Readers-and-Writers)   
 	6. [Network](#Network)   
 	7. [Web](#Web)   
 	8. [Multimedia](#Multimedia)   
@@ -279,7 +279,7 @@ lanugage.  It is loosely modelled after JUnit and some ideas from AUnit.
 - [ada-lexer](http://www.christ-usch-grein.homepage.t-online.de/Ada/Lexer.html) - A lexical analyzer written in Ada, which transforms a stream of characters representing an Ada program into a stream of language specific tokens
 - [parse-args](https://github.com/jhumphry/parse_args) - Simple command-line argument parsing
 
-#### Format, Reader and Writer
+#### Format Readers and Writers
 - [ini-file-manager](https://sourceforge.net/projects/ini-files) - The Ini file manager consists of a package, Config, which can read and modify informations from various configuration files known as "ini" files.
 - [ada-yaml](https://github.com/yaml/AdaYaml) - Experimental YAML 1.3 implementation in Ada
 - [json-ada](https://github.com/onox/json-ada) - An Ada 2012 library for parsing JSON
