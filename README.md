@@ -65,7 +65,7 @@ A curated list of awesome resources and other links related to the Ada and SPARK
 	3. [Multimedia](#Multimedia)   
 	4. [Automation](#Automation)   
 	5. [Simulation](#Simulation)   
-	6. [Generators and Translators](#Generators and Translators)   
+	6. [Generators and Translators](#Generators-and-Translators)   
 15. [Bindings](#Bindings)   
 
 </details>
