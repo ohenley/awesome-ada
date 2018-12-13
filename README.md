@@ -8,7 +8,7 @@ A curated list of awesome resources and other links related to the Ada and SPARK
 
 ## Presentation
 <div align="center" style="width:400px">
-<table>
+<table border="0">
   <tr>
     <th>
 	<a href="https://www.youtube.com/embed/yUqJkAZofZs">
