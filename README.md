@@ -6,6 +6,84 @@
 
 A curated list of awesome resources and other links related to the Ada and SPARK programming language.
 
+## Table of Contents
+<details>
+<summary>Click to expand</summary>
+	
+1 [Presentation](#Presentation)
+
+2 [Education](#Education)
+	i [Online](#Online)
+	ii [Books](#Books)
+	iii [Tutorials](#Tutorials)
+
+3 [Community](#Community)
+	i [Q&A](#Q&A)
+	ii [News](#News)
+	iii [Competition](#Competition)
+
+4 [Compilers](#Compilers)
+	i [Local](#Local)
+	ii [Online](#Online)
+
+5 [Editors](#Editors)
+	i [Integrated Development Editor](#Integrated Development Editor)
+	ii [Text] Mode(#Text)
+
+6 [Tools](#Tools)
+
+7 [Deployment](#Deployment)
+	i [Package/Build](#Package/Build)
+	ii [Continuous Integration](#Continuous Integration)
+
+8 [Runtimes](#Runtimes)
+
+9 [OS/Kernel](#OS/Kernel)
+
+10 [Games](#Games)
+
+11 [Frameworks](#Frameworks)
+	i [Components](#Components)
+	ii [Distributed](#Distributed)
+	iii [Graphical User Interface](#Graphical User Interface)
+	iv [3D](#3D)
+	v [Web](#Web)
+	vi [Unit Test](#Unit Test)
+	vii [Logging](#Logging)
+
+12 [Libraries](#Libraries)
+	i [Math](#Math)
+	ii [Algorithms, containers and protocols](#Algorithms, containers and protocols)
+	iii [Science](#Science)
+	iv [Parsers/scanners/linters/analysers/prettyprinters](#Parsers/scanners/linters/analysers/prettyprinters)
+	v [Format reader/writer](#Format reader/writer)
+	vi [Network](#Network)
+	vii [Web](#Web)
+	viii [Multimedia](#Multimedia)
+	ix [Localization](#Localization)
+	x [Utilities](#Utilities)
+
+13 [Hardware/Embedded](#Hardware/Embedded)
+	i [Frameworks](#Frameworks)
+	ii [Firmware](#Firmware)
+	iii [Drivers](#Drivers)
+	iv [Controllers](#Controllers)
+	v [Libraries](#Libraries)
+	vi [Applications](#Applications)
+	vii [Bindings](#Bindings)
+
+14 [Applications](#Applications)
+	i [Office](#Office)
+	ii [Web](#Web)
+	iii [Multimedia](#Multimedia)
+	iv [Automation](#Automation)
+	v [Simulation](#Simulation)
+	vi [Generators/Translator](#Generators/Translator)
+
+15 [Bindings](#Bindings)
+
+</details>
+
 ## Presentation
 <div align="center">
 
