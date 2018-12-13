@@ -42,20 +42,20 @@ A curated list of awesome resources and other links related to the Ada and SPARK
 	7. [Logging](#Logging)   
 12. [Libraries](#Libraries)   
 	1. [Math](#Math)   
-	2. [Algorithms, Containers and Protocols](#Algorithms,-Containers-and-Protocols)   
+	2. [Algorithms, Containers and Protocols](#Algorithms-Containers-and-Protocols)   
 	3. [Science](#Science)   
-	4. [Parsers, Scanners, Linters, Analysers and Prettyprinters](#Parsers,-Scanners,-Linters,-Analysers-and-Prettyprinters)   
-	5. [Format, Readers and Writers](#Format,-Readers-and-Writers)   
+	4. [Parsers, Scanners, Linters, Analysers and Prettyprinters](#Parsers-Scanners-Linters-Analysers-and-Prettyprinters)   
+	5. [Format, Readers and Writers](#Format-Readers-and-Writers)   
 	6. [Network](#Network)   
 	7. [Web](#Web)   
 	8. [Multimedia](#Multimedia)   
 	9. [Localization](#Localization)   
-	10. [Utility](#Utility)   
+	10. [Utilities](#Utilities)   
 13. [Hardware and Embedded](#Hardware-and-Embedded)   
 	1. [Frameworks](#Frameworks)   
 	2. [Firmwares](#Firmwares)   
-	3. [Drivers](#Drivesr)   
-	4. [Controllers](#Controllesr)   
+	3. [Drivers](#Drivers)   
+	4. [Controllers](#Controllers)   
 	5. [Libraries](#Libraries)   
 	6. [Applications](#Applications)   
 	7. [Bindings](#Bindings)   
@@ -325,7 +325,7 @@ lanugage.  It is loosely modelled after JUnit and some ideas from AUnit.
 #### Frameworks
 - [robotics-with-ada](https://github.com/AdaCore/Robotics_with_Ada) - Robotics with Ada, ARM, and Lego
 
-#### Firmware
+#### Firmwares
 - [certiflie](https://github.com/AdaCore/Certyflie) - Source code for the full Ada + SPARK Crazyflie 2.0 firmware
 
 #### Drivers
