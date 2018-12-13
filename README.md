@@ -8,30 +8,23 @@ A curated list of awesome resources and other links related to the Ada and SPARK
 
 ## Presentation
 
-<style>
-.flex-container {
-  display: flex;
-  flex-wrap: nowrap;
-}
-</style>
+<div align="center">
 
-<div align="center" class="flex-container">
-
-<div>
+<div width="120">
 <a href="https://www.youtube.com/embed/yUqJkAZofZs">
 <img border="0" src="https://img.youtube.com/vi/yUqJkAZofZs/1.jpg">
 <div align="center">Community</div>
 </a>
 </div>
 	
-<div>
+<div width="120">
 <a href="https://www.youtube.com/embed/3e-BGblAMC4">
 <img border="0" src="https://img.youtube.com/vi/3e-BGblAMC4/2.jpg">	
 <div align="center">Adacore</div>
 </a>
 </div>
 
-<div>
+<div width="120">
 <a href="https://www.youtube.com/embed/0yXwnk8Cr0c">
 <img border="0" src="https://img.youtube.com/vi/0yXwnk8Cr0c/3.jpg">
 <div align="center">MIT</div>
