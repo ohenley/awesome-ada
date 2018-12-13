@@ -7,30 +7,7 @@
 A curated list of awesome resources and other links related to the Ada and SPARK programming language.
 
 ## Presentation
-<div align="center" style="width:400px">
-<table border="0">
-  <tr>
-    <th>
-	<a href="https://www.youtube.com/embed/yUqJkAZofZs">
-	    <img border="0" src="https://img.youtube.com/vi/yUqJkAZofZs/1.jpg" style="max-width:100%;">
-	    <div align="center">Community</div>
-	</a>
-    </th>
-    <th>
-	<a href="https://www.youtube.com/embed/3e-BGblAMC4">
-	<img border="0" src="https://img.youtube.com/vi/3e-BGblAMC4/2.jpg" style="max-width:100%;">	
-	<div align="center">Adacore</div>
-	</a>
-    </th> 
-    <th>
-	<a href="https://www.youtube.com/embed/0yXwnk8Cr0c">
-	<img border="0" src="https://img.youtube.com/vi/0yXwnk8Cr0c/3.jpg" style="max-width:100%;">
-	<div align="center">MIT</div>
-	</a>
-    </th>
-  </tr>
-</table>
-</div>
+
 
 ## Education
 
