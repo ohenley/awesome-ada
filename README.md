@@ -19,8 +19,6 @@ A curated list of awesome resources and other links related to the Ada and SPARK
 </a>
 </div>
 
-
-
 ## Education
 
 #### Online
@@ -44,6 +42,14 @@ A curated list of awesome resources and other links related to the Ada and SPARK
 - [spark-by-example](https://github.com/tofgarion/spark-by-example) - Collection of verified functions and data types in SPARK
 
 ## Community
+
+#### Competition
+
+<div align="center">
+<a href="https://www.makewithada.org/">
+<img border="0" width="200px" src="https://www.makewithada.org/_ui2017/mwac2018.svg">
+</a>
+</div>
 
 #### Q&A
 - [comp-lang-ada](https://groups.google.com/forum/#!forum/comp.lang.ada) - Ada Usenet newsgroup/forum hosted by Google
