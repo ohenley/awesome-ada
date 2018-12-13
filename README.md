@@ -27,10 +27,10 @@ A curated list of awesome resources and other links related to the Ada and SPARK
 	2. [Text Modes](#Text-Modes)   
 6. [Tools](#Tools)   
 7. [Deployment](#Deployment)   
-	1. [Package/Build](#Package/Build)   
+	1. [Build and Package](#Build-and-Package)   
 	2. [Continuous Integration](#Continuous-Integration)   
 8. [Runtimes](#Runtimes)   
-9. [OS/Kernels](#OS/Kernels)   
+9. [OS and Kernels](#OS-and-Kernels)   
 10. [Games](#Games)   
 11. [Frameworks](#Frameworks)   
 	1. [Components](#Components)   
@@ -42,16 +42,16 @@ A curated list of awesome resources and other links related to the Ada and SPARK
 	7. [Logging](#Logging)   
 12. [Libraries](#Libraries)   
 	1. [Math](#Math)   
-	2. [Algorithms, containers and protocols](#Algorithms, containers and protocols)   
+	2. [Algorithms, Containers and Protocols](#Algorithms,-Containers-and-Protocols)   
 	3. [Science](#Science)   
-	4. [Parsers/scanners/linters/analysers/prettyprinters](#Parsers/scanners/linters/analysers/prettyprinters)   
-	5. [Format reader/writer](#Format-reader/writer)   
+	4. [Parsers, Scanners, Linters, Analysers and Prettyprinters](#Parsers,-Scanners,-Linters,-Analysers-and-Prettyprinters)   
+	5. [Format, Readers and Writers](#Format,-Readers-and-Writers)   
 	6. [Network](#Network)   
 	7. [Web](#Web)   
 	8. [Multimedia](#Multimedia)   
 	9. [Localization](#Localization)   
 	10. [Utility](#Utility)   
-13. [Hardware/Embedded](#Hardware/Embedded)   
+13. [Hardware and Embedded](#Hardware-and-Embedded)   
 	1. [Frameworks](#Frameworks)   
 	2. [Firmwares](#Firmwares)   
 	3. [Drivers](#Drivesr)   
@@ -65,7 +65,7 @@ A curated list of awesome resources and other links related to the Ada and SPARK
 	3. [Multimedia](#Multimedia)   
 	4. [Automation](#Automation)   
 	5. [Simulation](#Simulation)   
-	6. [Generators/Translators](#Generators/Translators)   
+	6. [Generators and Translators](#Generators and Translators)   
 15. [Bindings](#Bindings)   
 
 </details>
@@ -146,7 +146,7 @@ A curated list of awesome resources and other links related to the Ada and SPARK
 #### Integrated Development Editor
 - [gps](https://github.com/AdaCore/gps) - The GNAT Programming Studio.
 
-#### Text Mode
+#### Text Modes
 - [gnu-emacs-ada-mode](http://www.nongnu.org/ada-mode/) - Gnu Emacs major-mode for editing Ada sources
 - [vim-ada-bundle](https://www.vim.org/scripts/script.php?script_id=1609) - Ada Bundle : Complete Ada-Mode as Vim-Ball or Tar.bz2
 - [ada-tmbundle](https://github.com/textmate/ada.tmbundle) - TextMate support for Ada
@@ -161,7 +161,7 @@ A curated list of awesome resources and other links related to the Ada and SPARK
 
 ## Deployment
 
-#### Package/Build
+#### Build and Package
 - [gprbuild](https://github.com/AdaCore/gprbuild) - Adacore multi-language software build tool
 - [ravenadm](https://github.com/jrmarino/ravenadm) - Administration tool for Ravenports http://www.ravenports.com
 - [alire](https://github.com/alire-project/alire) - A catalog of ready-to-use Ada libraries plus a command-line tool (alr) to obtain, compile, and incorporate them into your own projects. It aims to fulfill a similar role to Rust's cargo or OCaml's opam
@@ -176,7 +176,7 @@ A curated list of awesome resources and other links related to the Ada and SPARK
 - [embedded-runtimes](https://github.com/AdaCore/embedded-runtimes) - Runtimes that add support for various boards to the GNAT GPL compiler for ARM
 - [avr-ada](https://sourceforge.net/projects/avr-ada) - GNAT for 8-bit AVR microcontrollers
 
-## OS/Kernel
+## OS and Kernels
 - [marte-os](https://marte.unican.es/) - MaRTE OS is a Hard Real-Time Operating System for embedded applications that follows the Minimal Real-Time POSIX.13 subset. It provides an easy to use and controlled environment to develop Multi-Thread Real-Time applications.
 - [muen](https://muen.codelabs.ch/) - An x86/64 Separation Kernel for High Assurance
 - [ewok](https://github.com/wookey-project/ewok-kernel) - EwoK is a microkernel targeting micro-controllers and embedded systems
@@ -240,7 +240,7 @@ lanugage.  It is loosely modelled after JUnit and some ideas from AUnit.
 - [numerics](https://github.com/Entomy/Numerics) - Provides numerous improvements to numerical handling in Ada, mostly through additional types
 - [mathematics](https://github.com/Entomy/Mathematics) - Collection of Ada packages for mathematics, includes things like distributive algebra, angular algebra, and more
 
-#### Algorithms, containers and protocols
+#### Algorithms, Containers and Protocols
 - [ada-traits-containers](https://github.com/AdaCore/ada-traits-containers) - Generic Ada Library for Algorithms and Containers
 - [pragmarc](https://github.com/jrcarter/PragmARC) - PragmAda Reusable Components (PragmARCs) from PragmAda S/W Engineering
 - [libadacrypt](https://github.com/cforler/Ada-Crypto-Library) - This is a crypto library for Ada with a nice API and is written for the i386 and x86_64 hardware architecture
@@ -268,7 +268,7 @@ lanugage.  It is loosely modelled after JUnit and some ideas from AUnit.
 - [landscape](http://www.christ-usch-grein.homepage.t-online.de/Ada/Landscape.html) - A library to plot functions of two real variables
 - [si-units](http://www.christ-usch-grein.homepage.t-online.de/Ada/Dimension/SI.html) - A set of Ada packages to compute with dimensioned items in full generality
 
-#### Parsers/scanners/linters/analysers/prettyprinters
+#### Parsers, Scanners, Linters, Analysers and Prettyprinters
 - [libadalang](https://github.com/AdaCore/libadalang/) - Libadalang is a library for parsing and semantic analysis of Ada code. It is meant as a building block for integration into other tools. (IDE, static analyzers, etc.)
 - [aflex-ayacc](http://thiberlog.free.fr/) - Ada95 scanner and parser generators
 - [opentoken](http://stephe-leake.org/ada/opentoken.html) - Lexical analyser and parser for the Ada language
@@ -279,7 +279,7 @@ lanugage.  It is loosely modelled after JUnit and some ideas from AUnit.
 - [ada-lexer](http://www.christ-usch-grein.homepage.t-online.de/Ada/Lexer.html) - A lexical analyzer written in Ada, which transforms a stream of characters representing an Ada program into a stream of language specific tokens
 - [parse-args](https://github.com/jhumphry/parse_args) - Simple command-line argument parsing
 
-#### Format reader/writer
+#### Format, Reader and Writer
 - [ini-file-manager](https://sourceforge.net/projects/ini-files) - The Ini file manager consists of a package, Config, which can read and modify informations from various configuration files known as "ini" files.
 - [ada-yaml](https://github.com/yaml/AdaYaml) - Experimental YAML 1.3 implementation in Ada
 - [json-ada](https://github.com/onox/json-ada) - An Ada 2012 library for parsing JSON
@@ -319,7 +319,8 @@ lanugage.  It is loosely modelled after JUnit and some ideas from AUnit.
 - [auto-counters](https://github.com/jhumphry/auto_counters) - Reference counting approaches to resource management
 - [ada-stream-tools](https://github.com/persan/a-stream-tools.git) - Stream utilities for Ada2005 and 2012
 - [ssprep](https://github.com/persan/ssprep.git) - An extensible template engine akin to jinja but using [template-parser](https://github.com/AdaCore/templates-parser) and intended for command line usage.
-## Hardware/Embedded
+
+## Hardware and Embedded
 
 #### Frameworks
 - [robotics-with-ada](https://github.com/AdaCore/Robotics_with_Ada) - Robotics with Ada, ARM, and Lego
@@ -375,7 +376,7 @@ lanugage.  It is loosely modelled after JUnit and some ideas from AUnit.
 #### Simulation
 - [parallel-sim](https://github.com/JulianSchutsch/ParallelSim) - Distributed Simulation of Transport Networks
 
-#### Generators/translator
+#### Generators and Translators
 - [adabrowse](http://home.datacomm.ch/t_wolf/tw/ada95/adabrowse) - HTML generator for Ada95 library unit specs
 - [coldframe](https://github.com/simonjwright/coldframe) - ColdFrame generates Ada framework code and documentation from UML models
 - [p2ada](http://p2ada.sourceforge.net/) - A Pascal to Ada translator
