@@ -10,11 +10,11 @@ A curated list of awesome resources and other links related to the Ada and SPARK
 <details>
 <summary>Click to expand</summary>
 	
-1 [Presentation](#presentation)
-2 [Education](#education)
-	1 [Online](#online)
-	2 [Books](#books)
-	3 [Tutorials](#tutorials)
+1. [Presentation](#presentation)
+2. [Education](#education)
+	1. [Online](#online)
+	2. [Books](#books)
+	3. [Tutorials](#tutorials)
 </details>
 
 ## Presentation
