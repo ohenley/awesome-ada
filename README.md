@@ -7,8 +7,8 @@
 A curated list of awesome resources and other links related to the Ada and SPARK programming language.
 
 ## Presentation
-<center>
-<table style="width:400px">
+<div align="center" style="width:400px">
+<table>
   <tr>
     <th>
 	<a href="https://www.youtube.com/embed/yUqJkAZofZs">
@@ -30,7 +30,7 @@ A curated list of awesome resources and other links related to the Ada and SPARK
     </th>
   </tr>
 </table>
-</center>
+</div>
 
 ## Education
 
