@@ -45,7 +45,7 @@ A curated list of awesome resources and other links related to the Ada and SPARK
 
 #### Competition
 <a href="https://www.makewithada.org/">
-<img width="150px" src="https://www.makewithada.org/_ui2017/mwac2018.svg"
+<img width="200px" src="https://www.makewithada.org/_ui2017/mwac2018.svg"
 </a>
 
 #### Q&A
