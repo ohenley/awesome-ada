@@ -15,7 +15,8 @@ A curated list of awesome resources and other links related to the Ada and SPARK
 <img border="0" src="https://img.youtube.com/vi/3e-BGblAMC4/2.jpg">	
 </a>
 <a href="https://www.youtube.com/embed/0yXwnk8Cr0c">
-<img border="0" src="https://img.youtube.com/vi/0yXwnk8Cr0c/3.jpg">	
+<img border="0" src="https://img.youtube.com/vi/0yXwnk8Cr0c/3.jpg">
+<div align="center">MIT</div>
 </a>
 </div>
 
