@@ -9,6 +9,7 @@ A curated list of awesome resources and other links related to the Ada and SPARK
 ## Table of Contents
 <details>
 <summary>Click to expand</summary>
+	
 1. [Presentation](#Presentation)   
 2. [Education](#Education)   
 	1. [Online](#Online)   
@@ -66,6 +67,7 @@ A curated list of awesome resources and other links related to the Ada and SPARK
 	5. [Simulation](#Simulation)   
 	6. [Generators/Translator](#Generators/Translator)   
 15. [Bindings](#Bindings)   
+
 </details>
 
 ## Presentation
