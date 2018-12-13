@@ -1,55 +1,35 @@
 <div align="center">
 	<img width="333px"  src="awesome_ada_logo.svg" alt="Awesome">
-</div>
+
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 A curated list of awesome resources and other links related to the Ada and SPARK programming language.
 
 ## Presentation
-
+<div align="center">
 <table style="width:100%">
   <tr>
-    <th><a href="https://www.youtube.com/embed/yUqJkAZofZs">
-<img border="0" src="https://img.youtube.com/vi/yUqJkAZofZs/1.jpg" style="max-width:100%;">
-<div align="center">Community</div>
-</a></th>
-    <th><a href="https://www.youtube.com/embed/yUqJkAZofZs">
-<img border="0" src="https://img.youtube.com/vi/yUqJkAZofZs/1.jpg" style="max-width:100%;">
-<div align="center">Community</div>
-</a></th> 
-    <th><a href="https://www.youtube.com/embed/yUqJkAZofZs">
-<img border="0" src="https://img.youtube.com/vi/yUqJkAZofZs/1.jpg" style="max-width:100%;">
-<div align="center">Community</div>
-</a></th>
+    <th>
+	<a href="https://www.youtube.com/embed/yUqJkAZofZs">
+	    <img border="0" src="https://img.youtube.com/vi/yUqJkAZofZs/1.jpg" style="max-width:100%;">
+	    <div align="center">Community</div>
+	</a>
+    </th>
+    <th>
+	<a href="https://www.youtube.com/embed/3e-BGblAMC4">
+	<img border="0" src="https://img.youtube.com/vi/3e-BGblAMC4/2.jpg" style="max-width:100%;">	
+	<div align="center">Adacore</div>
+	</a>
+    </th> 
+    <th>
+	<a href="https://www.youtube.com/embed/0yXwnk8Cr0c">
+	<img border="0" src="https://img.youtube.com/vi/0yXwnk8Cr0c/3.jpg" style="max-width:100%;">
+	<div align="center">MIT</div>
+	</a>
+    </th>
   </tr>
 </table>
-
-
-<div align="center" style="display: flex;justify-content: center;">
-
-<div>
-<a href="https://www.youtube.com/embed/yUqJkAZofZs">
-<img border="0" src="https://img.youtube.com/vi/yUqJkAZofZs/1.jpg" style="max-width:100%;">
-<div align="center">Community</div>
-</a>
-</div>
-
-<div>
-<a href="https://www.youtube.com/embed/3e-BGblAMC4">
-<img border="0" src="https://img.youtube.com/vi/3e-BGblAMC4/2.jpg" style="max-width:100%;">	
-<div align="center">Adacore</div>
-</a>
-</div>
-
-<div>
-<a href="https://www.youtube.com/embed/0yXwnk8Cr0c">
-<img border="0" src="https://img.youtube.com/vi/0yXwnk8Cr0c/3.jpg" style="max-width:100%;">
-<div align="center">MIT</div>
-</a>
-</div>
-
-
 </div>
 
 ## Education
