@@ -47,7 +47,7 @@ A curated list of awesome resources and other links related to the Ada and SPARK
 
 <div align="center">
 <a href="https://www.makewithada.org/">
-<img border="1px" width="200px" src="https://www.makewithada.org/_ui2017/mwac2018.svg">
+<img border="1px solid black" width="200px" src="https://www.makewithada.org/_ui2017/mwac2018.svg">
 </a>
 </div>
 
