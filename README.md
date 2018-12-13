@@ -11,48 +11,26 @@ A curated list of awesome resources and other links related to the Ada and SPARK
 <div align="center" style="display: flex;justify-content: center;">
 
 <div>
-<a href="https://www.youtube.com/embed/yUqJkAZofZs" rel="nofollow">
-<img border="0" src="https://camo.githubusercontent.com/4265b0fdb96a50f97af6e3124aa2c84ae28d7a9b/68747470733a2f2f696d672e796f75747562652e636f6d2f76692f7955714a6b415a6f665a732f312e6a7067" data-canonical-src="https://img.youtube.com/vi/yUqJkAZofZs/1.jpg" style="max-width:100%;">
-<div align="center">Community</div>
-</a>
-</div>
-
-<div>
-<a href="https://www.youtube.com/embed/3e-BGblAMC4" rel="nofollow">
-<img border="0" src="https://camo.githubusercontent.com/d98300cc9d1663fe0423d796d3c7997da4f3626d/68747470733a2f2f696d672e796f75747562652e636f6d2f76692f33652d4247626c414d43342f322e6a7067" data-canonical-src="https://img.youtube.com/vi/3e-BGblAMC4/2.jpg" style="max-width:100%;">	
-<div align="center">Adacore</div>
-</a>
-</div>
-
-<div>
-<a href="https://www.youtube.com/embed/0yXwnk8Cr0c" rel="nofollow">
-<img border="0" src="https://camo.githubusercontent.com/3a9e1ac3b6b2c70e738683f26e34b0ea1e44ece8/68747470733a2f2f696d672e796f75747562652e636f6d2f76692f307958776e6b38437230632f332e6a7067" data-canonical-src="https://img.youtube.com/vi/0yXwnk8Cr0c/3.jpg" style="max-width:100%;">
-<div align="center">MIT</div>
-</a>
-</div>
-
-</div>
-
-<div style="display: inline-block; width: 120px;">
 <a href="https://www.youtube.com/embed/yUqJkAZofZs">
-<img border="0" src="https://img.youtube.com/vi/yUqJkAZofZs/1.jpg">
+<img border="0" src="https://img.youtube.com/vi/yUqJkAZofZs/1.jpg" style="max-width:100%;">
 <div align="center">Community</div>
 </a>
 </div>
-	
-<div style="display: inline-block; width: 120px;">
+
+<div>
 <a href="https://www.youtube.com/embed/3e-BGblAMC4">
-<img border="0" src="https://img.youtube.com/vi/3e-BGblAMC4/2.jpg">	
+<img border="0" src="https://img.youtube.com/vi/3e-BGblAMC4/2.jpg" style="max-width:100%;">	
 <div align="center">Adacore</div>
 </a>
 </div>
 
-<div style="display: inline-block; width: 120px;">
+<div>
 <a href="https://www.youtube.com/embed/0yXwnk8Cr0c">
-<img border="0" src="https://img.youtube.com/vi/0yXwnk8Cr0c/3.jpg">
+<img border="0" src="https://img.youtube.com/vi/0yXwnk8Cr0c/3.jpg" style="max-width:100%;">
 <div align="center">MIT</div>
 </a>
 </div>
+
 
 </div>
 
