@@ -8,6 +8,24 @@ A curated list of awesome resources and other links related to the Ada and SPARK
 
 ## Presentation
 
+<table style="width:100%">
+  <tr>
+    <th><a href="https://www.youtube.com/embed/yUqJkAZofZs">
+<img border="0" src="https://img.youtube.com/vi/yUqJkAZofZs/1.jpg" style="max-width:100%;">
+<div align="center">Community</div>
+</a></th>
+    <th><a href="https://www.youtube.com/embed/yUqJkAZofZs">
+<img border="0" src="https://img.youtube.com/vi/yUqJkAZofZs/1.jpg" style="max-width:100%;">
+<div align="center">Community</div>
+</a></th> 
+    <th><a href="https://www.youtube.com/embed/yUqJkAZofZs">
+<img border="0" src="https://img.youtube.com/vi/yUqJkAZofZs/1.jpg" style="max-width:100%;">
+<div align="center">Community</div>
+</a></th>
+  </tr>
+</table>
+
+
 <div align="center" style="display: flex;justify-content: center;">
 
 <div>
