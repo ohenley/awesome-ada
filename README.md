@@ -16,7 +16,7 @@ A curated list of awesome resources and other links related to the Ada and SPARK
 	2. [Books](#Books)   
 	3. [Tutorials](#Tutorials)   
 3. [Community](#Community)   
-	1. [Q&A](#Q&A)   
+	1. [Questions and Answers](#Questions-and-Answers)   
 	2. [News](#News)   
 	3. [Competition](#Competition)   
 4. [Compilers](#Compilers)   
@@ -42,7 +42,7 @@ A curated list of awesome resources and other links related to the Ada and SPARK
 	7. [Logging](#Logging)   
 12. [Libraries](#Libraries)   
 	1. [Math](#Math)   
-	2. [Algorithm, container and protocol](#Algorithm, container and protocol)   
+	2. [Algorithms, containers and protocols](#Algorithms, containers and protocols)   
 	3. [Science](#Science)   
 	4. [Parsers/scanners/linters/analysers/prettyprinters](#Parsers/scanners/linters/analysers/prettyprinters)   
 	5. [Format reader/writer](#Format-reader/writer)   
@@ -111,7 +111,7 @@ A curated list of awesome resources and other links related to the Ada and SPARK
 
 ## Community
 
-#### Q&A
+#### Questions and Answers
 - [comp-lang-ada](https://groups.google.com/forum/#!forum/comp.lang.ada) - Ada Usenet newsgroup/forum hosted by Google
 - [stack-overflow-ada-tag](https://stackoverflow.com/questions/tagged/ada) - Ada at Stack Overflow
 
