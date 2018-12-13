@@ -47,11 +47,6 @@ A curated list of awesome resources and other links related to the Ada and SPARK
 
 ## Community
 
-#### Competition
-<a href="https://www.makewithada.org/">
-<img width="200px" src="https://www.makewithada.org/_ui2017/mwac2018.svg"
-</a>
-
 #### Q&A
 - [comp-lang-ada](https://groups.google.com/forum/#!forum/comp.lang.ada) - Ada Usenet newsgroup/forum hosted by Google
 - [stack-overflow-ada-tag](https://stackoverflow.com/questions/tagged/ada) - Ada at Stack Overflow
@@ -61,6 +56,11 @@ A curated list of awesome resources and other links related to the Ada and SPARK
 - [ada-programming](https://plus.google.com/u/0/communities/102688015980369378804) - Ada Google Plus Community
 - [ada-europe](http://www.ada-europe.org/) - Ada-Europe is an international organization, set up to promote the use of Ada
 - [acm-sig-ada](https://www.sigada.org/) - The Special Interest Group on Ada
+
+#### Competition
+<a href="https://www.makewithada.org/">
+<img width="200px" src="https://www.makewithada.org/_ui2017/mwac2018.svg"
+</a>
 
 ## Compilers
 
