@@ -9,39 +9,28 @@ A curated list of awesome resources and other links related to the Ada and SPARK
 ## Table of Contents
 <details>
 <summary>Click to expand</summary>
-	
 1. [Presentation](#Presentation)
-
 2. [Education](#Education)
 	1. [Online](#Online)
 	2. [Books](#Books)
 	3. [Tutorials](#Tutorials)
-
 3. [Community](#Community)
 	1. [Q&A](#Q&A)
 	2. [News](#News)
 	3. [Competition](#Competition)
-
 4. [Compilers](#Compilers)
 	1. [Local](#Local)
 	2. [Online](#Online)
-
 5. [Editors](#Editors)
 	1. [Integrated Development Editor](#Integrated Development Editor)
 	2. [Text] Mode(#Text)
-
 6. [Tools](#Tools)
-
 7. [Deployment](#Deployment)
 	1. [Package/Build](#Package/Build)
 	2. [Continuous Integration](#Continuous Integration)
-
 8. [Runtimes](#Runtimes)
-
 9. [OS/Kernel](#OS/Kernel)
-
 10. [Games](#Games)
-
 11. [Frameworks](#Frameworks)
 	1. [Components](#Components)
 	2. [Distributed](#Distributed)
@@ -50,7 +39,6 @@ A curated list of awesome resources and other links related to the Ada and SPARK
 	5. [Web](#Web)
 	6. [Unit Test](#Unit Test)
 	7. [Logging](#Logging)
-
 12. [Libraries](#Libraries)
 	1. [Math](#Math)
 	2. [Algorithms, containers and protocols](#Algorithms, containers and protocols)
@@ -62,7 +50,6 @@ A curated list of awesome resources and other links related to the Ada and SPARK
 	8. [Multimedia](#Multimedia)
 	9. [Localization](#Localization)
 	10. [Utilities](#Utilities)
-
 13. [Hardware/Embedded](#Hardware/Embedded)
 	1. [Frameworks](#Frameworks)
 	2. [Firmware](#Firmware)
@@ -71,7 +58,6 @@ A curated list of awesome resources and other links related to the Ada and SPARK
 	5. [Libraries](#Libraries)
 	6. [Applications](#Applications)
 	7. [Bindings](#Bindings)
-
 14. [Applications](#Applications)
 	1. [Office](#Office)
 	2. [Web](#Web)
@@ -79,7 +65,6 @@ A curated list of awesome resources and other links related to the Ada and SPARK
 	4. [Automation](#Automation)
 	5. [Simulation](#Simulation)
 	6. [Generators/Translator](#Generators/Translator)
-
 15. [Bindings](#Bindings)
 </details>
 
