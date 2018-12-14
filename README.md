@@ -129,8 +129,8 @@ A curated list of awesome resources and other links related to the Ada and SPARK
 ## Compilers
 
 #### Local
-- [fsf-gnat](http://www.getadanow.com/) - Free Software Foundation compiler for the Ada programming language which forms part of the GNU Compiler Collection. It supports all versions of the language, i.e. Ada 2012, Ada 2005, Ada 95 and Ada 83
 - [gnat-ce](https://www.adacore.com/download) - Adacore compiler for the Ada programming language which forms part of the GNU Compiler Collection. It supports all versions of the language, i.e. Ada 2012, Ada 2005, Ada 95 and Ada 83
+- [fsf-gnat](http://www.getadanow.com/) - Free Software Foundation compiler for the Ada programming language which forms part of the GNU Compiler Collection. It supports all versions of the language, i.e. Ada 2012, Ada 2005, Ada 95 and Ada 83
 - [janus-ada](http://www.rrsoftware.com/html/prodinf/janus95/j-ada95.htm) - Compiler supporting the complete syntax and features of the Ada 95 programming language
 - [object-ada](https://www.ptc.com/en/products/developer-tools/objectada) - PTC ObjectAda is an extensive family of native and cross development tools and runtime environments
 - [apex-ada](https://www.ptc.com/en/products/developer-tools/apexada) - PTC ApexAda is one of the industry’s most popular development environments for Ada and mixed Ada/C/C++ applications
