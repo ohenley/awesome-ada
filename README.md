@@ -39,7 +39,9 @@ A curated list of awesome resources and other links related to the Ada and SPARK
 	5. [Web](#Web)   
 	6. [Unit Test](#Unit-Test)   
 	7. [Logging](#Logging)
-11. [Tools](#Tools)  
+11. [Tools](#Tools) 
+	1. [Verification](#Verification)   
+	2. [Generation](#Generation)   
 12. [Libraries](#Libraries)   
 	1. [Math](#Math)   
 	2. [Algorithms, Containers and Protocols](#Algorithms-Containers-and-Protocols)   
@@ -226,9 +228,14 @@ lanugage.  It is loosely modelled after JUnit and some ideas from AUnit.
 
 ## Tools
 
+#### Verification
 - [gnat-coverage](https://github.com/AdaCore/gnatcoverage) - GNATcoverage is a tool to analyze and report program coverage
 - [adacontrol](http://www.adalog.fr/en/adacontrol.html) - Ada constructs lint tool
 - [spark-2014](https://github.com/AdaCore/spark2014/) - SPARK formal verification toolset
+
+#### Generation
+- [asn1scc](https://github.com/ttsiodras/asn1scc) - ASN1SCC: An open source ASN.1 generator to Ada type declarations and encoders/decoders
+- [ocarina](https://github.com/OpenAADL/ocarina) - AADL model processor: mappings to Ada code; Petri Nets; scheduling tools (MAST, Cheddar); WCET; REAL
 - [fmt](http://www.inspirel.com/fmt/) - Formal Methods Toolkit is a set of extension packages for Mathematica, supporting software engineering activities related to modeling, verification and Ada code generation
 
 ## Libraries
