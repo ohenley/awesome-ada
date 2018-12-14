@@ -24,22 +24,22 @@ A curated list of awesome resources and other links related to the Ada and SPARK
 	2. [Online](#Online)   
 5. [Editors](#Editors)   
 	1. [Integrated Development Editors](#Integrated-Development-Editor)   
-	2. [Text Modes](#Text-Modes)   
-6. [Tools](#Tools)   
-7. [Deployment](#Deployment)   
+	2. [Text Modes](#Text-Modes)    
+6. [Deployment](#Deployment)   
 	1. [Build and Package](#Build-and-Package)   
 	2. [Continuous Integration](#Continuous-Integration)   
-8. [Runtimes](#Runtimes)   
-9. [OS and Kernels](#OS-and-Kernels)   
-10. [Games](#Games)   
-11. [Frameworks](#Frameworks)   
+7. [Runtimes](#Runtimes)   
+8. [OS and Kernels](#OS-and-Kernels)   
+9. [Games](#Games)   
+10. [Frameworks](#Frameworks)   
 	1. [Components](#Components)   
 	2. [Distributed](#Distributed)   
 	3. [Graphical User Interface](#Graphical-User-Interface)   
 	4. [3D](#3D)   
 	5. [Web](#Web)   
 	6. [Unit Test](#Unit-Test)   
-	7. [Logging](#Logging)   
+	7. [Logging](#Logging)
+11. [Tools](#Tools)  
 12. [Libraries](#Libraries)   
 	1. [Math](#Math)   
 	2. [Algorithms, Containers and Protocols](#Algorithms-Containers-and-Protocols)   
@@ -152,13 +152,6 @@ A curated list of awesome resources and other links related to the Ada and SPARK
 - [ada-tmbundle](https://github.com/textmate/ada.tmbundle) - TextMate support for Ada
 - [ada-vscode](https://marketplace.visualstudio.com/items?itemName=Entomy.ada) - VisualStudio Code support for Ada
 
-## Tools
-
-- [gnat-coverage](https://github.com/AdaCore/gnatcoverage) - GNATcoverage is a tool to analyze and report program coverage
-- [adacontrol](http://www.adalog.fr/en/adacontrol.html) - Ada constructs lint tool
-- [spark-2014](https://github.com/AdaCore/spark2014/) - SPARK formal verification toolset
-- [fmt](http://www.inspirel.com/fmt/) - Formal Methods Toolkit is a set of extension packages for Mathematica, supporting software engineering activities related to modeling, verification and Ada code generation
-
 ## Deployment
 
 #### Build and Package
@@ -230,6 +223,13 @@ lanugage.  It is loosely modelled after JUnit and some ideas from AUnit.
 
 #### Logging
 - [alog](https://www.codelabs.ch/alog/) - Alog is a stackable logging framework for Ada
+
+## Tools
+
+- [gnat-coverage](https://github.com/AdaCore/gnatcoverage) - GNATcoverage is a tool to analyze and report program coverage
+- [adacontrol](http://www.adalog.fr/en/adacontrol.html) - Ada constructs lint tool
+- [spark-2014](https://github.com/AdaCore/spark2014/) - SPARK formal verification toolset
+- [fmt](http://www.inspirel.com/fmt/) - Formal Methods Toolkit is a set of extension packages for Mathematica, supporting software engineering activities related to modeling, verification and Ada code generation
 
 ## Libraries
 
