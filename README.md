@@ -270,6 +270,7 @@ lanugage.  It is loosely modelled after JUnit and some ideas from AUnit.
 - [reqrep-task-pools](https://github.com/jhumphry/Reqrep_Task_Pools) - Task pool system for jobs
 - [hungarian-algorithm](https://github.com/fastrgv/HungarianAlgorithm) - Hungarian Algorithm implementation in Ada
 - [stotp](https://github.com/jklmnn/STOTP) - Timed One-Time-Pad (RFC 6238) implementation in SPARK
+- [sal](http://www.stephe-leake.org/ada/sal.html) - SAL (Stephe's Ada Library)
 
 #### Science
 - [landscape](http://www.christ-usch-grein.homepage.t-online.de/Ada/Landscape.html) - A library to plot functions of two real variables
