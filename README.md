@@ -138,6 +138,7 @@ A curated list of awesome resources and other links related to the Ada and SPARK
 - [apex-ada](https://www.ptc.com/en/products/developer-tools/apexada) - PTC ApexAda is one of the industry’s most popular development environments for Ada and mixed Ada/C/C++ applications
 - [greenhills-ada](https://www.ghs.com/products/ada_optimizing_compilers.html) - Green Hills Software offers the industry's first, fully validated family of Ada Cross Compilers for real-time targets
 - [hac](https://sourceforge.net/projects/hacadacompiler/) - Experimental Ada compiler fully in Ada
+- [byron](https://github.com/OneWingedShark/Byron) - The Byron project is a community-driven Ada compiler, toolchain, and IDE-system
 
 #### Online
 - [tutorials-point-ada-compiler](https://www.tutorialspoint.com/compile_ada_online.php) - Online compiler built on the CodingGround engine
