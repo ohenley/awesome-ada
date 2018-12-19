@@ -92,8 +92,6 @@ A curated list of awesome resources and other links related to the Ada and SPARK
 </div>
 
 ## Education
-<details>
-<summary>Click to expand</summary>
 
 #### Entry Point
 - [learn](https://learn.adacore.com/) - Interactive learning platform designed to teach the Ada and SPARK programming languages
@@ -123,8 +121,6 @@ A curated list of awesome resources and other links related to the Ada and SPARK
 
 #### Reference
 - [iso-standard](http://www.ada-auth.org/standards/ada12.html) - The 2012 revision to the Ada Standard, usually known as Ada 2012
-
-</details>
 
 ## Community
 
