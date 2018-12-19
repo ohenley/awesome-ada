@@ -160,8 +160,7 @@ A curated list of awesome resources and other links related to the Ada and SPARK
 ## Editors
 
 #### Integrated Development Editor
-
-<img width="120px" hspace="10px" src="http://docs.adacore.com/live/wave/gps/html/gps_ug/_images/gps-main-window.png"> [gps](https://github.com/AdaCore/gps) - The GNAT Programming Studio
+<img width="120px" hspace="10px" src="http://docs.adacore.com/live/wave/gps/html/gps_ug/_images/gps-main-window.png"> [The GNAT Programming Studio](https://github.com/AdaCore/gps)
 
 #### Text Modes
 - [gnu-emacs-ada-mode](http://www.nongnu.org/ada-mode/) - Gnu Emacs major-mode for editing Ada sources
