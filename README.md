@@ -114,7 +114,7 @@ A curated list of awesome resources and other links related to the Ada and SPARK
 ## Community
 
 #### Questions and Answers
-- [comp-lang-ada](https://groups.google.com/forum/#!forum/comp.lang.ada) - Ada Usenet newsgroup/forum hosted by Google
+- [comp-lang-ada](https://groups.google.com/forum/#!forum/comp.lang.ada) - Ada Usenet newsgroup/forum
 - [stack-overflow-ada-tag](https://stackoverflow.com/questions/tagged/ada) - Ada at Stack Overflow
 
 #### News
