@@ -96,6 +96,7 @@ A curated list of awesome resources and other links related to the Ada and SPARK
 - [gems](https://www.adacore.com/gems/) - Ada Gem Archive
 - [ada-wikibook](https://en.wikibooks.org/wiki/Ada_Programming) - Ada Programming tutorial at Wikibooks
 - [iso-standard](http://www.ada-auth.org/standards/ada12.html) - The 2012 revision to the Ada Standard, usually known as Ada 2012
+- [ada-ic](http://www.adaic.org/learn/materials/) - For additional learning resources, see the AdaIC learning section
 
 #### Books
 <img height="50px" width="36px" hspace="10px" src="https://assets.cambridge.org/97811074/24814/cover/9781107424814.jpg">[Programming in Ada 2012](https://www.cambridge.org/core/books/programming-in-ada-2012/55B998B4E908A017E4D74A87364FF224#) - Comprehensive  
@@ -133,7 +134,7 @@ A curated list of awesome resources and other links related to the Ada and SPARK
 #### Local
 - [gnat-ce](https://www.adacore.com/download) - Adacore compiler for the Ada programming language which forms part of the GNU Compiler Collection. It supports all versions of the language, i.e. Ada 2012, Ada 2005, Ada 95 and Ada 83
 - [fsf-gnat](http://www.getadanow.com/) - Free Software Foundation compiler for the Ada programming language which forms part of the GNU Compiler Collection. It supports all versions of the language, i.e. Ada 2012, Ada 2005, Ada 95 and Ada 83
-- [janus-ada](http://www.rrsoftware.com/html/prodinf/janus95/j-ada95.htm) - Compiler supporting the complete syntax and features of the Ada 95 programming language
+- [janus-ada](http://www.rrsoftware.com/html/prodinf/janus95/j-ada95.htm) - Compiler supporting all the major features of the Ada 83, 95, 2005 and 2012 versions of the language
 - [object-ada](https://www.ptc.com/en/products/developer-tools/objectada) - PTC ObjectAda is an extensive family of native and cross development tools and runtime environments
 - [apex-ada](https://www.ptc.com/en/products/developer-tools/apexada) - PTC ApexAda is one of the industry’s most popular development environments for Ada and mixed Ada/C/C++ applications
 - [greenhills-ada](https://www.ghs.com/products/ada_optimizing_compilers.html) - Green Hills Software offers the industry's first, fully validated family of Ada Cross Compilers for real-time targets
@@ -375,6 +376,9 @@ lanugage.  It is loosely modelled after JUnit and some ideas from AUnit.
 - [azip](https://azip.sourceforge.io) - A free, portable Zip Archive Manager
 - [texcad](https://texcad.sourceforge.io) - TeXCAD is a program for drawing or retouching {picture}s in LaTeX.
 - [cbsg](http://cbsg.sf.net) - The Corporate Bullshit Generator
+
+#### Mail
+- [trash-finder](http://www.rrsoftware.com/html/prodinf/tf/tf-main.html)
 
 #### Web
 - [ironsides](http://ironsides.martincarlisle.com) - Authoritative DNS server verified by SPARK/Ada
