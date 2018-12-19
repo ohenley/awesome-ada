@@ -381,7 +381,7 @@ lanugage.  It is loosely modelled after JUnit and some ideas from AUnit.
 - [cbsg](http://cbsg.sf.net) - The Corporate Bullshit Generator
 
 #### Mail
-- [trash-finder](http://www.rrsoftware.com/html/prodinf/tf/tf-main.html)
+- [trash-finder](http://www.rrsoftware.com/html/prodinf/tf/tf-main.html) - Trash Finder is a mail filter that operates as a plugin for your mail server, providing filtering on dozens of criteria along with management of known good mail
 
 #### Web
 - [ironsides](http://ironsides.martincarlisle.com) - Authoritative DNS server verified by SPARK/Ada
