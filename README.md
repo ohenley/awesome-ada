@@ -12,9 +12,10 @@ A curated list of awesome resources and other links related to the Ada and SPARK
 	
 1. [Presentation](#Presentation)   
 2. [Education](#Education)   
-	1. [Online](#Online)   
+	1. [Tutorials](#Tutorials)   
 	2. [Books](#Books)   
-	3. [Tutorials](#Tutorials)   
+	3. [Specialties](#Specialties)
+	4. [Reference](#Reference)
 3. [Community](#Community)   
 	1. [Questions and Answers](#Questions-and-Answers)   
 	2. [News and Resources](#News-and-Resources)   
@@ -91,12 +92,14 @@ A curated list of awesome resources and other links related to the Ada and SPARK
 
 ## Education
 
-#### Online
 - [learn](https://learn.adacore.com/) - Interactive learning platform designed to teach the Ada and SPARK programming languages
-- [gems](https://www.adacore.com/gems/) - Ada Gem Archive
+
+#### Tutorials
+- [adacore-video-tutorials](https://www.youtube.com/playlist?list=PLkoa8uxigENkneyEEeDWVPgpMhPc9IJ7o) - AdaCore University Video Tutorials
+- [ada-crash-course](http://www.pchapin.org/VTC/TutorialAda/AdaCrash.pdf) - Ada 2012 crash course under 50 pages from Vermont Technical College
 - [ada-wikibook](https://en.wikibooks.org/wiki/Ada_Programming) - Ada Programming tutorial at Wikibooks
-- [iso-standard](http://www.ada-auth.org/standards/ada12.html) - The 2012 revision to the Ada Standard, usually known as Ada 2012
-- [ada-ic](http://www.adaic.org/learn/materials/) - For additional learning resources, see the AdaIC learning section
+- [simple-games](https://drive.google.com/file/d/1hdLc9nZzTnBDcN9qJeDlJm1F9IL91Lvi/view) - Learning Ada 2012 by writing simple games
+- [spark-by-example](https://github.com/tofgarion/spark-by-example) - Collection of verified functions and data types in SPARK
 
 #### Books
 <img height="50px" width="36px" hspace="10px" src="https://assets.cambridge.org/97811074/24814/cover/9781107424814.jpg">[Programming in Ada 2012](https://www.cambridge.org/core/books/programming-in-ada-2012/55B998B4E908A017E4D74A87364FF224#) - Comprehensive  
@@ -110,11 +113,12 @@ A curated list of awesome resources and other links related to the Ada and SPARK
 <img height="50px" width="36px" hspace="10px" src="https://assets.cambridge.org/97811076/56840/cover/9781107656840.jpg">[Building High Integrity Applications with SPARK](https://www.cambridge.org/core/books/building-high-integrity-applications-with-spark/F213D9867D2E271F5FF3EDA765D48E95) - Formal verification  
 <img height="50px" width="36px" hspace="10px" src="https://static.lulu.com/browse/product_thumbnail.php?productId=22614818&resolution=320">[Ada and SPARK on ARM Cortex-M](http://www.lulu.com/shop/maciej-sobczak/ada-and-spark-on-arm-cortex-m/paperback/product-22614818.html) - Embedded  
 
-#### Tutorials
-- [adacore-video-tutorials](https://www.youtube.com/playlist?list=PLkoa8uxigENkneyEEeDWVPgpMhPc9IJ7o) - AdaCore University Video Tutorials
-- [ada-crash-course](http://www.pchapin.org/VTC/TutorialAda/AdaCrash.pdf) - Ada 2012 crash course under 50 pages from Vermont Technical College
-- [simple-games](https://drive.google.com/file/d/1hdLc9nZzTnBDcN9qJeDlJm1F9IL91Lvi/view) - Learning Ada 2012 by writing simple games
-- [spark-by-example](https://github.com/tofgarion/spark-by-example) - Collection of verified functions and data types in SPARK
+#### Specialties
+- [gems](https://www.adacore.com/gems/) - Ada Gem Archive
+- [ada-ic](http://www.adaic.org/learn/materials/) - For additional learning resources, see the AdaIC learning section
+
+#### Reference
+- [iso-standard](http://www.ada-auth.org/standards/ada12.html) - The 2012 revision to the Ada Standard, usually known as Ada 2012
 
 ## Community
 
