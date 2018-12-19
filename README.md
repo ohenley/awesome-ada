@@ -17,7 +17,7 @@ A curated list of awesome resources and other links related to the Ada and SPARK
 	3. [Tutorials](#Tutorials)   
 3. [Community](#Community)   
 	1. [Questions and Answers](#Questions-and-Answers)   
-	2. [News and Initiatives](#News-and-Initiatives)   
+	2. [News and Resources](#News-and-Resources)   
 	3. [Competition](#Competition)   
 4. [Compilers](#Compilers)   
 	1. [Local](#Local)   
@@ -118,7 +118,7 @@ A curated list of awesome resources and other links related to the Ada and SPARK
 - [comp-lang-ada](https://groups.google.com/forum/#!forum/comp.lang.ada) - Ada Usenet newsgroup/forum
 - [stack-overflow-ada-tag](https://stackoverflow.com/questions/tagged/ada) - Ada at Stack Overflow
 
-#### News and Initiatives
+#### News and Resources
 - [adacore-blog](https://blog.adacore.com/) - An Insight Into the AdaCore Ecosystem
 - [ada-programming](https://plus.google.com/u/0/communities/102688015980369378804) - Ada Google Plus Community
 - [ada-europe](http://www.ada-europe.org/) - Ada-Europe is an international organization, set up to promote the use of Ada
