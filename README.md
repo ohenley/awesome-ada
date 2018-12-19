@@ -120,7 +120,7 @@ A curated list of awesome resources and other links related to the Ada and SPARK
 - [ada-ic](http://www.adaic.org/learn/materials/) - For additional learning resources, see the AdaIC learning section
 
 #### Reference
-- [iso-standard](http://www.ada-auth.org/standards/ada12.html) - The 2012 revision to the Ada Standard, usually known as Ada 2012
+- [iso-standard](http://www.ada-auth.org/standards/ada12_w_tc1.html) - The 2012 revision to the Ada Standard, usually known as Ada 2012
 
 ## Community
 
