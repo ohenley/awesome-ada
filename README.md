@@ -11,7 +11,7 @@ Ada is driving our space ships, our airplanes and our military
 Ada is arguably one of the most powerful language of all time   
 Ada can drive your next project   
 
-                 Long live Ada.
+                Long live Ada.
 ```
 
 </div>
