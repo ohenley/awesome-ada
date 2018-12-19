@@ -450,3 +450,7 @@ lanugage.  It is loosely modelled after JUnit and some ideas from AUnit.
 - [wposix](https://github.com/AdaCore/wposix) - Ada Windows POSIX binding
 - [lalg](https://github.com/jhumphry/LALG) - Interface to dense linear algebra packages
 - [zeromq-ada](https://github.com/persan/zeromq-Ada.git) - Binding to the ZeroMQ comunications-library.
+
+## License
+
+[![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
