@@ -11,7 +11,8 @@ A curated list of awesome resources and other links related to the Ada and SPARK
 <summary>Click to expand</summary>
 	
 1. [Presentation](#Presentation)   
-2. [Education](#Education)   
+2. [Education](#Education)  
+	1. [Entry Point](#Entry-Point)
 	1. [Tutorials](#Tutorials)   
 	2. [Books](#Books)   
 	3. [Specialties](#Specialties)
@@ -92,7 +93,8 @@ A curated list of awesome resources and other links related to the Ada and SPARK
 
 ## Education
 
-- [learn](https://learn.adacore.com/) - <span style="color:green">Interactive learning platform designed to teach the Ada and SPARK programming languages</span>
+#### Entry Point
+- [learn](https://learn.adacore.com/) - Interactive learning platform designed to teach the Ada and SPARK programming languages
 
 #### Tutorials
 - [adacore-video-tutorials](https://www.youtube.com/playlist?list=PLkoa8uxigENkneyEEeDWVPgpMhPc9IJ7o) - AdaCore University Video Tutorials
