@@ -92,7 +92,7 @@ A curated list of awesome resources and other links related to the Ada and SPARK
 
 ## Education
 
-- [learn](https://learn.adacore.com/) - Interactive learning platform designed to teach the Ada and SPARK programming languages
+- [learn](https://learn.adacore.com/) - <span style="color:green">Interactive learning platform designed to teach the Ada and SPARK programming languages</span>
 
 #### Tutorials
 - [adacore-video-tutorials](https://www.youtube.com/playlist?list=PLkoa8uxigENkneyEEeDWVPgpMhPc9IJ7o) - AdaCore University Video Tutorials
