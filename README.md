@@ -7,10 +7,10 @@
 <div align="center">
  
 ```
-Ada is driving our space ships, our airplanes and our military       
+Ada is driving our space ships, our airplanes and our military
+Ada is a direct competitor to Rust with 27 years ahead
 Ada is a direct competitor to C++ in terms of performance and depth      
 Ada is a direct competitor to Python in terms of expressiveness and analyzability
-Ada precedes Rust by decades
 Ada is arguably one of the most powerful language of all time      
 
 Ada can drive your next project           
