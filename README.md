@@ -7,12 +7,12 @@
 <div align="center">
  
 ```
-Ada is driving our space ships, our military and our airplanes.       
-Ada is a direct competitor to C++ in terms of performance and depth.      
-Ada is a direct competitor to Python for its expresiveness.      
-Ada is arguably one of the most powerful language of all time.      
+Ada is driving our space ships, our military and our airplanes       
+Ada is a direct competitor to C++ in terms of performance and depth      
+Ada is a direct competitor to Python for its expresiveness      
+Ada is arguably one of the most powerful language of all time      
 
-Ada can drive your next project.           
+Ada can drive your next project           
 
        Long live Ada.
 ```
