@@ -124,6 +124,7 @@ A curated list of awesome resources and other links related to the Ada and SPARK
 - [ada-europe](http://www.ada-europe.org/) - Ada-Europe is an international organization, set up to promote the use of Ada
 - [acm-sig-ada](https://www.sigada.org/) - The Special Interest Group on Ada
 - [ada-resource-association](http://www.adaic.org/community/) - Since 1990 the Ada Resource Association’s principal mission has been “To ensure continued success of Ada users and promote Ada use in the software industry.”
+- [ada-information-clearinghouse](http://www.adaic.org/) - News and resources for the Ada programming language
 
 #### Competition
 <a href="https://www.makewithada.org/">
