@@ -2,6 +2,7 @@
 	<img width="400px"  src="awesome_ada_logo.svg" alt="Awesome">
 </div>
 
+<br><br>
 
 <div align="center">
  
@@ -13,7 +14,7 @@ Ada is arguably one of the most powerful language of all time.
 
 Ada can drive your next project.           
 
-        Long live Ada.
+       Long live Ada.
 ```
 
 </div>
