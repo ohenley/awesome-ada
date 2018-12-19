@@ -79,17 +79,6 @@ A curated list of awesome resources and other links related to the Ada and SPARK
 
 
 <div align="center">
-	
-Ada is driving our space ships, our military and our airplanes. 
-Ada is a direct competitor to C++ in terms of performance and depth.
-Ada is a direct competitor to Python for its expresiveness.
-Ada is arguably one of the most powerful language of all time.
-
-Ada can drive your next project.
-
-Ada welcomes everyone. 
-
-Long live Ada. 
 
 <a href="https://www.youtube.com/embed/yUqJkAZofZs">
 <img border="0" src="https://img.youtube.com/vi/yUqJkAZofZs/1.jpg" style="max-width:100%;">
