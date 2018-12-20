@@ -1,5 +1,5 @@
 <div align="center">
-	<img width="400px"  src="awesome_ada_logo.svg" alt="Awesome">
+	<img width="400px"  src="https://github.com/ohenley/files/blob/master/awesome-ada/awesome_ada_logo.svg" alt="Awesome">
 </div>
 
 <br><br>
@@ -11,17 +11,17 @@ Ada is driving our space ships, our airplanes and our military
 Ada is arguably one of the most powerful language of all time   
 Ada can drive your next project   
 
-                Long live Ada.
+                                              Long live Ada.
 ```
 
 </div>
 
 <br><br>
 
-A curated list of awesome resources and other links related to the Ada and SPARK programming language      
+A curated list of awesome resources related to the Ada and SPARK programming language      
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-## Table of Contents
+## Contents
 <details>
 <summary>Click to expand</summary>
 	
@@ -85,7 +85,8 @@ A curated list of awesome resources and other links related to the Ada and SPARK
 	4. [Automation](#Automation)   
 	5. [Simulation](#Simulation)   
 	6. [Generators and Translators](#Generators-and-Translators)   
-15. [Bindings](#Bindings)   
+15. [Bindings](#Bindings)
+16. [License](#Licence)
 
 </details>
 
@@ -449,7 +450,7 @@ lanugage.  It is loosely modelled after JUnit and some ideas from AUnit.
 - [win32ada](https://github.com/AdaCore/win32ada) - Ada API to the Windows library
 - [wposix](https://github.com/AdaCore/wposix) - Ada Windows POSIX binding
 - [lalg](https://github.com/jhumphry/LALG) - Interface to dense linear algebra packages
-- [zeromq-ada](https://github.com/persan/zeromq-Ada.git) - Binding to the ZeroMQ comunications-library.
+- [zeromq-ada](https://github.com/persan/zeromq-Ada.git) - Binding to the ZeroMQ comunications-library.    
 
 ## License
 
