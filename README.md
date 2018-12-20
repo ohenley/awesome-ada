@@ -18,7 +18,7 @@ Ada can drive your next project
 
 <br><br>
 
-A curated list of awesome resources and other links related to the Ada and SPARK programming language      
+A curated list of awesome resources related to the Ada and SPARK programming language      
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 ## Contents
