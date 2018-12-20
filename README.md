@@ -1,5 +1,5 @@
 <div align="center">
-	<img width="400px"  src="awesome_ada_logo.svg" alt="Awesome">
+	<img width="400px"  src="https://github.com/ohenley/files/blob/master/awesome-ada/awesome_ada_logo.svg?raw=true" alt="Awesome">
 </div>
 
 <br><br>
