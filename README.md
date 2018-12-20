@@ -7,9 +7,9 @@
 <div align="center">
  
 ```
-Ada is driving our satellites, our aircrafts and our military equipment.   
+Ada is ticking our satellites, our aircrafts and our military equipment.   
 Ada is arguably one of the most powerful language of all time.   
-Ada can drive your next project.   
+Ada can deliver your next project.   
 
                                               Long live Ada/SPARK.
 ```
