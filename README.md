@@ -86,8 +86,7 @@ A curated list of awesome resources related to the Ada and SPARK programming lan
 	5. [Simulation](#Simulation)   
 	6. [Generators and Translators](#Generators-and-Translators)   
 15. [Bindings](#Bindings)
-16. [Contribution Guidelines](#Contribution-Guidelines)
-17. [License](#Licence)
+16. [License](#Licence)
 
 </details>
 
@@ -451,17 +450,7 @@ lanugage.  It is loosely modelled after JUnit and some ideas from AUnit.
 - [win32ada](https://github.com/AdaCore/win32ada) - Ada API to the Windows library
 - [wposix](https://github.com/AdaCore/wposix) - Ada Windows POSIX binding
 - [lalg](https://github.com/jhumphry/LALG) - Interface to dense linear algebra packages
-- [zeromq-ada](https://github.com/persan/zeromq-Ada.git) - Binding to the ZeroMQ comunications-library.
-
-## Contribution Guidelines
-
-This awesome list is a community effort. If you find an awesome Ada resource not listed here, please fork this repository, edit the README.md file and submit a pull request. You can do so directly here:  
-
-	1. Go to https://github.com/ohenley/awesome-ada/blob/master/README.md    
-	2. Look for the 'pen' icon at the top right of the page. Click on it.    
-	3. Edit the file.    
-	4. Describe the propose file change and click on the 'Propose file change' button to submit.    
-	5. I will review the changes and merge accordingly.    
+- [zeromq-ada](https://github.com/persan/zeromq-Ada.git) - Binding to the ZeroMQ comunications-library.    
 
 ## License
 
