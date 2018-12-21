@@ -62,14 +62,15 @@ A curated list of awesome resources related to the Ada and SPARK programming lan
 12. [Libraries](#Libraries)   
 	1. [Math](#Math)   
 	2. [Algorithms, Containers and Protocols](#Algorithms-Containers-and-Protocols)   
-	3. [Science](#Science)   
-	4. [Parsers, Scanners, Linters, Analysers and Prettyprinters](#Parsers-Scanners-Linters-Analysers-and-Prettyprinters)   
-	5. [Format Readers and Writers](#Format-Readers-and-Writers)   
-	6. [Network](#Network)   
-	7. [Web](#Web)   
-	8. [Multimedia](#Multimedia)   
-	9. [Localization](#Localization)   
-	10. [Utilities](#Utilities)   
+	3. [Patterns](#Patterns)   
+	4. [System Modeling](#System-Modeling)
+	5. [Parsers, Scanners, Linters, Analysers and Prettyprinters](#Parsers-Scanners-Linters-Analysers-and-Prettyprinters)   
+	6. [Format Readers and Writers](#Format-Readers-and-Writers)   
+	7. [Network](#Network)   
+	8. [Web](#Web)   
+	9. [Multimedia](#Multimedia)   
+	10. [Localization](#Localization)   
+	11. [Utilities](#Utilities)   
 13. [Hardware and Embedded](#Hardware-and-Embedded)   
 	1. [Frameworks](#Frameworks)   
 	2. [Firmwares](#Firmwares)   
@@ -256,6 +257,7 @@ A curated list of awesome resources related to the Ada and SPARK programming lan
 lanugage.  It is loosely modelled after JUnit and some ideas from AUnit.
 - [aunit](http://libre.adacore.com/tools/aunit/) - Ada unit testing framework.
 - [testing](https://github.com/Entomy/Testing) - Ada unit testing and measuring framework.
+- [gnatbdd](https://github.com/briot/gnatbdd) - Behavior Driven Development in Ada
 
 #### Logging
 - [alog](https://www.codelabs.ch/alog/) - Alog is a stackable logging framework for Ada.
@@ -280,6 +282,8 @@ lanugage.  It is loosely modelled after JUnit and some ideas from AUnit.
 - [polynomials](http://www.christ-usch-grein.homepage.t-online.de/Ada/Polynomials.html) - This package allows formal manipulation of polynomials of several variables.
 - [numerics](https://github.com/Entomy/Numerics) - Provides numerous improvements to numerical handling in Ada, mostly through additional types.
 - [mathematics](https://github.com/Entomy/Mathematics) - Collection of Ada packages for mathematics, includes things like distributive algebra, angular algebra, and more.
+- [landscape](http://www.christ-usch-grein.homepage.t-online.de/Ada/Landscape.html) - A library to plot functions of two real variables.
+- [si-units](http://www.christ-usch-grein.homepage.t-online.de/Ada/Dimension/SI.html) - A set of Ada packages to compute with dimensioned items in full generality.
 
 #### Algorithms, Containers and Protocols
 - [ada-traits-containers](https://github.com/AdaCore/ada-traits-containers) - Generic Ada Library for Algorithms and Containers.
@@ -301,16 +305,18 @@ lanugage.  It is loosely modelled after JUnit and some ideas from AUnit.
 - [ascon-spark](https://github.com/jhumphry/Ascon_SPARK) - Ada/SPARK implementation of the Ascon Authenticated Encryption with Additional Data Algorithm.
 - [spark-sip-hash](https://github.com/jhumphry/SPARK_SipHash) - Ada/SPARK implementation of the SipHash keyed hash function.
 - [spark-norx](https://github.com/jhumphry/SPARK_NORX) - Ada/SPARK implementation of the NORX Authenticated Encryption with Additional Data Algorithm.
-- [reqrep-task-pools](https://github.com/jhumphry/Reqrep_Task_Pools) - Task pool system for jobs.
 - [hungarian-algorithm](https://github.com/fastrgv/HungarianAlgorithm) - Hungarian Algorithm implementation in Ada.
 - [stotp](https://github.com/jklmnn/STOTP) - Timed One-Time-Pad (RFC 6238) implementation in SPARK.
 - [sal](http://www.stephe-leake.org/ada/sal.html) - SAL (Stephe's Ada Library).
 - [nb-ada](https://github.com/andgi/NBAda) - NBAda : An Ada library of lock-free data structures and algorithms.
 - [xxhash-ada](https://github.com/lyarbean/xxhash-ada) - Extremely fast non-cryptographic Hash algorithm, xxhash is working at speeds close to RAM limits.
 
-#### Science
-- [landscape](http://www.christ-usch-grein.homepage.t-online.de/Ada/Landscape.html) - A library to plot functions of two real variables.
-- [si-units](http://www.christ-usch-grein.homepage.t-online.de/Ada/Dimension/SI.html) - A set of Ada packages to compute with dimensioned items in full generality.
+#### Patterns
+- [ada-promises](https://github.com/briot/Ada-promises) - Implementing promises in Ada. Type-safe, efficient, thread-safe, ...
+- [reqrep-task-pools](https://github.com/jhumphry/Reqrep_Task_Pools) - Task pool system for jobs.
+
+#### System Modeling
+- [ada-fuzzy](https://github.com/briot/adafuzzy) - A fuzzy inference system library for Ada
 
 #### Parsers, Scanners, Linters, Analysers and Prettyprinters
 - [libadalang](https://github.com/AdaCore/libadalang/) - Libadalang is a library for parsing and semantic analysis of Ada code. It is meant as a building block for integration into other tools. (IDE, static analyzers, etc.)
