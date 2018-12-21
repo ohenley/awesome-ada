@@ -8,10 +8,10 @@
  
 ```
 Ada is powering our satellites, our aircrafts and our military equipment.   
-Ada is arguably one of the most advanced language of all time.   
+Ada is arguably one of the most advanced programming language of all time.   
 Ada can deliver your next project.   
 
-                                              Long live Ada/SPARK.
+Long live Ada/SPARK.
 ```
 
 </div>
