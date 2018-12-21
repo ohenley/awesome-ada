@@ -4,7 +4,6 @@
 
 <br><br>
 
-<div align="center">
  
 ```
 Ada is powering our satellites, our aircrafts and our military equipment.   
@@ -13,8 +12,6 @@ Ada can deliver your next project.
 
 Long live Ada/SPARK.
 ```
-
-</div>
 
 <br><br>
 
