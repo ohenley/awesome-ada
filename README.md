@@ -434,6 +434,7 @@ lanugage.  It is loosely modelled after JUnit and some ideas from AUnit.
 - [cvsweb2git](https://github.com/reznikmm/cvsweb2git) - This tool imports CVS repository shared on Ada Conformity Assessment Authority into the Git repository.
 
 ## Bindings
+- [curses](https://github.com/annexi-strayline/Curses) - Advanced UNIX Terminal UI Ada Binding Package.
 - [adacurses](http://invisible-island.net/ncurses/ncurses-Ada95.html) - Ada95 bindings for ncurses.
 - [florist](https://www.cs.fsu.edu/~baker/florist.html) - POSIX Ada binding, IEEE Standards 1003.5(b,c).
 - [sdlada](https://github.com/Lucretia/sdlada) - Ada 2012 bindings to SDL 2.
