@@ -5,11 +5,11 @@
 <br><br>
 
 
->[Ada is powering our satellites, our aircrafts and our military equipment.](https://www2.seas.gwu.edu/~mfeldman/ada-project-summary.html)   
->Ada is arguably one of the most advanced programming language of all time.  
->Ada can deliver your next project.   
+> [Ada is powering our satellites, our aircrafts and our military equipment.](https://www2.seas.gwu.edu/~mfeldman/ada-project-summary.html)   
+> Ada is arguably one of the most advanced programming language of all time.  
+> Ada can deliver your next project.   
 >
->Long live Ada/SPARK.
+> Long live Ada/SPARK.
 
 
 <br><br>
@@ -235,7 +235,7 @@ A curated list of awesome resources related to the Ada and SPARK programming lan
 #### Graphical User Interface
 - [gnoga](https://sourceforge.net/projects/gnoga/) - The GNU Omnificent GUI for Ada.
 - [gnavi](https://sourceforge.net/projects/gnavi/) - GNU Ada Visual Interface.
-- [claw](http://www.rrsoftware.com/html/prodinf/claw/claw.htm) - CLAW, a High Level, Portable, Ada 95 Binding for Microsoft Window.s
+- [claw](http://www.rrsoftware.com/html/prodinf/claw/claw.htm) - CLAW, a High Level, Portable, Ada 95 Binding for Microsoft Windows.
 - [gtkada](https://github.com/AdaCore/gtkada) - Ada graphical toolkit based on Gtk3 components.
 
 #### 3D
@@ -253,7 +253,7 @@ A curated list of awesome resources related to the Ada and SPARK programming lan
 lanugage.  It is loosely modelled after JUnit and some ideas from AUnit.
 - [aunit](http://libre.adacore.com/tools/aunit/) - Ada unit testing framework.
 - [testing](https://github.com/Entomy/Testing) - Ada unit testing and measuring framework.
-- [gnatbdd](https://github.com/briot/gnatbdd) - Behavior Driven Development in Ada
+- [gnatbdd](https://github.com/briot/gnatbdd) - Behavior Driven Development in Ada.
 
 #### Logging
 - [alog](https://www.codelabs.ch/alog/) - Alog is a stackable logging framework for Ada.
@@ -293,7 +293,7 @@ lanugage.  It is loosely modelled after JUnit and some ideas from AUnit.
 - [sl3p](https://github.com/jklmnn/sl3p) - Simple Layer 3 Protocol.
 - [sip-hash](https://github.com/grim7reaper/SipHash) - A pure Ada implementation of the SipHash PRF.
 - [ada-lsp](https://github.com/reznikmm/ada-lsp) - Language Server Protocol for Ada.
-- [ada-language-server](https://github.com/AdaCore/ada_language_server) - prototype implementation of the Microsoft Language Server Protocol for Ada/SPARK.
+- [ada-language-server](https://github.com/AdaCore/ada_language_server) - Prototype implementation of the Microsoft Language Server Protocol for Ada/SPARK.
 - [smart-pointers](http://www.christ-usch-grein.homepage.t-online.de/Ada/Smart_Pointers.html) - A package providing a reference-counted access type Smart_Pointer.
 - [marsaglia-random-number-generator](http://www.christ-usch-grein.homepage.t-online.de/Ada/Marsaglia.html) - Ada implementation of the algorithm developed by George Marsaglia, Supercomputer Computations Research Institute, Florida State University.
 - [containers](https://github.com/Entomy/Containers) - Collection of containers for Ada.
@@ -312,12 +312,12 @@ lanugage.  It is loosely modelled after JUnit and some ideas from AUnit.
 - [reqrep-task-pools](https://github.com/jhumphry/Reqrep_Task_Pools) - Task pool system for jobs.
 
 #### System Modeling
-- [ada-fuzzy](https://github.com/briot/adafuzzy) - A fuzzy inference system library for Ada
+- [ada-fuzzy](https://github.com/briot/adafuzzy) - A fuzzy inference system library for Ada.
 
 #### Parsers, Scanners, Linters, Analysers and Prettyprinters
 - [libadalang](https://github.com/AdaCore/libadalang/) - Libadalang is a library for parsing and semantic analysis of Ada code. It is meant as a building block for integration into other tools. (IDE, static analyzers, etc.)
 - [aflex-ayacc](http://thiberlog.free.fr/) - Ada95 scanner and parser generators.
-- [opentoken](http://stephe-leake.org/ada/opentoken.html) - Lexical analyser and parser for the Ada language.
+- [wisitoken](http://stephe-leake.org/ada/wisitoken.html) - WisiToken is an LALR, LR1, and Packrat parser generator and run-time.
 - [gela](https://github.com/reznikmm/gela) - Ada code analyzer.
 - [anagram](https://github.com/reznikmm/anagram) - Grammar handling and parser generation Ada library.
 - [ada-pretty](https://github.com/reznikmm/ada-pretty) - Pretty printing library for Ada.
