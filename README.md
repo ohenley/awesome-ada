@@ -218,6 +218,7 @@ A curated list of awesome resources related to the Ada and SPARK programming lan
 - [co-terminal-apps](https://github.com/fastrgv/CoTerminalApps) - Retro Games that run in a terminal on any platform.
 - [mini-pacman](https://github.com/fastrgv/MiniPacman) - MiniPac is a kid friendly ascii character version of Pacman that plays in a commandline terminal.
 - [world-cup-sokerban](https://github.com/fastrgv/WorldCupSokerban) - This is a soccer-themed, 3D sokoban puzzle game that runs on Windows, Mac OS-X and GNU Linux.
+- [pasta](http://pasta.phyrama.com/) - Pasta! is a game of the "match-3" genre. 
 
 
 ## Frameworks
