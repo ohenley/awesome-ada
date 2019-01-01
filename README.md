@@ -6,7 +6,7 @@
 
 
 > [Ada is powering our satellites, our aircrafts, our military and medical equipment.](https://www2.seas.gwu.edu/~mfeldman/ada-project-summary.html)   
-> Ada is arguably the most { performant &cup; precise &cup; capable } programming language of all time.  
+> Ada is arguably the most { <b>performant</b> &cup; <b>precise</b> &cup; <b>capable</b> } programming language of all time.  
 > Ada can deliver anything.   
 >
 > Long live Ada/SPARK.
