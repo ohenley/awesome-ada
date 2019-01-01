@@ -258,6 +258,9 @@ lanugage.  It is loosely modelled after JUnit and some ideas from AUnit.
 #### Logging
 - [alog](https://www.codelabs.ch/alog/) - Alog is a stackable logging framework for Ada.
 
+#### Machine Learning
+- [fuzzyml](https://sourceforge.net/projects/fuzzyml/) - Fuzzy machine learning framework.
+
 ## Tools
 
 #### Verification
