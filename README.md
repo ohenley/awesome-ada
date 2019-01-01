@@ -5,9 +5,9 @@
 <br><br>
 
 
-> [Ada is powering our satellites, our aircrafts and our military equipment.](https://www2.seas.gwu.edu/~mfeldman/ada-project-summary.html)   
-> Ada is arguably one of the most advanced programming language of all time.  
-> Ada can deliver your next project.   
+> [Ada is powering our satellites, our aircrafts, our military and medical equipment.](https://www2.seas.gwu.edu/~mfeldman/ada-project-summary.html)   
+> Ada is arguably one of the most performant, precise and capable programming language of all time.  
+> Ada can deliver anything.   
 >
 > Long live Ada/SPARK.
 
