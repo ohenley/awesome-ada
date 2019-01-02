@@ -183,6 +183,7 @@ A curated list of awesome resources related to the Ada and SPARK programming lan
 - [vim-ada-bundle](https://www.vim.org/scripts/script.php?script_id=1609) - Ada Bundle : Complete Ada-Mode as Vim-Ball or Tar.bz2.
 - [ada-tmbundle](https://github.com/textmate/ada.tmbundle) - TextMate support for Ada.
 - [ada-vscode](https://marketplace.visualstudio.com/items?itemName=Entomy.ada) - VisualStudio Code support for Ada.
+- [ada-visual](https://marketplace.visualstudio.com/items?itemName=AlexGamper.VisualAda) - Ada language integration for Visual Studio 2017.
 
 ## Deployment
 
@@ -297,6 +298,7 @@ lanugage.  It is loosely modelled after JUnit and some ideas from AUnit.
 - [sl3p](https://github.com/jklmnn/sl3p) - Simple Layer 3 Protocol.
 - [sip-hash](https://github.com/grim7reaper/SipHash) - A pure Ada implementation of the SipHash PRF.
 - [ada-lsp](https://github.com/reznikmm/ada-lsp) - Language Server Protocol for Ada.
+- [ada-lsp-client](https://github.com/Alex-Gamper/Ada-LanguageServer) - Prototype implementation of LSP client - Visual Studio 2017.
 - [ada-language-server](https://github.com/AdaCore/ada_language_server) - Prototype implementation of the Microsoft Language Server Protocol for Ada/SPARK.
 - [smart-pointers](http://www.christ-usch-grein.homepage.t-online.de/Ada/Smart_Pointers.html) - A package providing a reference-counted access type Smart_Pointer.
 - [marsaglia-random-number-generator](http://www.christ-usch-grein.homepage.t-online.de/Ada/Marsaglia.html) - Ada implementation of the algorithm developed by George Marsaglia, Supercomputer Computations Research Institute, Florida State University.
@@ -459,6 +461,10 @@ lanugage.  It is loosely modelled after JUnit and some ideas from AUnit.
 - [wposix](https://github.com/AdaCore/wposix) - Ada Windows POSIX binding.
 - [lalg](https://github.com/jhumphry/LALG) - Interface to dense linear algebra packages.
 - [zeromq-ada](https://github.com/persan/zeromq-Ada.git) - Binding to the ZeroMQ comunications-library.    
+- [ada-net-framework-core](https://github.com/Alex-Gamper/Ada-NetFrameworkCore) - Ada bindings for the Microsft NetFramework Api.
+- [ada-net-framework](https://github.com/Alex-Gamper/Ada-NetFramework) - Ada bindings for the Microsft NetFramework Api (Wrapper over NetFrameworkCore).
+- [ada-winrt](https://github.com/Alex-Gamper/Ada-WinRT) - Ada bindings for the Microsft WinRT Api.
+- [ada-win32](https://github.com/Alex-Gamper/Ada-Win32) - Ada bindings for the Microsoft Win32 Api.
 
 ## License
 
