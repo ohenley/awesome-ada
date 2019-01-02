@@ -7,7 +7,7 @@
 
 > [Ada is powering satellites, aircrafts, battleships, power plants and surgical robots.](https://www2.seas.gwu.edu/~mfeldman/ada-project-summary.html)   
 > Ada is arguably the most { <b>performant</b> &cup; <b>precise</b> &cup; <b>frictionless</b> &cup; <b>capable</b> &cup; <b>mature</b> } programming language of all time.
-> Ada is your most solid foundation to deliver anything.
+> Ada is your most solid foundation.
 >
 > Long live Ada/SPARK.
 
