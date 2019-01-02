@@ -348,7 +348,6 @@ lanugage.  It is loosely modelled after JUnit and some ideas from AUnit.
 
 #### Network
 - [anet](https://www.codelabs.ch/anet/) - Anet is a networking library for the Ada programming language.
-- [adasockets](http://www.rfc1149.net/devel/adasockets.html) - IPv4 socket library (TCP, UDP, and multicast).
 - [adhcp](https://codelabs.ch/adhcp/index.html) - ADHCP is an implementation of the DHCP protocol in Ada.
 
 #### Web
@@ -438,6 +437,9 @@ lanugage.  It is loosely modelled after JUnit and some ideas from AUnit.
 - [tiled-code-gen](https://github.com/Fabien-Chouteau/tiled-code-gen) - Code generator for Tiled the map editor.
 - [cvsweb2git](https://github.com/reznikmm/cvsweb2git) - This tool imports CVS repository shared on Ada Conformity Assessment Authority into the Git repository.
 
+#### Interpreters
+- [aforth](https://github.com/samueltardieu/aforth) - Embeddable Forth interpreter written in Ada.
+
 ## Bindings
 - [curses](https://github.com/annexi-strayline/Curses) - Advanced UNIX Terminal UI Ada Binding Package.
 - [adacurses](http://invisible-island.net/ncurses/ncurses-Ada95.html) - Ada95 bindings for ncurses.
@@ -464,6 +466,8 @@ lanugage.  It is loosely modelled after JUnit and some ideas from AUnit.
 - [ada-net-framework](https://github.com/Alex-Gamper/Ada-NetFramework) - Ada bindings for the Microsft NetFramework Api (Wrapper over NetFrameworkCore).
 - [ada-winrt](https://github.com/Alex-Gamper/Ada-WinRT) - Ada bindings for the Microsft WinRT Api.
 - [ada-win32](https://github.com/Alex-Gamper/Ada-Win32) - Ada bindings for the Microsoft Win32 Api.
+- [adasockets](https://github.com/samueltardieu/adasockets) - IPv4 socket library (TCP, UDP, and multicast).
+- [areadline](https://github.com/samueltardieu/areadline) - Ada interface to the readline library.
 
 ## License
 
