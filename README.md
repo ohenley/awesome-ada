@@ -5,7 +5,7 @@
 <br><br>
 
 
-> [Ada is powering our satellites, our aircrafts, our military and medical equipment.](https://www2.seas.gwu.edu/~mfeldman/ada-project-summary.html)   
+> [Ada is powering satellites, aircrafts, battleships, power plants and surgical robots.](https://www2.seas.gwu.edu/~mfeldman/ada-project-summary.html)   
 > Ada is arguably the most { <b>performant</b> &cup; <b>precise</b> &cup; <b>capable</b> } programming language of all time.  
 > Ada can deliver anything.   
 >
@@ -360,7 +360,7 @@ lanugage.  It is loosely modelled after JUnit and some ideas from AUnit.
 
 #### Localization
 - [translator](http://www.christ-usch-grein.homepage.t-online.de/Ada/Translator.html) - An Ada package to write language independent messages.
-- [ZanyBlue](https://sourceforge.net/projects/zanyblue/) - An Ada package allowing the externalization of application messages into a properties file.
+- [zany_blue](https://sourceforge.net/projects/zanyblue/) - An Ada package allowing the externalization of application messages into a properties file.
 
 #### Utilities
 - [split-n-join](http://www.christ-usch-grein.homepage.t-online.de/Ada/Split_n_Join.html) - An Ada package Ada.Strings.Unbounded.Lists to split and join Strings similar to Perl.
