@@ -361,7 +361,7 @@ lanugage.  It is loosely modelled after JUnit and some ideas from AUnit.
 
 #### Localization
 - [translator](http://www.christ-usch-grein.homepage.t-online.de/Ada/Translator.html) - An Ada package to write language independent messages.
-- [zany_blue](https://sourceforge.net/projects/zanyblue/) - An Ada package allowing the externalization of application messages into a properties file.
+- [zany-blue](https://sourceforge.net/projects/zanyblue/) - An Ada package allowing the externalization of application messages into a properties file.
 
 #### Utilities
 - [split-n-join](http://www.christ-usch-grein.homepage.t-online.de/Ada/Split_n_Join.html) - An Ada package Ada.Strings.Unbounded.Lists to split and join Strings similar to Perl.
