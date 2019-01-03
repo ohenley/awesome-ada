@@ -242,6 +242,7 @@ A curated list of awesome resources related to the Ada and SPARK programming lan
 - [globe-3d](https://globe3d.sourceforge.io/) - GL Object Based Engine for 3D.
 - [orka](https://github.com/onox/orka) - The OpenGL 4.6 Rendering Kernel in Ada 2012.
 - [ada-ogl](https://github.com/JulianSchutsch/AdaOGL) - Ada OpenGL Framework.
+- [ada-doom-3](https://github.com/AdaDoom3/AdaDoom3) - Id Software's Id-tech-4-BFG in the Ada programming language. 
 
 #### Web
 - [aws](https://github.com/AdaCore/aws) - AWS is a complete framework to develop Web based applications in Ada.
@@ -310,6 +311,7 @@ lanugage.  It is loosely modelled after JUnit and some ideas from AUnit.
 - [sal](http://www.stephe-leake.org/ada/sal.html) - SAL (Stephe's Ada Library).
 - [nb-ada](https://github.com/andgi/NBAda) - NBAda : An Ada library of lock-free data structures and algorithms.
 - [xxhash-ada](https://github.com/lyarbean/xxhash-ada) - Extremely fast non-cryptographic Hash algorithm, xxhash is working at speeds close to RAM limits.
+- [base58-ada](https://github.com/MichaelAllenHardeman/base58_ada) - Base58 encoding and decoding in Ada.
 
 #### Patterns
 - [ada-promises](https://github.com/briot/Ada-promises) - Implementing promises in Ada. Type-safe, efficient, thread-safe.
@@ -423,6 +425,7 @@ lanugage.  It is loosely modelled after JUnit and some ideas from AUnit.
 
 #### Multimedia
 - [eagle-lander](https://github.com/Fabien-Chouteau/eagle-lander) - Apollo 11 lunar lander simulator (Ada/Gtk/Cairo).
+- [ada-3ds](https://github.com/AdaDoom3/Ada3DS) - A simple 3DS Max model renderer.
 
 #### Automation
 - [acnc](https://github.com/Fabien-Chouteau/ACNC) - A G-code parser and CNC controller (in Ada).
@@ -468,6 +471,7 @@ lanugage.  It is loosely modelled after JUnit and some ideas from AUnit.
 - [ada-win32](https://github.com/Alex-Gamper/Ada-Win32) - Ada bindings for the Microsoft Win32 Api.
 - [adasockets](https://github.com/samueltardieu/adasockets) - IPv4 socket library (TCP, UDP, and multicast).
 - [areadline](https://github.com/samueltardieu/areadline) - Ada interface to the readline library.
+- [oto](https://github.com/darkestkhan/oto) - Ada binding to OpenAL which tries to mimic original API while using Ada types.
 
 ## License
 
