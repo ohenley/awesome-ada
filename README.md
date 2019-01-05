@@ -62,7 +62,7 @@ A curated list of awesome resources related to the Ada and SPARK programming lan
 	2. [Algorithms, Containers and Protocols](#Algorithms-Containers-and-Protocols)   
 	3. [Patterns](#Patterns)   
 	4. [System Modeling](#System-Modeling)
-	5. [Parsers, Scanners, Linters, Analysers and Prettyprinters](#Parsers-Scanners-Linters-Analysers-and-Prettyprinters)   
+	5. [Parsers, Scanners, Linters, Analysers, Interpreters and Prettyprinters](#Parsers-Scanners-Linters-Analysers-Interpreters-and-Prettyprinters)   
 	6. [Format Readers and Writers](#Format-Readers-and-Writers)   
 	7. [Network](#Network)   
 	8. [Web](#Web)   
@@ -325,7 +325,7 @@ lanugage.  It is loosely modelled after JUnit and some ideas from AUnit.
 #### System Modeling
 - [ada-fuzzy](https://github.com/briot/adafuzzy) - A fuzzy inference system library for Ada.
 
-#### Parsers, Scanners, Linters, Analysers and Prettyprinters
+#### Parsers, Scanners, Linters, Analysers, Interpreters and Prettyprinters
 - [libadalang](https://github.com/AdaCore/libadalang/) - Libadalang is a library for parsing and semantic analysis of Ada code. It is meant as a building block for integration into other tools. (IDE, static analyzers, etc.)
 - [aflex-ayacc](http://thiberlog.free.fr/) - Ada95 scanner and parser generators.
 - [wisitoken](http://stephe-leake.org/ada/wisitoken.html) - WisiToken is an LALR, LR1, and Packrat parser generator and run-time.
@@ -335,6 +335,7 @@ lanugage.  It is loosely modelled after JUnit and some ideas from AUnit.
 - [increment](https://github.com/reznikmm/increment) - Incremental analysis in Ada.
 - [ada-lexer](http://www.christ-usch-grein.homepage.t-online.de/Ada/Lexer.html) - A lexical analyzer written in Ada, which transforms a stream of characters representing an Ada program into a stream of language specific tokens.
 - [parse-args](https://github.com/jhumphry/parse_args) - Simple command-line argument parsing.
+- [aforth](https://github.com/samueltardieu/aforth) - Embeddable Forth interpreter written in Ada.
 
 #### Format Readers and Writers
 - [ini-file-manager](https://sourceforge.net/projects/ini-files) - The Ini file manager consists of a package, Config, which can read and modify informations from various configuration files known as "ini" files.
@@ -444,9 +445,6 @@ lanugage.  It is loosely modelled after JUnit and some ideas from AUnit.
 - [p2ada](http://p2ada.sourceforge.net/) - A Pascal to Ada translator.
 - [tiled-code-gen](https://github.com/Fabien-Chouteau/tiled-code-gen) - Code generator for Tiled the map editor.
 - [cvsweb2git](https://github.com/reznikmm/cvsweb2git) - This tool imports CVS repository shared on Ada Conformity Assessment Authority into the Git repository.
-
-#### Interpreters
-- [aforth](https://github.com/samueltardieu/aforth) - Embeddable Forth interpreter written in Ada.
 
 ## Bindings
 - [curses](https://github.com/annexi-strayline/Curses) - Advanced UNIX Terminal UI Ada Binding Package.
