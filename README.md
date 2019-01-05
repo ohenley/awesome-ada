@@ -53,6 +53,7 @@ A curated list of awesome resources related to the Ada and SPARK programming lan
 	5. [Web](#Web)   
 	6. [Unit Test](#Unit-Test)   
 	7. [Logging](#Logging)
+	8. [Machine Learning](#Machine-Learning)
 11. [Tools](#Tools) 
 	1. [Verification](#Verification)   
 	2. [Generation](#Generation)   
