@@ -35,9 +35,10 @@ A curated list of awesome resources related to the Ada and SPARK programming lan
 4. [Compilers](#Compilers)   
 	1. [Local](#Local)   
 	2. [Online](#Online)   
-5. [Editors](#Editors)   
-	1. [Integrated Development Editors](#Integrated-Development-Editor)   
-	2. [Text Modes](#Text-Modes)    
+5. [Edit](#Edit)   
+	1. [Integrated Development Editors](#Integrated-Development-Editor) 
+	2. [Editors](#Editors)
+	3. [Text Modes](#Text-Modes)    
 6. [Deployment](#Deployment)   
 	1. [Build and Package](#Build-and-Package)   
 	2. [Continuous Integration](#Continuous-Integration)   
@@ -171,10 +172,13 @@ A curated list of awesome resources related to the Ada and SPARK programming lan
 - [tutorials-point-ada-compiler](https://www.tutorialspoint.com/compile_ada_online.php) - Online compiler built on the CodingGround engine.
 - [jdoodle-ada-compiler](https://www.jdoodle.com/execute-ada-online) - Online compiler that provides multiple versions of GNAT to test with.
 
-## Editors
+## Edit
 
 #### Integrated Development Editor
 <img width="120px" hspace="10px" src="http://docs.adacore.com/live/wave/gps/html/gps_ug/_images/gps-main-window.png"> [The GNAT Programming Studio](https://github.com/AdaCore/gps)
+
+#### Editors
+- [lea](https://sourceforge.net/projects/l-e-a/) - LEA, a Lightweight Editor for Ada, aims to provide an easy, script-world-like, "look & feel" for developing Ada projects of any size and level, while enabling access to full-scale development tools like GNAT
 
 #### Text Modes
 - [gnu-emacs-ada-mode](http://www.nongnu.org/ada-mode/) - Gnu Emacs major-mode for editing Ada sources.
