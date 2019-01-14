@@ -241,6 +241,8 @@ A curated list of awesome resources related to the Ada and SPARK programming lan
 - [gnavi](https://sourceforge.net/projects/gnavi/) - GNU Ada Visual Interface.
 - [claw](http://www.rrsoftware.com/html/prodinf/claw/claw.htm) - CLAW, a High Level, Portable, Ada 95 Binding for Microsoft Windows.
 - [gtkada](https://github.com/AdaCore/gtkada) - Ada graphical toolkit based on Gtk3 components.
+- [qt-ada](https://r3fowwcolhrzycn2yzlzzw-on.drv.tw/AdaStudio/qtada/qt5ada.html) - Ada-2012 port to QT 5 framework.
+- [vtk-ada](https://r3fowwcolhrzycn2yzlzzw-on.drv.tw/AdaStudio/vtkada/vtkada.html) - Ada-2012 port to VTK 8.1 (Visualization Toolkit).
 
 #### 3D
 - [globe-3d](https://globe3d.sourceforge.io/) - GL Object Based Engine for 3D.
