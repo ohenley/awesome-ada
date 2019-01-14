@@ -145,7 +145,7 @@ A curated list of awesome resources related to the Ada and SPARK programming lan
 - [stack-overflow-ada-tag](https://stackoverflow.com/questions/tagged/ada) - Ada at Stack Overflow.
 
 #### News and Resources
-- [adacore-blog](https://blog.adacore.com/) - An Insight Into the AdaCore Ecosystem.
+- [adacore-blog](https://blog.adacore.com/) - An insight into the AdaCore ecosystem.
 - [ada-programming](https://plus.google.com/u/0/communities/102688015980369378804) - Ada Google Plus Community.
 - [ada-europe](http://www.ada-europe.org/) - Ada-Europe is an international organization, set up to promote the use of Ada.
 - [acm-sig-ada](https://www.sigada.org/) - The Special Interest Group on Ada.
