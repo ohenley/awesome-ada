@@ -5,7 +5,7 @@
 <br><br>
 
 
-> [Ada is powering satellites, aircrafts, battleships, power plants, surgical robots and games.](https://www2.seas.gwu.edu/~mfeldman/ada-project-summary.html)   
+> [Ada is powering satellites, aircrafts, battleships, power plants, surgical robots, drones, CNCs, games and coffee machines.](https://www2.seas.gwu.edu/~mfeldman/ada-project-summary.html)   
 > Ada is arguably the most { <b>performant</b> &cap; <b>capable</b> &cap; <b>precise</b> &cap; <b>readable</b> &cap; <b>mature</b> } programming language.   
 > Ada is awesome!
 >
