@@ -5,7 +5,7 @@
 <br><br>
 
 
-> <font size="7">[Ada is powering satellites, aircrafts, ships, power plants, surgical robots, drones, CNCs, servers, games and coffee makers.](https://www2.seas.gwu.edu/~mfeldman/ada-project-summary.html)</font>   
+> <font size="7">[Ada is powering satellites, aircrafts, ships, power plants, surgical robots](https://www2.seas.gwu.edu/~mfeldman/ada-project-summary.html), drones, CNCs, servers, games and coffee makers.</font>   
 > Ada is arguably the most { <b>performant</b> &cap; <b>capable</b> &cap; <b>precise</b> &cap; <b>readable</b> &cap; <b>mature</b> } programming language.   
 > Ada is awesome!
 >
@@ -133,6 +133,7 @@ A curated list of awesome resources related to the Ada and SPARK programming lan
 
 #### Specialties
 - [gems](https://www.adacore.com/gems/) - Ada Gem Archive.
+- [ada-composition](https://github.com/gerr135/ada_composition) - A collections of small nifty demos/sample code that may help better layout data or structure project.
 - [ada-ic-learning](http://www.adaic.org/learn/materials/) - For additional learning resources, see the AdaIC learning section.
 
 #### Reference
