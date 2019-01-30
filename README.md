@@ -280,6 +280,7 @@ lanugage.  It is loosely modelled after JUnit and some ideas from AUnit.
 - [asn1scc](https://github.com/ttsiodras/asn1scc) - ASN1SCC: An open source ASN.1 generator to Ada type declarations and encoders/decoders.
 - [ocarina](https://github.com/OpenAADL/ocarina) - AADL model processor: mappings to Ada code; Petri Nets; scheduling tools (MAST, Cheddar); WCET; REAL.
 - [fmt](http://www.inspirel.com/fmt/) - Formal Methods Toolkit is a set of extension packages for Mathematica, supporting software. engineering activities related to modeling, verification and Ada code generation.
+- [automate](https://github.com/Blady-Com/Automate) - Finite-state machine generator.
 
 ## Libraries
 
@@ -447,6 +448,7 @@ lanugage.  It is loosely modelled after JUnit and some ideas from AUnit.
 - [p2ada](http://p2ada.sourceforge.net/) - A Pascal to Ada translator.
 - [tiled-code-gen](https://github.com/Fabien-Chouteau/tiled-code-gen) - Code generator for Tiled the map editor.
 - [cvsweb2git](https://github.com/reznikmm/cvsweb2git) - This tool imports CVS repository shared on Ada Conformity Assessment Authority into the Git repository.
+- [j2ada](https://github.com/Blady-Com/j2ada) - Translator for a Java valid source code in Ada source code.
 
 ## Bindings
 - [curses](https://github.com/annexi-strayline/Curses) - Advanced UNIX Terminal UI Ada Binding Package.
@@ -477,6 +479,8 @@ lanugage.  It is loosely modelled after JUnit and some ideas from AUnit.
 - [adasockets](https://github.com/samueltardieu/adasockets) - IPv4 socket library (TCP, UDP, and multicast).
 - [areadline](https://github.com/samueltardieu/areadline) - Ada interface to the readline library.
 - [oto](https://github.com/darkestkhan/oto) - Ada binding to OpenAL which tries to mimic original API while using Ada types.
+- [tp7-ada-gtkada](https://github.com/Blady-Com/tp7ada-gtkada) - Implementation of Turbo Pascal 7.0 units with GTKAda.
+- [tp7-ada-gnoga](https://github.com/Blady-Com/tp7ada-gnoga) - Implementation of Turbo Pascal 7.0 units with Gnoga.
 
 ## License
 
