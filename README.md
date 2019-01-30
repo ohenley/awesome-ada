@@ -280,7 +280,7 @@ lanugage.  It is loosely modelled after JUnit and some ideas from AUnit.
 - [asn1scc](https://github.com/ttsiodras/asn1scc) - ASN1SCC: An open source ASN.1 generator to Ada type declarations and encoders/decoders.
 - [ocarina](https://github.com/OpenAADL/ocarina) - AADL model processor: mappings to Ada code; Petri Nets; scheduling tools (MAST, Cheddar); WCET; REAL.
 - [fmt](http://www.inspirel.com/fmt/) - Formal Methods Toolkit is a set of extension packages for Mathematica, supporting software. engineering activities related to modeling, verification and Ada code generation.
-- [Automate](https://github.com/Blady-Com/Automate) - Finite-state machine generator.
+- [automate](https://github.com/Blady-Com/Automate) - Finite-state machine generator.
 
 ## Libraries
 
