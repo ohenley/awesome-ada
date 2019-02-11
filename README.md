@@ -25,9 +25,10 @@ A curated list of awesome resources related to the Ada and SPARK programming lan
 2. [Education](#Education)  
 	1. [Entry Point](#Entry-Point)
 	1. [Tutorials](#Tutorials)   
-	2. [Books](#Books)   
-	3. [Specialties](#Specialties)
-	4. [Reference](#Reference)
+	2. [Online Books](#Online-Books)
+	3. [Books](#Books)   
+	4. [Specialties](#Specialties)
+	5. [Reference](#Reference)
 3. [Community](#Community)   
 	1. [Questions and Answers](#Questions-and-Answers)   
 	2. [News and Resources](#News-and-Resources)   
@@ -115,9 +116,16 @@ A curated list of awesome resources related to the Ada and SPARK programming lan
 #### Tutorials
 - [adacore-video-tutorials](https://www.youtube.com/playlist?list=PLkoa8uxigENkneyEEeDWVPgpMhPc9IJ7o) - AdaCore University Video Tutorials.
 - [ada-crash-course](http://www.pchapin.org/VTC/TutorialAda/AdaCrash.pdf) - Ada 2012 crash course under 50 pages from Vermont Technical College.
-- [ada-wikibook](https://en.wikibooks.org/wiki/Ada_Programming) - Ada Programming tutorial at Wikibooks.
 - [simple-games](https://drive.google.com/file/d/1hdLc9nZzTnBDcN9qJeDlJm1F9IL91Lvi/view) - Learning Ada 2012 by writing simple games.
 - [spark-by-example](https://github.com/tofgarion/spark-by-example) - Collection of verified functions and data types in SPARK.
+
+#### Online books
+- [ada-wikibook](https://en.wikibooks.org/wiki/Ada_Programming) - Ada Programming book at Wikibooks.
+- [ada-distilled](http://www.adaic.org/wp-content/uploads/2010/05/Ada-Distilled-24-January-2011-Ada-2005-Version.pdf) - Ada Distilled for Ada 2005.
+- [ada-craft](https://www.adaic.org/resources/add_content/docs/craft/html/contents.htm) - Ada 95: The Craft of Object-Oriented Programming.
+- [ada-cpp-java](https://learn.adacore.com/books/Ada_For_The_CPP_Java_Developer/index.html) - Ada for the C++ or Java Developer.
+- [spark-guidance](https://www.adacore.com/books/implementation-guidance-spark) - Implementation Guidance for the Adoption of SPARK.
+- [ada-safe-secure](https://www.adacore.com/uploads/technical-papers/SafeSecureAdav2015.pdf) - Safe and Secure Software. An invitation to Ada 2012.
 
 #### Books
 <img height="50px" width="36px" hspace="10px" src="https://assets.cambridge.org/97811074/24814/cover/9781107424814.jpg">[Programming in Ada 2012](https://www.cambridge.org/core/books/programming-in-ada-2012/55B998B4E908A017E4D74A87364FF224#) - Comprehensive.  
