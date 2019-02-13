@@ -318,7 +318,6 @@ lanugage.  It is loosely modelled after JUnit and some ideas from AUnit.
 - [pragmarc](https://github.com/jrcarter/PragmARC) - PragmAda Reusable Components (PragmARCs) from PragmAda S/W Engineering.
 - [libadacrypt](https://github.com/cforler/Ada-Crypto-Library) - This is a crypto library for Ada with a nice API and is written for the i386 and x86_64 hardware architecture.
 - [libsparkcrypto](https://github.com/Componolit/libsparkcrypto) - A cryptographic library implemented in SPARK.
-- [libsodium-ada](https://github.com/jrmarino/libsodium-ada) - libsodium-ada is a set of thick Ada bindings to libsodium.
 - [booch95](https://sourceforge.net/projects/booch95/) - The Ada 95 Booch components are a port of Grady Booch's C++ components.
 - [ada-id](https://github.com/anthony-arnold/AdaID) - Simple Ada library for generating UUIDs.
 - [ada-ga](https://github.com/frett27/Ada-GA) - Genetic Algorithm Implementation for Ada.
@@ -475,6 +474,7 @@ lanugage.  It is loosely modelled after JUnit and some ideas from AUnit.
 - [j2ada](https://github.com/Blady-Com/j2ada) - Translator for a Java valid source code in Ada source code.
 
 ## Bindings
+- [libsodium-ada](https://github.com/jrmarino/libsodium-ada) - libsodium-ada is a set of thick Ada bindings to libsodium.
 - [curses](https://github.com/annexi-strayline/Curses) - Advanced UNIX Terminal UI Ada Binding Package.
 - [adacurses](http://invisible-island.net/ncurses/ncurses-Ada95.html) - Ada95 bindings for ncurses.
 - [florist](https://www.cs.fsu.edu/~baker/florist.html) - POSIX Ada binding, IEEE Standards 1003.5(b,c).
