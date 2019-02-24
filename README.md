@@ -346,6 +346,8 @@ lanugage.  It is loosely modelled after JUnit and some ideas from AUnit.
 - [base58-ada](https://github.com/MichaelAllenHardeman/base58_ada) - Base58 encoding and decoding in Ada.
 - [paraffin](https://sourceforge.net/projects/paraffin/) - A suite of Ada 2012 generics to facilitate iterative and recursive parallelism for multicore systems.
 - [deepend](https://sourceforge.net/projects/deepend/) - Deepend is a storage pool with subpool capabilities for Ada 2012, Ada 2005, and Ada 95.
+- [charles](http://home.earthlink.net/~matthewjheaney/charles/) - Charles is an Ada 95 container library, precursor to Ada 2005+ standard containers.
+- [spark-formal-containers](https://www.adacore.com/download/more) - Formal Containers is a SPARK-compatible containers library. These ones always occupy maximum space, similar to bounded strings. This is for pre-2014 SPARK syntax. Pick year 2012 in the selection box.
 
 #### Patterns
 - [ada-promises](https://github.com/briot/Ada-promises) - Implementing promises in Ada. Type-safe, efficient, thread-safe.
