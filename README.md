@@ -180,7 +180,6 @@ A curated list of awesome resources related to the Ada and SPARK programming lan
 - [adamagic](https://www.mapusoft.com/ada-to-c-changer/) - SofCheck AdaMagic is ACATS validated and certified Ada compiler targeting C and/or C++ (4 command line switches for fine tuning). ObjectAda and several other commercial compilers share engine with AdaMagic. MapuSoft distributes AdaMagic as integral component of AppCOE.
 - [hac](https://sourceforge.net/projects/hacadacompiler/) - Experimental Ada compiler fully in Ada.
 - [byron](https://github.com/OneWingedShark/Byron) - The Byron project is a community-driven Ada compiler, toolchain, and IDE-system.
-- [a2js](http://forge.ada-ru.org/matreshka/wiki/Web/A2JS) - Ada2JS is experimental open source compiler, component of Matreshka.
 
 #### Online
 - [tutorials-point-ada-compiler](https://www.tutorialspoint.com/compile_ada_online.php) - Online compiler built on the CodingGround engine.
@@ -481,6 +480,7 @@ lanugage.  It is loosely modelled after JUnit and some ideas from AUnit.
 - [tiled-code-gen](https://github.com/Fabien-Chouteau/tiled-code-gen) - Code generator for Tiled the map editor.
 - [cvsweb2git](https://github.com/reznikmm/cvsweb2git) - This tool imports CVS repository shared on Ada Conformity Assessment Authority into the Git repository.
 - [j2ada](https://github.com/Blady-Com/j2ada) - Translator for a Java valid source code in Ada source code.
+- [a2js](http://forge.ada-ru.org/matreshka/wiki/Web/A2JS) - Ada2JS is experimental open source compiler, component of Matreshka.
 
 #### Compilers and Interpreters
 - GNAT.SPITBOL - GNAT.SPITBOL is an implementation of SNOBOL text-oriented programming language, now part of GNAT library.
