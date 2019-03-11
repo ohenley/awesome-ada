@@ -7,7 +7,7 @@
 
 > <font size="7">[Ada is powering satellites, aircrafts, ships, power plants, surgical robots](https://www2.seas.gwu.edu/~mfeldman/ada-project-summary.html), drones, CNCs, servers, games and coffee makers.</font>   
 > Ada is arguably the most { <b>performant</b> &cap; <b>capable</b> &cap; <b>precise</b> &cap; <b>readable</b> &cap; <b>mature</b> } programming language.   
-> Ada is awesome!
+> Ada is alive and kicking!
 >
 > Long live Ada/SPARK.
 
