@@ -215,6 +215,7 @@ A curated list of awesome resources related to the Ada and SPARK programming lan
 - [generic-ada-runtime](https://github.com/Componolit/ada-runtime) - A downsized Ada runtime which can be adapted to different platforms.
 - [bb-runtimes](https://github.com/AdaCore/bb-runtimes) - GNAT bare metal board support package (BSP).
 - [avr-ada](https://sourceforge.net/projects/avr-ada) - GNAT for 8-bit AVR microcontrollers.
+- [ada-runtime](https://github.com/Componolit/ada-runtime) - A downsized Ada runtime which can be adapted to different platforms.
 
 ## OS and Kernels
 - [marte-os](https://marte.unican.es/) - MaRTE OS is a Hard Real-Time Operating System for embedded applications that follows the Minimal Real-Time POSIX.13 subset. It provides an easy to use and controlled environment to develop Multi-Thread Real-Time applications.
@@ -527,6 +528,7 @@ lanugage.  It is loosely modelled after JUnit and some ideas from AUnit.
 - [ada-lzma](https://github.com/stcarrez/ada-lzma) - Ada binding for liblzma compression library.
 - [ada-libsecret](https://github.com/stcarrez/ada-libsecret) - Ada Binding for the libsecret library.
 - [ada-bfd](https://github.com/stcarrez/ada-bfd) - Ada BFD is an Ada binding for the GNU Binutils BFD library. It allows to read binary ELF, COFF files by using the GNU BFD.
+- [boehmgc-ada](https://github.com/ytomino/boehmgc-ada) - Ada binding to the Boehm-Demers-Weiser conservative garbage collector.
 
 ## License
 
