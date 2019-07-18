@@ -149,6 +149,7 @@ A curated list of awesome resources related to the Ada and SPARK programming lan
 
 #### Reference
 - [iso-standard](http://www.ada-auth.org/standards/ada12_w_tc1.html) - The 2012 revision to the Ada Standard, usually known as Ada 2012.
+- [adalib](https://github.com/reznikmm/adalib) - Standard Ada library specification as defined in Reference Manual.
 
 ## Community
 
@@ -268,6 +269,7 @@ A curated list of awesome resources related to the Ada and SPARK programming lan
 
 #### Database
 - [ada-ado](https://github.com/stcarrez/ada-ado) - Ada Database Objects is an Ada05 library that provides object relational mapping to access a database in Ada05. The library supports Postgresql, MySQL, SQLite as databases. Most of the concepts developped for ADO come from the Java Hibernate ORM.
+- [ada-base](https://github.com/jrmarino/AdaBase) - Thick database bindings to MySQL, PostgreSQL and SQLite for Ada.
 
 #### Web
 - [aws](https://github.com/AdaCore/aws) - AWS is a complete framework to develop Web based applications in Ada.
@@ -354,6 +356,7 @@ lanugage.  It is loosely modelled after JUnit and some ideas from AUnit.
 - [fletcher](https://github.com/darkestkhan/fletcher) - Trivial implementation of fletcher_16 checksum computation algorithm.
 - [adagio](https://github.com/mosteo/adagio) - Gnutella2 (G2) network server leaf.
 - [agpl](https://github.com/mosteo/agpl) - Ada General Purpose Library (Miscellaneous utilities, with a robotic flavor).
+- [increment](https://github.com/reznikmm/increment) - This package provides incremental analysis algorithms and related data structures.
 
 #### Patterns
 - [ada-promises](https://github.com/briot/Ada-promises) - Implementing promises in Ada. Type-safe, efficient, thread-safe.
@@ -375,6 +378,7 @@ lanugage.  It is loosely modelled after JUnit and some ideas from AUnit.
 - [parse-args](https://github.com/jhumphry/parse_args) - Simple command-line argument parsing.
 - [aforth](https://github.com/samueltardieu/aforth) - Embeddable Forth interpreter written in Ada.
 - [ada-toml](https://github.com/pmderodat/ada-toml) - TOML parser for Ada.
+- [parser-tools](https://github.com/flyx/ParserTools) - Tools for writing lexers / parsers in Ada.
 
 #### Format Readers and Writers
 - [ini-file-manager](https://sourceforge.net/projects/ini-files) - The Ini file manager consists of a package, Config, which can read and modify informations from various configuration files known as "ini" files.
@@ -404,6 +408,7 @@ lanugage.  It is loosely modelled after JUnit and some ideas from AUnit.
 - [opengl-ada](https://github.com/flyx/OpenGLAda) - Thick Ada binding for OpenGL and GLFW.
 - [ada-synthetizer](https://github.com/frett27/Ada-Synthetizer) - Sound Synthetizer Library implemented in Ada.
 - [engine-3d](https://sourceforge.net/projects/engine-3d) - A 3D engine for DOS-talgics.
+- [ada-synth-lib](https://github.com/raph-amiard/ada-synth-lib) - Simple audio synthesis library.
 
 #### Localization
 - [translator](http://www.christ-usch-grein.homepage.t-online.de/Ada/Translator.html) - An Ada package to write language independent messages.
@@ -421,6 +426,8 @@ lanugage.  It is loosely modelled after JUnit and some ideas from AUnit.
 - [simple-logging](https://github.com/mosteo/simple_logging) - Easy to use logging facilities for output to console in Ada programs.
 - [rsfile](https://github.com/mosteo/rsfile) - Command-line utility that picks a file from a folder hierarchy with probability proportional to its size.
 - [cstrings](https://github.com/mosteo/cstrings) - Convenience subprograms to interact with C strings.
+- [cvsweb2git](https://github.com/reznikmm/cvsweb2git) - Tool to imports CVS repository shared on Ada Conformity Assessment Authority into the Git repository.
+- [ada-bundler](https://github.com/flyx/ada-bundler) - Library and tool for transparently handling data and configuration file access in an Ada application. Supports MacOSX, Linux and Windows.
 
 ## Hardware and Embedded
 
@@ -545,6 +552,11 @@ lanugage.  It is loosely modelled after JUnit and some ideas from AUnit.
 - [boehmgc-ada](https://github.com/ytomino/boehmgc-ada) - Ada binding to the Boehm-Demers-Weiser conservative garbage collector.
 - [player-ada](https://github.com/mosteo/player-ada) - Ada bindings for the player robotic platform.
 - [dl-ada](https://github.com/mosteo/dl-ada) - Minimal binding to libdl.
+- [ada-nanovg](https://github.com/raph-amiard/ada-nanovg) - Ada bindings to NanoVG.
+- [free-type-ada](https://github.com/flyx/FreeTypeAda) - FreeType binding for Ada 2005.
+- [opencl-ada](https://github.com/flyx/OpenCLAda) - An Ada binding for the OpenCL host API.
+- [coreland-lua-ada](https://github.com/io7m/coreland-lua-ada) - Ada bindings to the Lua language.
+- [libsodium-ada](https://github.com/jrmarino/libsodium-ada) - A secure cryptographic library (libsodium for Ada).
 
 ## License
 
