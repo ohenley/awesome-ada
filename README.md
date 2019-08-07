@@ -310,6 +310,9 @@ lanugage.  It is loosely modelled after JUnit and some ideas from AUnit.
 - [automate](https://github.com/Blady-Com/Automate) - Finite-state machine generator.
 - [ajunitgen](https://github.com/mosteo/ajunitgen) - Generator of JUnit-compatible XML reports in Ada.
 
+#### UML
+- [AdaML](https://github.com/rocher/AdaML) - Ada-tailored UML Modeling Language.
+
 ## Libraries
 
 #### Math
