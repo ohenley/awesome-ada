@@ -238,6 +238,7 @@ A curated list of awesome resources related to the Ada and SPARK programming lan
 - [world-cup-sokerban](https://github.com/fastrgv/WorldCupSokerban) - This is a soccer-themed, 3D sokoban puzzle game that runs on Windows, Mac OS-X and GNU Linux.
 - [pasta](http://pasta.phyrama.com/) - Pasta! is a game of the "match-3" genre.
 - [buttons](https://github.com/andreacervetti/buttons) - A simple Gtkada Button Mania game.
+- [mine-detector](https://github.com/jrcarter/Mine_Detector) - Mine Detector: a mine-finding game that never requires guessing.
 
 
 ## Frameworks
