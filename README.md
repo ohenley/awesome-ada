@@ -202,6 +202,7 @@ A curated list of awesome resources related to the Ada and SPARK programming lan
 - [gnu-emacs-ada-mode](http://www.nongnu.org/ada-mode/) - Gnu Emacs major-mode for editing Ada sources.
 - [vim-ada-bundle](https://github.com/thindil/Ada-Bundle) - Maintained Ada Bundle : Complete Ada-Mode for Vim/NeoVim
 - [ada-tmbundle](https://github.com/textmate/ada.tmbundle) - TextMate support for Ada.
+- [bbedit-ada-module](https://www.barebones.com/support/bbedit/plugin_library.html) - BBEdit support for Ada.
 
 ## Deployment
 
