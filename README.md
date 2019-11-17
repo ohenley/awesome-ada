@@ -38,6 +38,7 @@ A curated list of awesome resources related to the Ada and SPARK programming lan
 5. [Editors](#Editors)   
 	1. [Integrated Development Editors](#Integrated-Development-Editor)   
 	2. [Text Modes](#Text-Modes)    
+	3. [VSCode Extensions](#VSCode-Extensions)
 6. [Deployment](#Deployment)   
 	1. [Build and Package](#Build-and-Package)   
 	2. [Continuous Integration](#Continuous-Integration)   
@@ -183,6 +184,10 @@ A curated list of awesome resources related to the Ada and SPARK programming lan
 - [vim-ada-bundle](https://www.vim.org/scripts/script.php?script_id=1609) - Ada Bundle : Complete Ada-Mode as Vim-Ball or Tar.bz2.
 - [ada-tmbundle](https://github.com/textmate/ada.tmbundle) - TextMate support for Ada.
 - [ada-vscode](https://marketplace.visualstudio.com/items?itemName=Entomy.ada) - VisualStudio Code support for Ada.
+
+#### VSCode Extensions
+- [ada-vscode](https://github.com/Lucretia/ada-vscode)
+- [ada-utilities](https://github.com/Lucretia/ada-utilities)
 
 ## Deployment
 
