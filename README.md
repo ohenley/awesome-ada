@@ -36,10 +36,10 @@ A curated list of awesome resources related to the Ada and SPARK programming lan
 4. [Compilers](#Compilers)   
 	1. [Local](#Local)   
 	2. [Online](#Online)   
-5. [Edit](#Edit)   
-	1. [Integrated Development Editors](#Integrated-Development-Editor) 
-	2. [Editors](#Editors)
-	3. [Text Modes](#Text-Modes)    
+5. [Editors](#Editors)   
+	1. [Integrated Development Editors](#Integrated-Development-Editor)   
+	2. [Text Modes](#Text-Modes)    
+	3. [VSCode Extensions](#VSCode-Extensions)
 6. [Deployment](#Deployment)   
 	1. [Build and Package](#Build-and-Package)   
 	2. [Continuous Integration](#Continuous-Integration)   
@@ -208,6 +208,10 @@ A curated list of awesome resources related to the Ada and SPARK programming lan
 - [vim-ada-bundle](https://github.com/thindil/Ada-Bundle) - Maintained Ada Bundle : Complete Ada-Mode for Vim/NeoVim
 - [ada-tmbundle](https://github.com/textmate/ada.tmbundle) - TextMate support for Ada.
 - [bbedit-ada-module](https://www.barebones.com/support/bbedit/plugin_library.html) - BBEdit support for Ada.
+
+#### VSCode Extensions
+- [ada-vscode](https://github.com/Lucretia/ada-vscode)
+- [ada-utilities](https://github.com/Lucretia/ada-utilities)
 
 ## Deployment
 
