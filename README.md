@@ -197,8 +197,6 @@ A curated list of awesome resources related to the Ada and SPARK programming lan
 #### Integrated Development Editor
 <img width="120px" hspace="10px" src="http://docs.adacore.com/live/wave/gps/html/gps_ug/_images/gps-main-window.png"> [The GNAT Programming Studio](https://github.com/AdaCore/gps)
 - [ada-visual](https://marketplace.visualstudio.com/items?itemName=AlexGamper.VisualAda) - Ada language integration for Visual Studio 2017.
-- [ada-vscode](https://marketplace.visualstudio.com/items?itemName=Entomy.ada) - VisualStudio Code support for Ada.
-
 
 #### Editors
 - [lea](https://sourceforge.net/projects/l-e-a/) - LEA, a Lightweight Editor for Ada, aims to provide an easy, script-world-like, "look & feel" for developing Ada projects of any size and level, while enabling access to full-scale development tools like GNAT
@@ -338,7 +336,7 @@ lanugage.  It is loosely modelled after JUnit and some ideas from AUnit.
 - [polynomials](http://www.christ-usch-grein.homepage.t-online.de/Ada/Polynomials.html) - This package allows formal manipulation of polynomials of several variables.
 - [landscape](http://www.christ-usch-grein.homepage.t-online.de/Ada/Landscape.html) - A library to plot functions of two real variables.
 - [si-units](http://www.christ-usch-grein.homepage.t-online.de/Ada/Dimension/SI.html) - A set of Ada packages to compute with dimensioned items in full generality.
-- [mandelbrot_ascii](https://github.com/mosteo/mandelbrot_ascii) - Mandelbrot renderer in "ASCII" (unicode actually, but text nonetheless).
+- [mandelbrot-ascii](https://github.com/mosteo/mandelbrot_ascii) - Mandelbrot renderer in "ASCII" (unicode actually, but text nonetheless).
 
 #### Algorithms, Containers and Protocols
 - [ada-traits-containers](https://github.com/AdaCore/ada-traits-containers) - Generic Ada Library for Algorithms and Containers.
