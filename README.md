@@ -187,6 +187,7 @@ A curated list of awesome resources related to the Ada and SPARK programming lan
 - [greenhills-ada](https://www.ghs.com/products/ada_optimizing_compilers.html) - Green Hills Software offers the industry's first, fully validated family of Ada Cross Compilers for real-time targets.
 - [hac](https://sourceforge.net/projects/hacadacompiler/) - Experimental Ada compiler fully in Ada.
 - [byron](https://github.com/OneWingedShark/Byron) - The Byron project is a community-driven Ada compiler, toolchain, and IDE-system.
+- [xgc](http://www.xgc.com/) - XGC provide GCC-based bare-metal toolchains with Ada95 support for aerospace-specific targets such as MIL1750, ERC32 and LEON. As well as a legacy M68000 toolchain.
 
 #### Online
 - [tutorials-point-ada-compiler](https://www.tutorialspoint.com/compile_ada_online.php) - Online compiler built on the CodingGround engine.
