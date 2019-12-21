@@ -89,6 +89,7 @@ A curated list of awesome resources related to the Ada and SPARK programming lan
 	6. [Generators and Translators](#Generators-and-Translators)
 	7. [Shells and Interpreters](#Shells-and-Interpreters)
 	8. [Programming Languages](#Programming-Languages)
+	9. [Misc](#Misc)
 15. [Bindings](#Bindings)
 16. [License](#Licence)
 
@@ -229,6 +230,7 @@ A curated list of awesome resources related to the Ada and SPARK programming lan
 - [bb-runtimes](https://github.com/AdaCore/bb-runtimes) - GNAT bare metal board support package (BSP).
 - [avr-ada](https://sourceforge.net/projects/avr-ada) - GNAT for 8-bit AVR microcontrollers.
 - [ada-runtime](https://github.com/Componolit/ada-runtime) - A downsized Ada runtime which can be adapted to different platforms.
+- [cortex-gnat-rts](https://github.com/simonjwright/cortex-gnat-rts) - This package includes GNAT Ada Run Time Systems (RTSs) based on FreeRTOS and targeted at boards with Cortex-M0, M3, -M4, -M4F MCUs.
 
 ## OS and Kernels
 - [marte-os](https://marte.unican.es/) - MaRTE OS is a Hard Real-Time Operating System for embedded applications that follows the Minimal Real-Time POSIX.13 subset. It provides an easy to use and controlled environment to develop Multi-Thread Real-Time applications.
@@ -299,12 +301,13 @@ A curated list of awesome resources related to the Ada and SPARK programming lan
 - [swagger-ada](https://github.com/stcarrez/swagger-ada) - Ada support for Swagger codegen: OpenAPI Generator is a code generator that supports generation of API client libraries, server stubs and documentation automatically given an OpenAPI Spec.
 - [matreshka](http://forge.ada-ru.org/matreshka) - Matreshka is an Ada framework to develop information systems.  It consists of five major components: League, XML processor, Web framework, SQL access, and the Modeling framework.
 
-#### Unit Test
+#### Unit Test, Testing
 - [ahven](http://ahven.stronglytyped.org/) - Ahven is a simple unit test library and framework for the Ada programming.
 lanugage.  It is loosely modelled after JUnit and some ideas from AUnit.
 - [aunit](http://libre.adacore.com/tools/aunit/) - Ada unit testing framework.
 - [testing](https://github.com/Entomy/Testing) - Ada unit testing and measuring framework.
 - [gnatbdd](https://github.com/briot/gnatbdd) - Behavior Driven Development in Ada.
+- [scripted-testing](https://github.com/simonjwright/scripted_testing) - Supports functional testing using Tcl scripts.
 
 #### Logging
 - [alog](https://www.codelabs.ch/alog/) - Alog is a stackable logging framework for Ada.
@@ -318,6 +321,8 @@ lanugage.  It is loosely modelled after JUnit and some ideas from AUnit.
 - [gnat-coverage](https://github.com/AdaCore/gnatcoverage) - GNATcoverage is a tool to analyze and report program coverage.
 - [adacontrol](http://www.adalog.fr/en/adacontrol.html) - Ada constructs lint tool.
 - [spark-2014](https://github.com/AdaCore/spark2014/) - SPARK formal verification toolset.
+- [acats](https://github.com/simonjwright/ACATS) - The Ada Conformity Assessment Test Suite, customised for GCC.
+- [acats-grading](https://github.com/simonjwright/ACATS-grading) - Tools for grading ACATS results, modified for Unix-like systems.
 
 #### Generation
 - [asn1scc](https://github.com/ttsiodras/asn1scc) - ASN1SCC: An open source ASN.1 generator to Ada type declarations and encoders/decoders.
@@ -328,6 +333,7 @@ lanugage.  It is loosely modelled after JUnit and some ideas from AUnit.
 
 #### UML
 - [AdaML](https://github.com/rocher/AdaML) - Ada-tailored UML Modeling Language.
+- [coldframe](https://github.com/simonjwright/coldframe) - ColdFrame generates Ada framework code and documentation from UML models.
 
 ## Libraries
 
@@ -398,6 +404,7 @@ lanugage.  It is loosely modelled after JUnit and some ideas from AUnit.
 - [aforth](https://github.com/samueltardieu/aforth) - Embeddable Forth interpreter written in Ada.
 - [ada-toml](https://github.com/pmderodat/ada-toml) - TOML parser for Ada.
 - [parser-tools](https://github.com/flyx/ParserTools) - Tools for writing lexers / parsers in Ada.
+- [xia](https://github.com/simonjwright/xia) - An Ada implementation of XPath 1.0.
 
 #### Format Readers and Writers
 - [ini-files](https://github.com/zertovitch/ini-files) - The Ini file manager consists of a package, Config, which can read and modify informations from various configuration files known as "ini" files.
@@ -448,6 +455,7 @@ lanugage.  It is loosely modelled after JUnit and some ideas from AUnit.
 - [cstrings](https://github.com/mosteo/cstrings) - Convenience subprograms to interact with C strings.
 - [cvsweb2git](https://github.com/reznikmm/cvsweb2git) - Tool to imports CVS repository shared on Ada Conformity Assessment Authority into the Git repository.
 - [ada-bundler](https://github.com/flyx/ada-bundler) - Library and tool for transparently handling data and configuration file access in an Ada application. Supports MacOSX, Linux and Windows.
+- [macos-sdks-vs-gcc](https://github.com/simonjwright/macos-sdks-vs-gcc) - Provides GCC 'specs' files to cope with SDK policy changes.
 
 ## Hardware and Embedded
 
@@ -462,6 +470,7 @@ lanugage.  It is loosely modelled after JUnit and some ideas from AUnit.
 - [embrick](https://github.com/it-cosmos/emBRICK) - emBRICK driver and support for emBRICK in Ada.
 - [dw1000](https://github.com/damaki/DW1000) - Ada/SPARK driver for the DecaWave DW1000 ultra-wideband (UWB) radio chip.
 - [evb1000](https://github.com/damaki/EVB1000) - Ada/SPARK drivers to control the on-board peripherals of the DecaWave EVB1000 evaluation board.
+- [multiplexed-io](https://github.com/simonjwright/multiplexed-io) - This contains explorations, for AdaPilot, of implementing drivers for the AdaRacer MCU, using the Ravenscar profile of Ada 2012 from AdaCore and device bindings generated using SVD2Ada.
 
 #### Controllers
 - [solenoid-engine-controller](https://github.com/Fabien-Chouteau/solenoid-engine-controller) - Software controller for solenoid engines (Ada/STM32F4).
@@ -519,23 +528,27 @@ lanugage.  It is loosely modelled after JUnit and some ideas from AUnit.
 
 #### Generators and Translators
 - [adabrowse](http://home.datacomm.ch/t_wolf/tw/ada95/adabrowse) - HTML generator for Ada95 library unit specs.
-- [coldframe](https://github.com/simonjwright/coldframe) - ColdFrame generates Ada framework code and documentation from UML models.
 - [pascal-to-ada](https://github.com/zertovitch/pascal-to-ada) - A Pascal to Ada translator.
 - [tiled-code-gen](https://github.com/Fabien-Chouteau/tiled-code-gen) - Code generator for Tiled the map editor.
 - [cvsweb2git](https://github.com/reznikmm/cvsweb2git) - This tool imports CVS repository shared on Ada Conformity Assessment Authority into the Git repository.
 - [j2ada](https://github.com/Blady-Com/j2ada) - Translator for a Java valid source code in Ada source code.
 - [a2js](http://forge.ada-ru.org/matreshka/wiki/Web/A2JS) - Ada2JS is experimental open source compiler, component of Matreshka.
 - [adamagic](https://www.mapusoft.com/ada-to-c-changer/) - SofCheck AdaMagic is ACATS validated and certified Ada compiler targeting C and/or C++ (4 command line switches for fine tuning). ObjectAda and several other commercial compilers share engine with AdaMagic. MapuSoft distributes AdaMagic as integral component of AppCOE.
-- [cappulada](https://github.com/Componolit/Cappulada) - Ada binding generator for C++
+- [cappulada](https://github.com/Componolit/Cappulada) - Ada binding generator for C++.
+- [asis2xml](https://github.com/simonjwright/asis2xml) - Converts Ada sources’ ASIS representation to XML, so as to make it easier to develop reporting and transformational tools using (for example) XSLT.
 
-#### Shells and Interpreters
+#### Shells, Interpreters and Emulators
 - [sparforte](http://sparforte.com/) - SPARforte programming language is an Ada-like scripting language, previously known as business user shell (bush). Can be used as interactive UNIX shell replacement.
 - [gsh](https://github.com/AdaCore/gsh) - GSH is non interactive POSIX shell for Windows, aimed at GNU software builds. 2-3 times faster than Cygwin.
 - [gnatcoll-scripts-shell](https://github.com/AdaCore/gnatcoll-core/blob/master/src/gnatcoll-scripts-shell.ads) - GNATCOLL.Scripts.Shell is a simple embeddable scripting language, part of GNATCOLL Core.
+- [analytical-engine](https://github.com/simonjwright/analytical-engine) - An Ada 2012 emulation of Charles Babbage’s Analytical Engine.
 
 #### Programming Languages
 - [gnat-spitbol](https://www2.adacore.com/gap-static/GNAT_Book/html/rts/g-spipat__ads.htm) - GNAT.SPITBOL is an implementation of SNOBOL text-oriented programming language, now part of GNAT library.
 - [para-sail](http://parasail-lang.org/) - ParaSail is a highly parallel experimental language, similar to Go and Erlang. Originaly owned by SofCheck (now AdaCore), it is a test project to try new ideas. Expandable pointers is a sample feature that is about to be introduced to SPARK and Ada. There are in fact 4 experimental languages: ParaSail, Sparkel, Javallel, Parython, all sharing bytecode interpreter and LLVM engine.
+
+#### Misc
+- [dhondt](https://github.com/simonjwright/dhondt) - Ada implementation of D’Hondt electoral result calculator.
 
 ## Bindings
 - [libsodium-ada](https://github.com/jrmarino/libsodium-ada) - libsodium-ada is a set of thick Ada bindings to libsodium.
