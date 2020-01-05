@@ -131,6 +131,7 @@ A curated list of awesome resources related to the Ada and SPARK programming lan
 - [ada-cpp-java](https://learn.adacore.com/books/Ada_For_The_CPP_Java_Developer/index.html) - Ada for the C++ or Java Developer.
 - [spark-guidance](https://www.adacore.com/books/implementation-guidance-spark) - Implementation Guidance for the Adoption of SPARK.
 - [ada-safe-secure](https://www.adacore.com/uploads/technical-papers/SafeSecureAdav2015.pdf) - Safe and Secure Software. An invitation to Ada 2012.
+- [ada-95-tutorial](https://perso.telecom-paristech.fr/pautet/Ada95/a95list.htm) - A book going from beginner to advanced concepts in Ada 95, complete with source files
 
 #### Books
 <img height="50px" width="36px" hspace="10px" src="https://assets.cambridge.org/97811074/24814/cover/9781107424814.jpg">[Programming in Ada 2012](https://www.cambridge.org/core/books/programming-in-ada-2012/55B998B4E908A017E4D74A87364FF224#) - Comprehensive.  
