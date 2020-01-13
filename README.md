@@ -35,8 +35,9 @@ A curated list of awesome resources related to the Ada and SPARK programming lan
 	3. [Competition](#Competition)   
 4. [Compilers](#Compilers)   
 	1. [Commercial / Closed source](#Commercial--Closed-source)
-	2. [Open source](#Open-source)   
-	2. [Online](#Online)   
+	2. [Commercial / Open source](#Commercial--Open-source)
+	3. [Open source](#Open-source)   
+	4. [Online](#Online)   
 5. [Editors](#Editors)   
 	1. [Integrated Development Editors](#Integrated-Development-Editor)   
 	2. [Text Modes](#Text-Modes)    
@@ -188,6 +189,10 @@ A curated list of awesome resources related to the Ada and SPARK programming lan
 - [apex-ada](https://www.ptc.com/en/products/developer-tools/apexada) - PTC ApexAda is one of the industry’s most popular development environments for Ada and mixed Ada/C/C++ applications.
 - [greenhills-ada](https://www.ghs.com/products/ada_optimizing_compilers.html) - Green Hills Software offers the industry's first, fully validated family of Ada Cross Compilers for real-time targets.
 - [xgc](http://www.xgc.com/) - XGC provide GCC-based bare-metal toolchains with Ada95 support for aerospace-specific targets such as MIL1750, ERC32 and LEON. As well as a legacy M68000 toolchain.
+
+#### Commercial / Open source
+
+- [GNAT Pro](https://www.adacore.com/)
 
 #### Open source
 
