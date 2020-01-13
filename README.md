@@ -259,6 +259,7 @@ A curated list of awesome resources related to the Ada and SPARK programming lan
 - [lovelace-os](https://sourceforge.net/projects/lovelaceos/) - Lovelace is an effort to write a Unix like operating system using the Ada 2012 language.
 - [ada-kalinda-os](https://sourceforge.net/projects/sx-ada-kalinda/) - Ada_KALINDA is a sort of Mac Plus like OS written in Ada95.
 - [cxos](https://github.com/ajxs/cxos) - Ada Operating System development example.
+- [havk](https://github.com/RavSS/HAVK) - x86-64 security-focused OS being created with SPARK.
 
 ## Games
 - [steamsky](https://thindil.github.io/steamsky) - Roguelike in sky with a steampunk setting.
