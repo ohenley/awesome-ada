@@ -192,7 +192,7 @@ A curated list of awesome resources related to the Ada and SPARK programming lan
 
 #### Commercial / Open source
 
-- [GNAT Pro](https://www.adacore.com/)
+- [gnat-pro](https://www.adacore.com/gnatpro) - The GNAT Pro product line offers a comprehensive toolset (IDEs, debugger, librairies, dynamic and static analysis tools) for Ada, C and C++.
 
 #### Open source
 
