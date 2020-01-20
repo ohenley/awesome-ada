@@ -250,6 +250,7 @@ A curated list of awesome resources related to the Ada and SPARK programming lan
 - [avr-ada](https://sourceforge.net/projects/avr-ada) - GNAT for 8-bit AVR microcontrollers.
 - [ada-runtime](https://github.com/Componolit/ada-runtime) - A downsized Ada runtime which can be adapted to different platforms.
 - [cortex-gnat-rts](https://github.com/simonjwright/cortex-gnat-rts) - This package includes GNAT Ada Run Time Systems (RTSs) based on FreeRTOS and targeted at boards with Cortex-M0, M3, -M4, -M4F MCUs.
+- [adawebpack](https://github.com/godunko/adawebpack) - GNAT RTL for WASM and bindings for Web API
 
 ## OS and Kernels
 - [marte-os](https://marte.unican.es/) - MaRTE OS is a Hard Real-Time Operating System for embedded applications that follows the Minimal Real-Time POSIX.13 subset. It provides an easy to use and controlled environment to develop Multi-Thread Real-Time applications.
@@ -613,6 +614,7 @@ lanugage.  It is loosely modelled after JUnit and some ideas from AUnit.
 - [opencl-ada](https://github.com/flyx/OpenCLAda) - An Ada binding for the OpenCL host API.
 - [coreland-lua-ada](https://github.com/io7m/coreland-lua-ada) - Ada bindings to the Lua language.
 - [libsodium-ada](https://github.com/jrmarino/libsodium-ada) - A secure cryptographic library (libsodium for Ada).
+- [adagl](https://github.com/godunko/adagl) - Multiplatform Ada/OpenGL bindings (ported to native/OpenGL, A2JS/WebGL and WASM/WebGL)
 
 ## License
 
