@@ -457,6 +457,7 @@ lanugage.  It is loosely modelled after JUnit and some ideas from AUnit.
 - [engine-3d](https://github.com/zertovitch/engine-3d) - A 3D engine for DOS-talgics.
 - [ada-synth-lib](https://github.com/raph-amiard/ada-synth-lib) - Simple audio synthesis library.
 - [scala](http://www.huygens-fokker.org/scala) - Scala is a powerful software tool for experimentation with musical tunings, such as just intonation scales, equal and historical temperaments, microtonal and macrotonal scales, and non-Western scales.
+- [ada-portable-sound](https://github.com/fastrgv/portable-linux-sound) - a linux-sound-playing package for C++ or Ada apps that can asynchronously start and stop music loops, as well as initiate transient sounds.  Suitable for games.
 
 #### Localization
 - [translator](http://www.christ-usch-grein.homepage.t-online.de/Ada/Translator.html) - An Ada package to write language independent messages.
