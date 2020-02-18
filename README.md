@@ -353,7 +353,7 @@ lanugage.  It is loosely modelled after JUnit and some ideas from AUnit.
 - [ajunitgen](https://github.com/mosteo/ajunitgen) - Generator of JUnit-compatible XML reports in Ada.
 
 #### UML
-- [AdaML](https://github.com/rocher/AdaML) - Ada-tailored UML Modeling Language.
+- [ada-ml](https://github.com/rocher/AdaML) - Ada-tailored UML Modeling Language.
 - [coldframe](https://github.com/simonjwright/coldframe) - ColdFrame generates Ada framework code and documentation from UML models.
 
 ## Libraries
