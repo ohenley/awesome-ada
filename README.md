@@ -122,7 +122,7 @@ A curated list of awesome resources related to the Ada and SPARK programming lan
 
 #### Tutorials
 - [adacore-video-tutorials](https://www.youtube.com/playlist?list=PLkoa8uxigENkneyEEeDWVPgpMhPc9IJ7o) - AdaCore University Video Tutorials.
-- [ada-crash-course](http://www.pchapin.org/VTC/TutorialAda/AdaCrash.pdf) - Ada 2012 crash course under 50 pages from Vermont Technical College.
+- [ada-crash-course](http://www.pchapin.org/Ada/AdaCrash.pdf) - Ada 2012 crash course under 50 pages from Vermont Technical College.
 - [simple-games](https://drive.google.com/file/d/1hdLc9nZzTnBDcN9qJeDlJm1F9IL91Lvi/view) - Learning Ada 2012 by writing simple games.
 - [spark-by-example](https://github.com/tofgarion/spark-by-example) - Collection of verified functions and data types in SPARK.
 
