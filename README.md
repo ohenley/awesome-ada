@@ -229,7 +229,6 @@ A curated list of awesome resources related to the Ada and SPARK programming lan
 - [bbedit-ada-module](https://www.barebones.com/support/bbedit/plugin_library.html) - BBEdit support for Ada.
 
 #### VSCode Extensions
-- [ada-language-server](https://github.com/AdaCore/ada_language_server) - Adacore server implemention of the the Microsoft Language Protocol for Ada and SPARK.
 - [entomy-ada-vscode](https://github.com/Entomy/Ada-vscode) - Ada language support for VS Code.
 - [lucretia-ada-vscode](https://github.com/Lucretia/ada-vscode) - Basic syntax highlighting for Ada and GPR.
 - [ada-utilities](https://github.com/Lucretia/ada-utilities)- VSCode extension Ada programmers which provides a few utility functions.
@@ -367,6 +366,7 @@ lanugage.  It is loosely modelled after JUnit and some ideas from AUnit.
 - [mandelbrot-ascii](https://github.com/mosteo/mandelbrot_ascii) - Mandelbrot renderer in "ASCII" (unicode actually, but text nonetheless).
 
 #### Algorithms, Containers and Protocols
+- [ada-language-server](https://github.com/AdaCore/ada_language_server) - Adacore server implemention of the the Microsoft Language Protocol for Ada and SPARK.
 - [ada-traits-containers](https://github.com/AdaCore/ada-traits-containers) - Generic Ada Library for Algorithms and Containers.
 - [dequesterity](https://sourceforge.net/projects/dequesterity/) - Deque/buffer generics that consist of building blocks that may be combined in various ways to create higher abstraction buffers.
 - [pragmarc](https://github.com/jrcarter/PragmARC) - PragmAda Reusable Components (PragmARCs) from PragmAda S/W Engineering.
