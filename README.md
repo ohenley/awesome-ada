@@ -61,6 +61,7 @@ A curated list of awesome resources related to the Ada and SPARK programming lan
 	1. [Verification](#Verification)   
 	2. [Generation](#Generation)
 	3. [UML](#UML)
+	4. [Cryptography](#Cryptography)
 12. [Libraries](#Libraries)   
 	1. [Math](#Math)   
 	2. [Algorithms, Containers and Protocols](#Algorithms-Containers-and-Protocols)   
@@ -354,6 +355,9 @@ lanugage.  It is loosely modelled after JUnit and some ideas from AUnit.
 #### UML
 - [ada-ml](https://github.com/rocher/AdaML) - Ada-tailored UML Modeling Language.
 - [coldframe](https://github.com/simonjwright/coldframe) - ColdFrame generates Ada framework code and documentation from UML models.
+
+#### Cryptography
+- [ada-keystore](https://github.com/stcarrez/ada-keystore) - Ada Keystore - protect your sensitive data with secure storage.
 
 ## Libraries
 
