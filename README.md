@@ -61,13 +61,14 @@ A curated list of awesome resources related to the Ada and SPARK programming lan
 	1. [Verification](#Verification)   
 	2. [Generation](#Generation)
 	3. [UML](#UML)
-	4. [Cryptography](#Cryptography)
+	4. [Encryption](#Encryption)
 12. [Libraries](#Libraries)   
 	1. [Math](#Math)   
-	2. [Algorithms, Containers and Protocols](#Algorithms-Containers-and-Protocols)   
-	3. [Patterns](#Patterns)   
-	4. [System Modeling](#System-Modeling)
-	5. [Parsers, Scanners, Linters, Analysers, Interpreters and Prettyprinters](#Parsers-Scanners-Linters-Analysers-Interpreters-and-Prettyprinters)   
+	2. [Algorithms, Containers and Protocols](#Algorithms-Containers-and-Protocols)
+	3. [Encryption, hashing, encoding](#Encryption-hashing-encoding)
+	4. [Patterns](#Patterns)   
+	5. [System Modeling](#System-Modeling)
+	6. [Parsers, Scanners, Linters, Analysers, Interpreters and Prettyprinters](#Parsers-Scanners-Linters-Analysers-Interpreters-and-Prettyprinters)   
 	6. [Format Readers and Writers](#Format-Readers-and-Writers)   
 	7. [Network](#Network)   
 	8. [Web](#Web)   
@@ -356,7 +357,7 @@ lanugage.  It is loosely modelled after JUnit and some ideas from AUnit.
 - [ada-ml](https://github.com/rocher/AdaML) - Ada-tailored UML Modeling Language.
 - [coldframe](https://github.com/simonjwright/coldframe) - ColdFrame generates Ada framework code and documentation from UML models.
 
-#### Cryptography
+#### Encryption
 - [ada-keystore](https://github.com/stcarrez/ada-keystore) - Ada Keystore - protect your sensitive data with secure storage.
 
 ## Libraries
@@ -371,42 +372,43 @@ lanugage.  It is loosely modelled after JUnit and some ideas from AUnit.
 
 #### Algorithms, Containers and Protocols
 - [ada-language-server](https://github.com/AdaCore/ada_language_server) - Adacore server implemention of the the Microsoft Language Protocol for Ada and SPARK.
+- [ada-lsp](https://github.com/reznikmm/ada-lsp) - Language Server Protocol for Ada.
+- [ada-lsp-client](https://github.com/Alex-Gamper/Ada-LanguageServer) - Prototype implementation of LSP client - Visual Studio 2017.
 - [ada-traits-containers](https://github.com/AdaCore/ada-traits-containers) - Generic Ada Library for Algorithms and Containers.
 - [dequesterity](https://sourceforge.net/projects/dequesterity/) - Deque/buffer generics that consist of building blocks that may be combined in various ways to create higher abstraction buffers.
 - [pragmarc](https://github.com/jrcarter/PragmARC) - PragmAda Reusable Components (PragmARCs) from PragmAda S/W Engineering.
-- [libadacrypt](https://github.com/cforler/Ada-Crypto-Library) - This is a crypto library for Ada with a nice API and is written for the i386 and x86_64 hardware architecture.
-- [libsparkcrypto](https://github.com/Componolit/libsparkcrypto) - A cryptographic library implemented in SPARK.
 - [booch95](https://sourceforge.net/projects/booch95/) - The Ada 95 Booch components are a port of Grady Booch's C++ components.
 - [ada-id](https://github.com/anthony-arnold/AdaID) - Simple Ada library for generating UUIDs.
 - [ada-ga](https://github.com/frett27/Ada-GA) - Genetic Algorithm Implementation for Ada.
 - [ada-sodoku](https://github.com/frett27/Ada-Sodoku) - Small Library for Sodoku grid solving / finding.
 - [sl3p](https://github.com/jklmnn/sl3p) - Simple Layer 3 Protocol.
-- [sip-hash](https://github.com/grim7reaper/SipHash) - A pure Ada implementation of the SipHash PRF.
-- [ada-lsp](https://github.com/reznikmm/ada-lsp) - Language Server Protocol for Ada.
-- [ada-lsp-client](https://github.com/Alex-Gamper/Ada-LanguageServer) - Prototype implementation of LSP client - Visual Studio 2017.
-- [ada-language-server](https://github.com/AdaCore/ada_language_server) - Prototype implementation of the Microsoft Language Server Protocol for Ada/SPARK.
 - [smart-pointers](http://www.christ-usch-grein.homepage.t-online.de/Ada/Smart_Pointers.html) - A package providing a reference-counted access type Smart_Pointer.
 - [marsaglia-random-number-generator](http://www.christ-usch-grein.homepage.t-online.de/Ada/Marsaglia.html) - Ada implementation of the algorithm developed by George Marsaglia, Supercomputer Computations Research Institute, Florida State University.
 - [lib-anne](https://github.com/Entomy/libAnne) - Large collection of Ada packages. This is sort of meant to be a "new standard library". Who's Anne? Ada's daughter.
-- [libkeccak](https://github.com/damaki/libkeccak) - A SPARK implementation of the Keccak family of sponge functions and related constructions.
-- [ascon-spark](https://github.com/jhumphry/Ascon_SPARK) - Ada/SPARK implementation of the Ascon Authenticated Encryption with Additional Data Algorithm.
-- [spark-sip-hash](https://github.com/jhumphry/SPARK_SipHash) - Ada/SPARK implementation of the SipHash keyed hash function.
-- [spark-norx](https://github.com/jhumphry/SPARK_NORX) - Ada/SPARK implementation of the NORX Authenticated Encryption with Additional Data Algorithm.
 - [hungarian-algorithm](https://github.com/fastrgv/HungarianAlgorithm) - Hungarian Algorithm implementation in Ada.
-- [hungarian](https://github.com/mosteo/hungarian) - Ada wrapper for the fast Stachniss' Hungarian solver.
-- [stotp](https://github.com/jklmnn/STOTP) - Timed One-Time-Pad (RFC 6238) implementation in SPARK.
 - [sal](http://www.stephe-leake.org/ada/sal.html) - SAL (Stephe's Ada Library).
 - [nb-ada](https://github.com/andgi/NBAda) - NBAda : An Ada library of lock-free data structures and algorithms.
-- [xxhash-ada](https://github.com/lyarbean/xxhash-ada) - Extremely fast non-cryptographic Hash algorithm, xxhash is working at speeds close to RAM limits.
-- [base58-ada](https://github.com/MichaelAllenHardeman/base58_ada) - Base58 encoding and decoding in Ada.
 - [paraffin](https://sourceforge.net/projects/paraffin/) - A suite of Ada 2012 generics to facilitate iterative and recursive parallelism for multicore systems.
 - [deepend](https://sourceforge.net/projects/deepend/) - Deepend is a storage pool with subpool capabilities for Ada 2012, Ada 2005, and Ada 95.
 - [charles](http://home.earthlink.net/~matthewjheaney/charles/) - Charles is an Ada 95 container library, precursor to Ada 2005+ standard containers.
 - [simple-blockchain](https://github.com/tomekw/simple_blockchain) - Simple blockchain in Ada.
-- [fletcher](https://github.com/darkestkhan/fletcher) - Trivial implementation of fletcher_16 checksum computation algorithm.
 - [adagio](https://github.com/mosteo/adagio) - Gnutella2 (G2) network server leaf.
 - [agpl](https://github.com/mosteo/agpl) - Ada General Purpose Library (Miscellaneous utilities, with a robotic flavor).
 - [increment](https://github.com/reznikmm/increment) - This package provides incremental analysis algorithms and related data structures.
+
+#### Encryption, hashing, encoding
+- [threefish](https://github.com/jrcarter/Threefish) - Ada Implementation of the Threefish-256 Encryption Algorithm
+- [fletcher](https://github.com/darkestkhan/fletcher) - Trivial implementation of fletcher_16 checksum computation algorithm.
+- [base58-ada](https://github.com/MichaelAllenHardeman/base58_ada) - Base58 encoding and decoding in Ada.
+- [libadacrypt](https://github.com/cforler/Ada-Crypto-Library) - This is a crypto library for Ada with a nice API and is written for the i386 and x86_64 hardware architecture.
+- [libsparkcrypto](https://github.com/Componolit/libsparkcrypto) - A cryptographic library implemented in SPARK.
+- [sip-hash](https://github.com/grim7reaper/SipHash) - A pure Ada implementation of the SipHash PRF.
+- [libkeccak](https://github.com/damaki/libkeccak) - A SPARK implementation of the Keccak family of sponge functions and related constructions.
+- [ascon-spark](https://github.com/jhumphry/Ascon_SPARK) - Ada/SPARK implementation of the Ascon Authenticated Encryption with Additional Data Algorithm.
+- [spark-sip-hash](https://github.com/jhumphry/SPARK_SipHash) - Ada/SPARK implementation of the SipHash keyed hash function.
+- [spark-norx](https://github.com/jhumphry/SPARK_NORX) - Ada/SPARK implementation of the NORX Authenticated Encryption with Additional Data Algorithm.
+- [stotp](https://github.com/jklmnn/STOTP) - Timed One-Time-Pad (RFC 6238) implementation in SPARK.
+- [xxhash-ada](https://github.com/lyarbean/xxhash-ada) - Extremely fast non-cryptographic Hash algorithm, xxhash is working at speeds close to RAM limits.
 
 #### Patterns
 - [ada-promises](https://github.com/briot/Ada-promises) - Implementing promises in Ada. Type-safe, efficient, thread-safe.
@@ -621,6 +623,7 @@ lanugage.  It is loosely modelled after JUnit and some ideas from AUnit.
 - [adagl](https://github.com/godunko/adagl) - Multiplatform Ada/OpenGL bindings (ported to native/OpenGL, A2JS/WebGL and WASM/WebGL)
 - [tcl-ada-shell](https://github.com/simonjwright/tcladashell) - Tcl Ada SHell (Tash) is an Ada binding to Tcl/Tk.
 - [tashy](https://github.com/thindil/tashy) - Tashy is short from Tcl Ada SHell Younger. It is derivate of Tash, focused mostly on Tk binding.
+- [hungarian](https://github.com/mosteo/hungarian) - Ada wrapper for the fast Stachniss' Hungarian solver.
 
 ## License
 
