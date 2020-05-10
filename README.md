@@ -169,6 +169,7 @@ A curated list of awesome resources related to the Ada and SPARK programming lan
 - [gitter-ada](https://gitter.im/ada-lang/Lobby) - Ada channel at Gitter.
 - [telegram-ada](https://t.me/ada_lang) - Ada group at Telegram.
 - [irc-ada](http://webchat.freenode.net/?channels=%23ada) - Ada channel at IRC.
+- [matrix-ada](https://matrix.to/#/#ada-lang:matrix.org) - Ada room at Matrix.
 
 #### News and Resources
 - [adacore-blog](https://blog.adacore.com/) - An insight into the AdaCore ecosystem.
@@ -176,7 +177,7 @@ A curated list of awesome resources related to the Ada and SPARK programming lan
 - [acm-sig-ada](https://www.sigada.org/) - The Special Interest Group on Ada.
 - [ada-resource-association](http://www.adaic.org/community/) - Since 1990 the Ada Resource Association’s principal mission has been “To ensure continued success of Ada users and promote Ada use in the software industry”.
 - [ada-information-clearinghouse](http://www.adaic.org/) - News and resources for the Ada programming language.
-- [ada-planet](https://www.laeran.pl/adaplanet/p/i/) - News Aggregator from the Ada programming language world.
+- [ada-planet](https://www.laeran.pl/profile/adaplanet) - News Aggregator from the Ada programming language world.
 
 #### Competition
 <a href="https://www.makewithada.org/">
