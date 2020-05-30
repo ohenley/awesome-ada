@@ -233,7 +233,7 @@ A curated list of awesome resources related to the Ada and SPARK programming lan
 - [bbedit-ada-module](https://www.barebones.com/support/bbedit/plugin_library.html) - BBEdit support for Ada.
 
 #### VSCode Extensions
-- [entomy-ada-vscode](https://github.com/Entomy/Ada-vscode) - Ada language support for VS Code.
+- [AdaCore.ada](https://marketplace.visualstudio.com/items?itemName=AdaCore.ada) - Language Support for Ada. It includes [Language Server for Ada](https://github.com/AdaCore/ada_language_server).
 - [lucretia-ada-vscode](https://github.com/Lucretia/ada-vscode) - Basic syntax highlighting for Ada and GPR.
 - [ada-utilities](https://github.com/Lucretia/ada-utilities) - VSCode extension Ada programmers which provides a few utility functions.
 
