@@ -354,6 +354,7 @@ lanugage.  It is loosely modelled after JUnit and some ideas from AUnit.
 - [fmt](http://www.inspirel.com/fmt/) - Formal Methods Toolkit is a set of extension packages for Mathematica, supporting software. engineering activities related to modeling, verification and Ada code generation.
 - [automate](https://github.com/Blady-Com/Automate) - Finite-state machine generator.
 - [ajunitgen](https://github.com/mosteo/ajunitgen) - Generator of JUnit-compatible XML reports in Ada.
+- [recordflux](https://github.com/Componolit/RecordFlux) - RecordFlux: Toolset for the formal specification of messages and the generation of verifiable binary parsers and message generators in SPARK.
 
 #### UML
 - [ada-ml](https://github.com/rocher/AdaML) - Ada-tailored UML Modeling Language.
