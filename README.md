@@ -557,7 +557,7 @@ lanugage.  It is loosely modelled after JUnit and some ideas from AUnit.
 #### Simulation
 - [ghdl](https://github.com/ghdl/ghdl) - VHDL 2008/93/87 simulator.
 - [parallel-sim](https://github.com/JulianSchutsch/ParallelSim) - Distributed Simulation of Transport Networks.
-- [covidsim](https://github.com/ohenley/covidsim) - Qt5 Covid19 simulator. Ada code under the hood.
+- [covidsim](https://github.com/ohenley/covidsim) - Qt5 COVID-19 simulator. Ada code under the hood.
 
 #### Generators and Translators
 - [adabrowse](http://home.datacomm.ch/t_wolf/tw/ada95/adabrowse) - HTML generator for Ada95 library unit specs.
