@@ -438,6 +438,7 @@ lanugage.  It is loosely modelled after JUnit and some ideas from AUnit.
 
 #### Format Readers and Writers
 - [ini-files](https://github.com/zertovitch/ini-files) - The Ini file manager consists of a package, Config, which can read and modify informations from various configuration files known as "ini" files.
+- [protobuf-ada](https://github.com/persan/protobuf-ada) - Experimantal Ada code generation support for Google Protocol Buffers
 - [ada-yaml](https://github.com/yaml/AdaYaml) - Experimental YAML 1.3 implementation in Ada.
 - [json-ada](https://github.com/onox/json-ada) - An Ada 2012 library for parsing JSON.
 - [jwx](https://github.com/Componolit/jwx) - A formally verified JSON library in SPARK.
