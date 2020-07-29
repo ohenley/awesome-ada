@@ -256,6 +256,7 @@ A curated list of awesome resources related to the Ada and SPARK programming lan
 - [adawebpack](https://github.com/godunko/adawebpack) - GNAT RTL for WASM and bindings for Web API
 
 ## OS and Kernels
+- [m2os](https://m2os.unican.es/) - RTOS with simple tasking support for small microcontrollers.
 - [marte-os](https://marte.unican.es/) - MaRTE OS is a Hard Real-Time Operating System for embedded applications that follows the Minimal Real-Time POSIX.13 subset. It provides an easy to use and controlled environment to develop Multi-Thread Real-Time applications.
 - [muen](https://muen.codelabs.ch/) - An x86/64 Separation Kernel for High Assurance.
 - [ewok](https://github.com/wookey-project/ewok-kernel) - EwoK is a microkernel targeting micro-controllers and embedded systems.
