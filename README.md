@@ -180,9 +180,11 @@ A curated list of awesome resources related to the Ada and SPARK programming lan
 - [ada-planet](https://www.laeran.pl/profile/adaplanet) - News Aggregator from the Ada programming language world.
 
 #### Competition
-<a href="https://www.makewithada.org/">
-<img width="200px" src="https://www.makewithada.org/_ui2017/mwac2018.svg"
-</a>
+<div align="center">
+	<a href="https://www.makewithada.org/">
+		<img width="800px" src="https://hackster.imgix.net/uploads/attachments/1164282/_UAa0j7WX8u.blob?auto=compress%2Cformat&w=800&h=200&fit=min"
+	</a>
+</div>
 
 ## Compilers
 
