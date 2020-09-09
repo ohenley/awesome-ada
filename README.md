@@ -600,6 +600,7 @@ lanugage.  It is loosely modelled after JUnit and some ideas from AUnit.
 - [dbus-ada](https://codelabs.ch/dbus-ada/index.html) - The D_Bus/Ada library provides an Ada binding to the D-Bus message bus system.
 - [opus-ada](https://github.com/onox/opus-ada) - Ada 2012 bindings for the Opus audio codec.
 - [canberra-ada](https://github.com/onox/canberra-ada) - Ada 2012 bindings for libcanberra, an implementation of the XDG Sound Theme and Name Specifications.
+- [inotify-ada](https://github.com/onox/inotify-ada) - An Ada 2012 library for monitoring filesystem events using Linux' inotify API.
 - [opengl-ada](http://flyx.github.io/OpenGLAda/) - Thick Ada binding for OpenGL and GLFW.
 - [opencl-ada](http://flyx.github.io/OpenCLAda) - Ada binding for the OpenCL host API.
 - [rclada](https://github.com/ada-ros/rclada) - Ada client library for ROS2/RCL.
