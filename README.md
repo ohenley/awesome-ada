@@ -248,6 +248,7 @@ A curated list of awesome resources related to the Ada and SPARK programming lan
 - [gprbuild](https://github.com/AdaCore/gprbuild) - Adacore multi-language software build tool.
 - [ravenadm](https://github.com/jrmarino/ravenadm) - Administration tool for Ravenports http://www.ravenports.com.
 - [synth](https://github.com/jrmarino/synth) - Next D/Ports build tool for live systems (Alternative for Portmaster and Portupgrade tools).
+- [Ada 4 Cmake](https://github.com/mosteo/ada4cmake) - Most up to date version of CMake integration.
 
 #### Continuous Integration
 - [continuous-verification](https://github.com/jklmnn/continuous-verification) - SPARK formal verification automated with Travis CI.
