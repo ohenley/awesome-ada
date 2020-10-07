@@ -246,7 +246,7 @@ A curated list of awesome resources related to the Ada and SPARK programming lan
 
 #### VSCode Extensions
 - [adacore-ada](https://marketplace.visualstudio.com/items?itemName=AdaCore.ada) - Language Support for Ada. It includes [Language Server for Ada](https://github.com/AdaCore/ada_language_server).
-- [lucretia-ada-vscode](https://github.com/Lucretia/ada-vscode) - Basic syntax highlighting for Ada and GPR.
+- [ada-vscode](https://github.com/Lucretia/ada-vscode) - Basic syntax highlighting for Ada and GPR.
 - [ada-utilities](https://github.com/Lucretia/ada-utilities) - VSCode extension Ada programmers which provides a few utility functions.
 
 ## Deployment
@@ -321,7 +321,7 @@ A curated list of awesome resources related to the Ada and SPARK programming lan
 #### Terminal User Interface
 
 - [curses](https://github.com/annexi-strayline/Curses) - Advanced UNIX Terminal UI Ada Binding Package.
-- [adacurses](http://invisible-island.net/ncurses/ncurses-Ada95.html) - Ada95 bindings for ncurses.
+- [ncurses-ada95](http://invisible-island.net/ncurses/ncurses-Ada95.html) - Ada95 bindings for ncurses.
 
 #### 3D
 - [globe-3d](https://github.com/zertovitch/globe-3d) - GL Object Based Engine for 3D.
@@ -374,7 +374,7 @@ lanugage.  It is loosely modelled after JUnit and some ideas from AUnit.
 - [fmt](http://www.inspirel.com/fmt/) - Formal Methods Toolkit is a set of extension packages for Mathematica, supporting software. engineering activities related to modeling, verification and Ada code generation.
 - [automate](https://github.com/Blady-Com/Automate) - Finite-state machine generator.
 - [ajunitgen](https://github.com/mosteo/ajunitgen) - Generator of JUnit-compatible XML reports in Ada.
-- [recordflux](https://github.com/Componolit/RecordFlux) - RecordFlux: Toolset for the formal specification of messages and the generation of verifiable binary parsers and message generators in SPARK.
+- [record-flux](https://github.com/Componolit/RecordFlux) - RecordFlux: Toolset for the formal specification of messages and the generation of verifiable binary parsers and message generators in SPARK.
 
 #### UML
 - [ada-ml](https://github.com/rocher/AdaML) - Ada-tailored UML Modeling Language.
@@ -423,14 +423,14 @@ lanugage.  It is loosely modelled after JUnit and some ideas from AUnit.
 - [threefish](https://github.com/jrcarter/Threefish) - Ada Implementation of the Threefish-256 Encryption Algorithm
 - [fletcher](https://github.com/darkestkhan/fletcher) - Trivial implementation of fletcher_16 checksum computation algorithm.
 - [base58-ada](https://github.com/MichaelAllenHardeman/base58_ada) - Base58 encoding and decoding in Ada.
-- [libadacrypt](https://github.com/cforler/Ada-Crypto-Library) - This is a crypto library for Ada with a nice API and is written for the i386 and x86_64 hardware architecture.
+- [ada-crypto-library](https://github.com/cforler/Ada-Crypto-Library) - This is a crypto library for Ada with a nice API and is written for the i386 and x86_64 hardware architecture.
 - [libsparkcrypto](https://github.com/Componolit/libsparkcrypto) - A cryptographic library implemented in SPARK.
 - [sip-hash](https://github.com/grim7reaper/SipHash) - A pure Ada implementation of the SipHash PRF.
 - [libkeccak](https://github.com/damaki/libkeccak) - A SPARK implementation of the Keccak family of sponge functions and related constructions.
 - [ascon-spark](https://github.com/jhumphry/Ascon_SPARK) - Ada/SPARK implementation of the Ascon Authenticated Encryption with Additional Data Algorithm.
 - [spark-sip-hash](https://github.com/jhumphry/SPARK_SipHash) - Ada/SPARK implementation of the SipHash keyed hash function.
 - [spark-norx](https://github.com/jhumphry/SPARK_NORX) - Ada/SPARK implementation of the NORX Authenticated Encryption with Additional Data Algorithm.
-- [sparknacl](https://github.com/rod-chapman/SPARKNaCl) - SPARK 2014 re-implementation of the TweetNaCl crypto library.
+- [spark-nacl](https://github.com/rod-chapman/SPARKNaCl) - SPARK 2014 re-implementation of the TweetNaCl crypto library.
 - [stotp](https://github.com/jklmnn/STOTP) - Timed One-Time-Pad (RFC 6238) implementation in SPARK.
 - [xxhash-ada](https://github.com/lyarbean/xxhash-ada) - Extremely fast non-cryptographic Hash algorithm, xxhash is working at speeds close to RAM limits.
 - [libsodium-ada](https://github.com/jrmarino/libsodium-ada) - A secure cryptographic library (libsodium for Ada).
@@ -471,7 +471,7 @@ lanugage.  It is loosely modelled after JUnit and some ideas from AUnit.
 - [json-ada](https://github.com/onox/json-ada) - An Ada 2012 library for parsing JSON.
 - [jwx](https://github.com/Componolit/jwx) - A formally verified JSON library in SPARK.
 - [xmlada](https://github.com/AdaCore/xmlada) - The XML/Ada toolkit.
-- [xml-ez-out](http://www.mckae.com/xmlEz.html) - Library for emitting XML from Ada programs.
+- [xml-ez](http://www.mckae.com/xmlEz.html) - Library for emitting XML from Ada programs.
 - [spark-xml](https://github.com/Componolit/SXML) - A formally verified XML library in SPARK.
 - [excel-writer](https://github.com/zertovitch/excel-writer) - Create Excel files with basic formats.
 - [generic-image-decoder](https://github.com/zertovitch/gid) - Multi-format image decoder library for Ada.
@@ -489,7 +489,7 @@ lanugage.  It is loosely modelled after JUnit and some ideas from AUnit.
 - [zeromq-ada](https://github.com/persan/zeromq-Ada.git) - Binding to the ZeroMQ comunications-library.
 
 #### Chatting and Communication
-- [AXMPP](https://github.com/coopht/axmpp) - With the AXMPP library you can connect to a Jabber server to send and receive messages.
+- [axmpp](https://github.com/coopht/axmpp) - With the AXMPP library you can connect to a Jabber server to send and receive messages.
 - [weechat-ada](https://github.com/onox/weechat-ada) - Ada 2012 library for WeeChat plug-ins.
 - [weechat-canberra](https://github.com/onox/weechat-canberra) - A WeeChat plug-in written in Ada 2012 that plays sounds using Canberra.
 - [weechat-emoji](https://github.com/onox/weechat-emoji) - A WeeChat plug-in written in Ada 2012 that displays emoji.
@@ -521,7 +521,7 @@ lanugage.  It is loosely modelled after JUnit and some ideas from AUnit.
 
 #### Localization
 - [translator](http://www.christ-usch-grein.homepage.t-online.de/Ada/Translator.html) - An Ada package to write language independent messages.
-- [zany-blue](https://sourceforge.net/projects/zanyblue/) - An Ada package allowing the externalization of application messages into a properties file.
+- [zanyblue](https://sourceforge.net/projects/zanyblue/) - An Ada package allowing the externalization of application messages into a properties file.
 
 #### Utilities
 - [split-n-join](http://www.christ-usch-grein.homepage.t-online.de/Ada/Split_n_Join.html) - An Ada package Ada.Strings.Unbounded.Lists to split and join Strings similar to Perl.
@@ -529,7 +529,7 @@ lanugage.  It is loosely modelled after JUnit and some ideas from AUnit.
 - [colorize](http://www.christ-usch-grein.homepage.t-online.de/Ada/Utilities.html) - Presentation of tokens of an Ada program in different colors.
 - [lines-of-code](http://www.christ-usch-grein.homepage.t-online.de/Ada/Utilities.html) - Count the lines of code of an Ada program.
 - [auto-counters](https://github.com/jhumphry/auto_counters) - Reference counting approaches to resource management.
-- [ada-stream-tools](https://github.com/persan/a-stream-tools.git) - Stream utilities for Ada2005 and 2012.
+- [a-stream-tools](https://github.com/persan/a-stream-tools.git) - Stream utilities for Ada2005 and 2012.
 - [ssprep](https://github.com/persan/ssprep.git) - An extensible template engine akin to jinja but using [template-parser](https://github.com/AdaCore/templates-parser) and intended for command line usage.
 - [licensing](https://github.com/mosteo/licensing) - Open Source Licenses library for Ada.
 - [simple-logging](https://github.com/mosteo/simple_logging) - Easy to use logging facilities for output to console in Ada programs.
@@ -567,7 +567,7 @@ lanugage.  It is loosely modelled after JUnit and some ideas from AUnit.
 
 #### Drivers
 - [ada-drivers-library](https://github.com/AdaCore/Ada_Drivers_Library) - Ada drivers for various MCU and sensors.
-- [embrick](https://github.com/it-cosmos/emBRICK) - emBRICK driver and support for emBRICK in Ada.
+- [em-brick](https://github.com/it-cosmos/emBRICK) - emBRICK driver and support for emBRICK in Ada.
 - [dw1000](https://github.com/damaki/DW1000) - Ada/SPARK driver for the DecaWave DW1000 ultra-wideband (UWB) radio chip.
 - [evb1000](https://github.com/damaki/EVB1000) - Ada/SPARK drivers to control the on-board peripherals of the DecaWave EVB1000 evaluation board.
 - [multiplexed-io](https://github.com/simonjwright/multiplexed-io) - This contains explorations, for AdaPilot, of implementing drivers for the AdaRacer MCU, using the Ravenscar profile of Ada 2012 from AdaCore and device bindings generated using SVD2Ada.
@@ -588,7 +588,7 @@ lanugage.  It is loosely modelled after JUnit and some ideas from AUnit.
 - [coffee-clock](https://github.com/Fabien-Chouteau/coffee-clock) - Waking up with a fresh cup of coffee.
 - [noise-nugget](https://github.com/Fabien-Chouteau/noise-nugget) - Square Inch Synthesizer.
 - [spark-railway-demo](https://github.com/Fabien-Chouteau/spark-railway-demo) - Simulated railway network in SPARK/Ada.
-- [micro-temp-pi](https://github.com/jklmnn/MicroTemPi) - Raspberry Pi using a BBC Micro:Bit as temperature sensor.
+- [micro-tem-pi](https://github.com/jklmnn/MicroTemPi) - Raspberry Pi using a BBC Micro:Bit as temperature sensor.
 - [wee-noise-maker](https://github.com/Fabien-Chouteau/Wee-Noise-Maker) - Wee Noise Maker is an open source pocket synthesizer.
 - [lunar-lander-rotation](https://github.com/AdaCore/Lunar_Lander_Rotation_Demo) - Program that interacts with the AdaFruit BNO055 breakout board in order to send orientation data to a host computer.
 - [railway-simulation](https://github.com/AdaCore/SPARK_Railway_Simulation_Demo) - Program simulating a railway network with trains, switches and signaling. The signaling system is proven with SPARK/Ada to ensure that trains cannot collide.
@@ -626,7 +626,7 @@ lanugage.  It is loosely modelled after JUnit and some ideas from AUnit.
 #### Simulation
 - [ghdl](https://github.com/ghdl/ghdl) - VHDL 2008/93/87 simulator.
 - [parallel-sim](https://github.com/JulianSchutsch/ParallelSim) - Distributed Simulation of Transport Networks.
-- [covidsim](https://github.com/ohenley/covidsim) - Qt5 COVID-19 simulator. Ada code under the hood.
+- [covid-19-simulator](https://github.com/ohenley/COVID-19_Simulator) - Multi engine/algorithms COVID-19 simulator. Ada, Qt code under the hood.
 
 #### Generators and Translators
 - [adabrowse](http://home.datacomm.ch/t_wolf/tw/ada95/adabrowse) - HTML generator for Ada95 library unit specs.
@@ -635,7 +635,7 @@ lanugage.  It is loosely modelled after JUnit and some ideas from AUnit.
 - [cvsweb2git](https://github.com/reznikmm/cvsweb2git) - This tool imports CVS repository shared on Ada Conformity Assessment Authority into the Git repository.
 - [j2ada](https://github.com/Blady-Com/j2ada) - Translator for a Java valid source code in Ada source code.
 - [a2js](http://forge.ada-ru.org/matreshka/wiki/Web/A2JS) - Ada2JS is experimental open source compiler, component of Matreshka.
-- [adamagic](https://www.mapusoft.com/ada-to-c-changer/) - SofCheck AdaMagic is ACATS validated and certified Ada compiler targeting C and/or C++ (4 command line switches for fine tuning). ObjectAda and several other commercial compilers share engine with AdaMagic. MapuSoft distributes AdaMagic as integral component of AppCOE.
+- [ada-magic](https://www.mapusoft.com/ada-to-c-changer/) - SofCheck AdaMagic is ACATS validated and certified Ada compiler targeting C and/or C++ (4 command line switches for fine tuning). ObjectAda and several other commercial compilers share engine with AdaMagic. MapuSoft distributes AdaMagic as integral component of AppCOE.
 - [cappulada](https://github.com/Componolit/Cappulada) - Ada binding generator for C++.
 - [asis2xml](https://github.com/simonjwright/asis2xml) - Converts Ada sources’ ASIS representation to XML, so as to make it easier to develop reporting and transformational tools using (for example) XSLT.
 
