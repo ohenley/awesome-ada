@@ -52,6 +52,7 @@ A curated list of awesome resources related to the Ada and SPARK programming lan
 	1. [Components](#Components)   
 	2. [Distributed](#Distributed)   
 	3. [Graphical User Interface](#Graphical-User-Interface)   
+	3. [Terminal User Interface](#Terminal-User-Interface)
 	4. [3D](#3D)   
 	5. [Web](#Web)   
 	6. [Unit Test](#Unit-Test)   
@@ -65,16 +66,23 @@ A curated list of awesome resources related to the Ada and SPARK programming lan
 12. [Libraries](#Libraries)   
 	1. [Math](#Math)   
 	2. [Algorithms, Containers and Protocols](#Algorithms-Containers-and-Protocols)
-	3. [Encryption, hashing, encoding](#Encryption-hashing-encoding)
-	4. [Patterns](#Patterns)   
-	5. [System Modeling](#System-Modeling)
-	6. [Parsers, Scanners, Linters, Analysers, Interpreters and Prettyprinters](#Parsers-Scanners-Linters-Analysers-Interpreters-and-Prettyprinters)   
-	6. [Format Readers and Writers](#Format-Readers-and-Writers)   
-	7. [Network](#Network)   
-	8. [Web](#Web-1)
-	9. [Multimedia](#Multimedia)   
-	10. [Localization](#Localization)   
-	11. [Utilities](#Utilities)   
+	3. [Cryptograrphy](#Cryptography)
+	4. [Compression](#Compression)
+	5. [Patterns](#Patterns)
+	6. [System Modeling](#System-Modeling)
+	7. [Parsers, Scanners, Linters, Analysers, Interpreters and Prettyprinters](#Parsers-Scanners-Linters-Analysers-Interpreters-and-Prettyprinters)
+	8. [Format Readers and Writers](#Format-Readers-and-Writers)
+	9. [Networking and Communication Middleware](#Networking-and-Communication-Middleware)
+	10. [Chatting and Communication](#Chatting-and-Communication)
+	11. [Web](#Web-1)
+	12. [Computer Graphics](#Computer-Graphics)
+	13. [General Purpose Computing](#General-Purpose-Computing)
+	14. [Sound](#Sound)
+	15. [Localization](#Localization)
+	16. [Utilities](#Utilities)
+	17. [Robotics](#Robotics)
+	18. [Linux and POSIX](#Linux-and-POSIX)
+	19. [Windows and .NET](#Windows-and-.NET)
 13. [Hardware and Embedded](#Hardware-and-Embedded)   
 	1. [Frameworks](#Frameworks)   
 	2. [Firmwares](#Firmwares)   
@@ -310,15 +318,21 @@ A curated list of awesome resources related to the Ada and SPARK programming lan
 - [qt-ada](https://r3fowwcolhrzycn2yzlzzw-on.drv.tw/AdaStudio/qtada/qt5ada.html) - Ada-2012 port to QT 5 framework.
 - [vtk-ada](https://r3fowwcolhrzycn2yzlzzw-on.drv.tw/AdaStudio/vtkada/vtkada.html) - Ada-2012 port to VTK 8.1 (Visualization Toolkit).
 
+#### Terminal User Interface
+
+- [curses](https://github.com/annexi-strayline/Curses) - Advanced UNIX Terminal UI Ada Binding Package.
+- [adacurses](http://invisible-island.net/ncurses/ncurses-Ada95.html) - Ada95 bindings for ncurses.
+
 #### 3D
 - [globe-3d](https://github.com/zertovitch/globe-3d) - GL Object Based Engine for 3D.
-- [orka](https://github.com/onox/orka) - The OpenGL 4.6 Rendering Kernel in Ada 2012.
+- [engine-3d](https://github.com/zertovitch/engine-3d) - A 3D engine for DOS-talgics.
 - [ada-ogl](https://github.com/JulianSchutsch/AdaOGL) - Ada OpenGL Framework.
 - [ada-doom-3](https://github.com/AdaDoom3/AdaDoom3) - Id Software's Id-tech-4-BFG in the Ada programming language. 
 
 #### Database
 - [ada-ado](https://github.com/stcarrez/ada-ado) - Ada Database Objects is an Ada05 library that provides object relational mapping to access a database in Ada05. The library supports Postgresql, MySQL, SQLite as databases. Most of the concepts developped for ADO come from the Java Hibernate ORM.
 - [ada-base](https://github.com/jrmarino/AdaBase) - Thick database bindings to MySQL, PostgreSQL and SQLite for Ada.
+- [apq-base](http://www.ravenports.com/catalog/bucket_F2/apq-base/standard/) - APQ is a database interface library written in Ada95.
 
 #### Web
 - [aws](https://github.com/AdaCore/aws) - AWS is a complete framework to develop Web based applications in Ada.
@@ -378,6 +392,7 @@ lanugage.  It is loosely modelled after JUnit and some ideas from AUnit.
 - [landscape](http://www.christ-usch-grein.homepage.t-online.de/Ada/Landscape.html) - A library to plot functions of two real variables.
 - [si-units](http://www.christ-usch-grein.homepage.t-online.de/Ada/Dimension/SI.html) - A set of Ada packages to compute with dimensioned items in full generality.
 - [mandelbrot-ascii](https://github.com/mosteo/mandelbrot_ascii) - Mandelbrot renderer in "ASCII" (unicode actually, but text nonetheless).
+- [lalg](https://github.com/jhumphry/LALG) - Interface to dense linear algebra packages.
 
 #### Algorithms, Containers and Protocols
 - [ada-language-server](https://github.com/AdaCore/ada_language_server) - Adacore server implemention of the the Microsoft Language Protocol for Ada and SPARK.
@@ -404,7 +419,7 @@ lanugage.  It is loosely modelled after JUnit and some ideas from AUnit.
 - [agpl](https://github.com/mosteo/agpl) - Ada General Purpose Library (Miscellaneous utilities, with a robotic flavor).
 - [increment](https://github.com/reznikmm/increment) - This package provides incremental analysis algorithms and related data structures.
 
-#### Encryption, hashing, encoding
+#### Cryptography
 - [threefish](https://github.com/jrcarter/Threefish) - Ada Implementation of the Threefish-256 Encryption Algorithm
 - [fletcher](https://github.com/darkestkhan/fletcher) - Trivial implementation of fletcher_16 checksum computation algorithm.
 - [base58-ada](https://github.com/MichaelAllenHardeman/base58_ada) - Base58 encoding and decoding in Ada.
@@ -418,6 +433,13 @@ lanugage.  It is loosely modelled after JUnit and some ideas from AUnit.
 - [sparknacl](https://github.com/rod-chapman/SPARKNaCl) - SPARK 2014 re-implementation of the TweetNaCl crypto library.
 - [stotp](https://github.com/jklmnn/STOTP) - Timed One-Time-Pad (RFC 6238) implementation in SPARK.
 - [xxhash-ada](https://github.com/lyarbean/xxhash-ada) - Extremely fast non-cryptographic Hash algorithm, xxhash is working at speeds close to RAM limits.
+- [libsodium-ada](https://github.com/jrmarino/libsodium-ada) - A secure cryptographic library (libsodium for Ada).
+- [ada-libsecret](https://github.com/stcarrez/ada-libsecret) - Ada Binding for the libsecret library.
+
+#### Compression
+- [zip-ada](https://github.com/zertovitch/zip-ada) - Zip-Ada is a programming library for dealing with the Zip compressed archive file format.
+- [ada-lzma](https://github.com/stcarrez/ada-lzma) - Ada binding for liblzma compression library.
+- [dcf-ada](https://github.com/onox/dcf-ada) - An Ada 2012 library for document container files. (Based on Zip-Ada)
 
 #### Patterns
 - [ada-promises](https://github.com/briot/Ada-promises) - Implementing promises in Ada. Type-safe, efficient, thread-safe.
@@ -453,24 +475,46 @@ lanugage.  It is loosely modelled after JUnit and some ideas from AUnit.
 - [spark-xml](https://github.com/Componolit/SXML) - A formally verified XML library in SPARK.
 - [excel-writer](https://github.com/zertovitch/excel-writer) - Create Excel files with basic formats.
 - [generic-image-decoder](https://github.com/zertovitch/gid) - Multi-format image decoder library for Ada.
-- [zip-ada](https://github.com/zertovitch/zip-ada) - Zip-Ada is a programming library for dealing with the Zip compressed archive file format.
 - [ada-pdf-writer](https://github.com/zertovitch/ada-pdf-writer) - Ada package for producing easily and automatically PDF files, from an Ada program, with text, vector graphics, images (JPEG).
 - [ada-midi](https://github.com/frett27/Ada-Midi) - Implementation of Midi / MidiFile reading and writing.
 - [ada-bar-codes](https://github.com/zertovitch/ada-bar-codes) - Ada Bar Codes provides a package for generating various types of bar codes (1D, or 2D like QR codes) on different output formats, such as PDF or SVG.
 - [ada-bin2asc](https://github.com/jhumphry/Ada_BinToAsc) - Various binary-to-ASCII codecs such as Base64.
 - [abf-io](https://github.com/gerr135/abf_io) - A library of access routines to Axon's ABF file format (electrophysiology, most common) in Ada.
 
-#### Network
+#### Networking and Communication Middleware
 - [anet](https://www.codelabs.ch/anet/) - Anet is a networking library for the Ada programming language.
 - [adhcp](https://codelabs.ch/adhcp/index.html) - ADHCP is an implementation of the DHCP protocol in Ada.
+- [adasockets](https://github.com/samueltardieu/adasockets) - IPv4 socket library (TCP, UDP, and multicast).
+- [dbus-ada](https://codelabs.ch/dbus-ada/index.html) - The D_Bus/Ada library provides an Ada binding to the D-Bus message bus system.
+- [zeromq-ada](https://github.com/persan/zeromq-Ada.git) - Binding to the ZeroMQ comunications-library.
+
+#### Chatting and Communication
+- [AXMPP](https://github.com/coopht/axmpp) - With the AXMPP library you can connect to a Jabber server to send and receive messages.
+- [weechat-ada](https://github.com/onox/weechat-ada) - Ada 2012 library for WeeChat plug-ins.
+- [weechat-canberra](https://github.com/onox/weechat-canberra) - A WeeChat plug-in written in Ada 2012 that plays sounds using Canberra.
+- [weechat-emoji](https://github.com/onox/weechat-emoji) - A WeeChat plug-in written in Ada 2012 that displays emoji.
 
 #### Web
 - [template-parser](https://github.com/AdaCore/templates-parser) - AWS templates engine.
 
-#### Multimedia
+### Computer Graphics
+- [orka](https://github.com/onox/orka) - The OpenGL 4.6 Rendering Kernel in Ada 2012.
 - [opengl-ada](https://github.com/flyx/OpenGLAda) - Thick Ada binding for OpenGL and GLFW.
+- [adagl](https://github.com/godunko/adagl) - Multiplatform Ada/OpenGL bindings (ported to native/OpenGL, A2JS/WebGL and WASM/WebGL)
+- [sdlada](https://github.com/Lucretia/sdlada) - Ada 2012 bindings to SDL 2.
+- [ada-nanovg](https://github.com/raph-amiard/ada-nanovg) - Ada bindings to NanoVG.
+- [free-type-ada](https://github.com/flyx/FreeTypeAda) - FreeType binding for Ada 2005.
+
+### General Purpose Computing
+- [cuda-ada](https://codelabs.ch/cuda-ada/index.html) - CUDA/Ada is an Ada binding to NVIDIA’s CUDA parallel computing platform and programming model.
+- [opencl-ada](https://github.com/flyx/OpenCLAda) - An Ada binding for the OpenCL host API.
+
+#### Sound
+- [opus-ada](https://github.com/onox/opus-ada) - Ada 2012 bindings for the Opus audio codec.
+- [canberra-ada](https://github.com/onox/canberra-ada) - Ada 2012 bindings for libcanberra, an implementation of the XDG Sound Theme and Name Specifications.
+- [ada-soundio](https://github.com/raph-amiard/ada-soundio) - Ada bindings for libsoundio.
+- [oto](https://github.com/darkestkhan/oto) - Ada binding to OpenAL which tries to mimic original API while using Ada types.
 - [ada-synthetizer](https://github.com/frett27/Ada-Synthetizer) - Sound Synthetizer Library implemented in Ada.
-- [engine-3d](https://github.com/zertovitch/engine-3d) - A 3D engine for DOS-talgics.
 - [ada-synth-lib](https://github.com/raph-amiard/ada-synth-lib) - Simple audio synthesis library.
 - [scala](http://www.huygens-fokker.org/scala) - Scala is a powerful software tool for experimentation with musical tunings, such as just intonation scales, equal and historical temperaments, microtonal and macrotonal scales, and non-Western scales.
 - [ada-portable-sound](https://github.com/fastrgv/portable-linux-sound) - a linux-sound-playing package for Ada apps that can asynchronously start and stop music loops, as well as initiate transient sounds.  Suitable for games.
@@ -494,6 +538,24 @@ lanugage.  It is loosely modelled after JUnit and some ideas from AUnit.
 - [cvsweb2git](https://github.com/reznikmm/cvsweb2git) - Tool to imports CVS repository shared on Ada Conformity Assessment Authority into the Git repository.
 - [ada-bundler](https://github.com/flyx/ada-bundler) - Library and tool for transparently handling data and configuration file access in an Ada application. Supports MacOSX, Linux and Windows.
 - [macos-sdks-vs-gcc](https://github.com/simonjwright/macos-sdks-vs-gcc) - Provides GCC 'specs' files to cope with SDK policy changes.
+
+#### Robotics
+- [rclada](https://github.com/ada-ros/rclada) - Ada client library for ROS2/RCL.
+- [player-ada](https://github.com/mosteo/player-ada) - Ada bindings for the player robotic platform.
+
+#### Linux and POSIX
+- [florist](https://www.cs.fsu.edu/~baker/florist.html) - POSIX Ada binding, IEEE Standards 1003.5(b,c).
+- [wposix](https://github.com/AdaCore/wposix) - Ada Windows POSIX binding.
+- [ada-v4l2](https://github.com/frett27/AdaV4L2) - Ada Posix Binding to Video 4 Linux, used for RPI.
+- [inotify-ada](https://github.com/onox/inotify-ada) - An Ada 2012 library for monitoring filesystem events using Linux' inotify API.
+- [dl-ada](https://github.com/mosteo/dl-ada) - Minimal binding to libdl.
+
+#### Windows and .NET
+- [win32ada](https://github.com/AdaCore/win32ada) - Ada API to the Windows library.
+- [ada-net-framework-core](https://github.com/Alex-Gamper/Ada-NetFrameworkCore) - Ada bindings for the Microsft NetFramework Api.
+- [ada-net-framework](https://github.com/Alex-Gamper/Ada-NetFramework) - Ada bindings to the Microsoft NetFramework Api.
+- [ada-winrt](https://github.com/Alex-Gamper/Ada-WinRT) - Ada bindings for the Microsft WinRT Api.
+- [ada-win32](https://github.com/Alex-Gamper/Ada-Win32) - Ada bindings for the Microsoft Win32 Api.
 
 ## Hardware and Embedded
 
@@ -585,59 +647,23 @@ lanugage.  It is loosely modelled after JUnit and some ideas from AUnit.
 
 #### Programming Languages
 - [para-sail](http://parasail-lang.org/) - ParaSail is a highly parallel experimental language, similar to Go and Erlang. Originaly owned by SofCheck (now AdaCore), it is a test project to try new ideas. Expandable pointers is a sample feature that is about to be introduced to SPARK and Ada. There are in fact 4 experimental languages: ParaSail, Sparkel, Javallel, Parython, all sharing bytecode interpreter and LLVM engine.
+- [ada-lua](https://github.com/AdaCore/ada-lua) - Ada binding for Lua.
+- [coreland-lua-ada](https://github.com/io7m/coreland-lua-ada) - Ada bindings to the Lua language.
 
 #### Misc
 - [dhondt](https://github.com/simonjwright/dhondt) - Ada implementation of D’Hondt electoral result calculator.
 
 ## Bindings
-- [curses](https://github.com/annexi-strayline/Curses) - Advanced UNIX Terminal UI Ada Binding Package.
-- [adacurses](http://invisible-island.net/ncurses/ncurses-Ada95.html) - Ada95 bindings for ncurses.
-- [florist](https://www.cs.fsu.edu/~baker/florist.html) - POSIX Ada binding, IEEE Standards 1003.5(b,c).
-- [sdlada](https://github.com/Lucretia/sdlada) - Ada 2012 bindings to SDL 2.
+
 - [pcsc-ada](http://www.codelabs.ch/pcscada) - PCSC/Ada provides a thick Ada binding to PC/SC-middleware. The library allows programs written in Ada to communicate with smart cards using the SCard API.
-- [ada-lua](https://github.com/AdaCore/ada-lua) - Ada binding for Lua.
-- [ada-base](http://jrmarino.github.io/AdaBase/) - Thick database bindings for MySQL, PostgreSQL and SQLite written in Ada.
-- [apq-base](http://www.ravenports.com/catalog/bucket_F2/apq-base/standard/) - APQ is a database interface library written in Ada95.
-- [cuda-ada](https://codelabs.ch/cuda-ada/index.html) - CUDA/Ada is an Ada binding to NVIDIA’s CUDA parallel computing platform and programming model.
-- [dbus-ada](https://codelabs.ch/dbus-ada/index.html) - The D_Bus/Ada library provides an Ada binding to the D-Bus message bus system.
-- [opus-ada](https://github.com/onox/opus-ada) - Ada 2012 bindings for the Opus audio codec.
-- [canberra-ada](https://github.com/onox/canberra-ada) - Ada 2012 bindings for libcanberra, an implementation of the XDG Sound Theme and Name Specifications.
-- [inotify-ada](https://github.com/onox/inotify-ada) - An Ada 2012 library for monitoring filesystem events using Linux' inotify API.
-- [opengl-ada](http://flyx.github.io/OpenGLAda/) - Thick Ada binding for OpenGL and GLFW.
-- [opencl-ada](http://flyx.github.io/OpenCLAda) - Ada binding for the OpenCL host API.
-- [rclada](https://github.com/ada-ros/rclada) - Ada client library for ROS2/RCL.
-- [ada-v4l2](https://github.com/frett27/AdaV4L2) - Ada Posix Binding to Video 4 Linux, used for RPI.
-- [ada-nanovg](https://github.com/raph-amiard/ada-nanovg) - Ada bindings to NanoVG.
-- [ada-soundio](https://github.com/raph-amiard/ada-soundio) - Ada bindings for libsoundio.
-- [win32ada](https://github.com/AdaCore/win32ada) - Ada API to the Windows library.
-- [wposix](https://github.com/AdaCore/wposix) - Ada Windows POSIX binding.
-- [lalg](https://github.com/jhumphry/LALG) - Interface to dense linear algebra packages.
-- [zeromq-ada](https://github.com/persan/zeromq-Ada.git) - Binding to the ZeroMQ comunications-library.    
-- [ada-net-framework-core](https://github.com/Alex-Gamper/Ada-NetFrameworkCore) - Ada bindings for the Microsft NetFramework Api.
-- [ada-net-framework](https://github.com/Alex-Gamper/Ada-NetFramework) - Ada bindings for the Microsft NetFramework Api (Wrapper over NetFrameworkCore).
-- [ada-winrt](https://github.com/Alex-Gamper/Ada-WinRT) - Ada bindings for the Microsft WinRT Api.
-- [ada-win32](https://github.com/Alex-Gamper/Ada-Win32) - Ada bindings for the Microsoft Win32 Api.
-- [adasockets](https://github.com/samueltardieu/adasockets) - IPv4 socket library (TCP, UDP, and multicast).
 - [areadline](https://github.com/samueltardieu/areadline) - Ada interface to the readline library.
-- [oto](https://github.com/darkestkhan/oto) - Ada binding to OpenAL which tries to mimic original API while using Ada types.
 - [tp7-ada-gtkada](https://github.com/Blady-Com/tp7ada-gtkada) - Implementation of Turbo Pascal 7.0 units with GTKAda.
 - [tp7-ada-gnoga](https://github.com/Blady-Com/tp7ada-gnoga) - Implementation of Turbo Pascal 7.0 units with Gnoga.
-- [ada-lzma](https://github.com/stcarrez/ada-lzma) - Ada binding for liblzma compression library.
-- [ada-libsecret](https://github.com/stcarrez/ada-libsecret) - Ada Binding for the libsecret library.
 - [ada-bfd](https://github.com/stcarrez/ada-bfd) - Ada BFD is an Ada binding for the GNU Binutils BFD library. It allows to read binary ELF, COFF files by using the GNU BFD.
 - [boehmgc-ada](https://github.com/ytomino/boehmgc-ada) - Ada binding to the Boehm-Demers-Weiser conservative garbage collector.
-- [player-ada](https://github.com/mosteo/player-ada) - Ada bindings for the player robotic platform.
-- [dl-ada](https://github.com/mosteo/dl-ada) - Minimal binding to libdl.
-- [ada-nanovg](https://github.com/raph-amiard/ada-nanovg) - Ada bindings to NanoVG.
-- [free-type-ada](https://github.com/flyx/FreeTypeAda) - FreeType binding for Ada 2005.
-- [opencl-ada](https://github.com/flyx/OpenCLAda) - An Ada binding for the OpenCL host API.
-- [coreland-lua-ada](https://github.com/io7m/coreland-lua-ada) - Ada bindings to the Lua language.
-- [libsodium-ada](https://github.com/jrmarino/libsodium-ada) - A secure cryptographic library (libsodium for Ada).
-- [adagl](https://github.com/godunko/adagl) - Multiplatform Ada/OpenGL bindings (ported to native/OpenGL, A2JS/WebGL and WASM/WebGL)
 - [tcl-ada-shell](https://github.com/simonjwright/tcladashell) - Tcl Ada SHell (Tash) is an Ada binding to Tcl/Tk.
 - [tashy](https://github.com/thindil/tashy) - Tashy is short from Tcl Ada SHell Younger. It is derivate of Tash, focused mostly on Tk binding.
 - [hungarian](https://github.com/mosteo/hungarian) - Ada wrapper for the fast Stachniss' Hungarian solver.
-- [ada-net-framework](https://github.com/Alex-Gamper/Ada-NetFramework) - Ada bindings to the Microsoft NetFramework Api.
 
 ## License
 
