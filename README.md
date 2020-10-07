@@ -143,7 +143,7 @@ A curated list of awesome resources related to the Ada and SPARK programming lan
 - [ada-cpp-java](https://learn.adacore.com/courses/Ada_For_The_CPP_Java_Developer/index.html) - Ada for the C++ or Java Developer.
 - [spark-guidance](https://www.adacore.com/books/implementation-guidance-spark) - Implementation Guidance for the Adoption of SPARK.
 - [ada-safe-secure](https://www.adacore.com/uploads/technical-papers/SafeSecureAdav2015.pdf) - Safe and Secure Software. An invitation to Ada 2012.
-- [ada-95-tutorial](https://perso.telecom-paristech.fr/pautet/Ada95/a95list.htm) - A book going from beginner to advanced concepts in Ada 95, complete with source files
+- [ada-95-tutorial](https://perso.telecom-paristech.fr/pautet/Ada95/a95list.htm) - A book going from beginner to advanced concepts in Ada 95, complete with source files.
 
 #### Books
 <img height="50px" width="36px" hspace="10px" src="https://assets.cambridge.org/97811074/24814/cover/9781107424814.jpg">[Programming in Ada 2012](https://www.cambridge.org/core/books/programming-in-ada-2012/55B998B4E908A017E4D74A87364FF224#) - Comprehensive.  
@@ -162,7 +162,7 @@ A curated list of awesome resources related to the Ada and SPARK programming lan
 - [gems](https://www.adacore.com/gems/) - Ada Gem Archive.
 - [ada-composition](https://github.com/gerr135/ada_composition) - A collections of small nifty demos/sample code that may help better layout data or structure project.
 - [ada-ic-learning](http://www.adaic.org/learn/materials/) - For additional learning resources, see the AdaIC learning section.
-- [ada-at-rosetta-code](https://rosettacode.org/wiki/Category:Ada) - A collection of programming tasks and their sample solutions in Ada
+- [ada-at-rosetta-code](https://rosettacode.org/wiki/Category:Ada) - A collection of programming tasks and their sample solutions in Ada.
 
 #### Reference
 - [iso-standard](http://www.ada-auth.org/standards/ada12_w_tc1.html) - The 2012 revision to the Ada Standard, usually known as Ada 2012.
@@ -236,11 +236,11 @@ A curated list of awesome resources related to the Ada and SPARK programming lan
 - [ada-visual](https://marketplace.visualstudio.com/items?itemName=AlexGamper.VisualAda) - Ada language integration for Visual Studio 2017.
 
 #### Editors
-- [lea](https://github.com/zertovitch/lea) - LEA, a Lightweight Editor for Ada, aims to provide an easy, script-world-like, "look & feel" for developing Ada projects of any size and level, while enabling access to full-scale development tools like GNAT
+- [lea](https://github.com/zertovitch/lea) - LEA, a Lightweight Editor for Ada, aims to provide an easy, script-world-like, "look & feel" for developing Ada projects of any size and level, while enabling access to full-scale development tools like GNAT.
 
 #### Text Modes
 - [gnu-emacs-ada-mode](http://www.nongnu.org/ada-mode/) - Gnu Emacs major-mode for editing Ada sources.
-- [vim-ada-bundle](https://github.com/thindil/Ada-Bundle) - Maintained Ada Bundle : Complete Ada-Mode for Vim/NeoVim
+- [vim-ada-bundle](https://github.com/thindil/Ada-Bundle) - Maintained Ada Bundle : Complete Ada-Mode for Vim/NeoVim.
 - [ada-tmbundle](https://github.com/textmate/ada.tmbundle) - TextMate support for Ada.
 - [bbedit-ada-module](https://www.barebones.com/support/bbedit/plugin_library.html) - BBEdit support for Ada.
 
@@ -266,7 +266,7 @@ A curated list of awesome resources related to the Ada and SPARK programming lan
 - [avr-ada](https://sourceforge.net/projects/avr-ada) - GNAT for 8-bit AVR microcontrollers.
 - [ada-runtime](https://github.com/Componolit/ada-runtime) - A downsized Ada runtime which can be adapted to different platforms.
 - [cortex-gnat-rts](https://github.com/simonjwright/cortex-gnat-rts) - This package includes GNAT Ada Run Time Systems (RTSs) based on FreeRTOS and targeted at boards with Cortex-M0, M3, -M4, -M4F MCUs.
-- [adawebpack](https://github.com/godunko/adawebpack) - GNAT RTL for WASM and bindings for Web API
+- [adawebpack](https://github.com/godunko/adawebpack) - GNAT RTL for WASM and bindings for Web API.
 
 ## OS and Kernels
 - [m2os](https://m2os.unican.es/) - RTOS with simple tasking support for small microcontrollers.
@@ -420,7 +420,7 @@ lanugage.  It is loosely modelled after JUnit and some ideas from AUnit.
 - [increment](https://github.com/reznikmm/increment) - This package provides incremental analysis algorithms and related data structures.
 
 #### Cryptography
-- [threefish](https://github.com/jrcarter/Threefish) - Ada Implementation of the Threefish-256 Encryption Algorithm
+- [threefish](https://github.com/jrcarter/Threefish) - Ada Implementation of the Threefish-256 Encryption Algorithm.
 - [fletcher](https://github.com/darkestkhan/fletcher) - Trivial implementation of fletcher_16 checksum computation algorithm.
 - [base58-ada](https://github.com/MichaelAllenHardeman/base58_ada) - Base58 encoding and decoding in Ada.
 - [ada-crypto-library](https://github.com/cforler/Ada-Crypto-Library) - This is a crypto library for Ada with a nice API and is written for the i386 and x86_64 hardware architecture.
@@ -439,7 +439,7 @@ lanugage.  It is loosely modelled after JUnit and some ideas from AUnit.
 #### Compression
 - [zip-ada](https://github.com/zertovitch/zip-ada) - Zip-Ada is a programming library for dealing with the Zip compressed archive file format.
 - [ada-lzma](https://github.com/stcarrez/ada-lzma) - Ada binding for liblzma compression library.
-- [dcf-ada](https://github.com/onox/dcf-ada) - An Ada 2012 library for document container files. (Based on Zip-Ada)
+- [dcf-ada](https://github.com/onox/dcf-ada) - An Ada 2012 library for document container files (Based on Zip-Ada).
 
 #### Patterns
 - [ada-promises](https://github.com/briot/Ada-promises) - Implementing promises in Ada. Type-safe, efficient, thread-safe.
@@ -450,7 +450,7 @@ lanugage.  It is loosely modelled after JUnit and some ideas from AUnit.
 - [ada-fuzzy](https://github.com/briot/adafuzzy) - A fuzzy inference system library for Ada.
 
 #### Parsers, Scanners, Linters, Analysers, Interpreters and Prettyprinters
-- [libadalang](https://github.com/AdaCore/libadalang/) - Libadalang is a library for parsing and semantic analysis of Ada code. It is meant as a building block for integration into other tools. (IDE, static analyzers, etc.)
+- [libadalang](https://github.com/AdaCore/libadalang/) - Libadalang is a library for parsing and semantic analysis of Ada code. It is meant as a building block for integration into other tools (IDE, static analyzers, etc).
 - [aflex-ayacc](http://thiberlog.free.fr/) - Ada95 scanner and parser generators.
 - [wisitoken](http://stephe-leake.org/ada/wisitoken.html) - WisiToken is an LALR, LR1, and Packrat parser generator and run-time.
 - [gela](https://github.com/reznikmm/gela) - Ada code analyzer.
@@ -466,7 +466,7 @@ lanugage.  It is loosely modelled after JUnit and some ideas from AUnit.
 
 #### Format Readers and Writers
 - [ini-files](https://github.com/zertovitch/ini-files) - The Ini file manager consists of a package, Config, which can read and modify informations from various configuration files known as "ini" files.
-- [protobuf-ada](https://github.com/persan/protobuf-ada) - Experimantal Ada code generation support for Google Protocol Buffers
+- [protobuf-ada](https://github.com/persan/protobuf-ada) - Experimantal Ada code generation support for Google Protocol Buffers.
 - [ada-yaml](https://github.com/yaml/AdaYaml) - Experimental YAML 1.3 implementation in Ada.
 - [json-ada](https://github.com/onox/json-ada) - An Ada 2012 library for parsing JSON.
 - [jwx](https://github.com/Componolit/jwx) - A formally verified JSON library in SPARK.
@@ -500,7 +500,7 @@ lanugage.  It is loosely modelled after JUnit and some ideas from AUnit.
 ### Computer Graphics
 - [orka](https://github.com/onox/orka) - The OpenGL 4.6 Rendering Kernel in Ada 2012.
 - [opengl-ada](https://github.com/flyx/OpenGLAda) - Thick Ada binding for OpenGL and GLFW.
-- [adagl](https://github.com/godunko/adagl) - Multiplatform Ada/OpenGL bindings (ported to native/OpenGL, A2JS/WebGL and WASM/WebGL)
+- [adagl](https://github.com/godunko/adagl) - Multiplatform Ada/OpenGL bindings (ported to native/OpenGL, A2JS/WebGL and WASM/WebGL).
 - [sdlada](https://github.com/Lucretia/sdlada) - Ada 2012 bindings to SDL 2.
 - [ada-nanovg](https://github.com/raph-amiard/ada-nanovg) - Ada bindings to NanoVG.
 - [free-type-ada](https://github.com/flyx/FreeTypeAda) - FreeType binding for Ada 2005.
