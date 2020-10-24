@@ -317,6 +317,7 @@ A curated list of awesome resources related to the Ada and SPARK programming lan
 - [gtkada](https://github.com/AdaCore/gtkada) - Ada graphical toolkit based on Gtk3 components.
 - [qt-ada](https://r3fowwcolhrzycn2yzlzzw-on.drv.tw/AdaStudio/qtada/qt5ada.html) - Ada-2012 port to QT 5 framework.
 - [vtk-ada](https://r3fowwcolhrzycn2yzlzzw-on.drv.tw/AdaStudio/vtkada/vtkada.html) - Ada-2012 port to VTK 8.1 (Visualization Toolkit).
+- [fltk-ada](http://jedbarber.id.au/fltkada.html) - Ada-2012 port to FLTK
 
 #### Terminal User Interface
 
