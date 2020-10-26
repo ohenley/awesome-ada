@@ -449,6 +449,7 @@ lanugage.  It is loosely modelled after JUnit and some ideas from AUnit.
 
 #### System Modeling
 - [ada-fuzzy](https://github.com/briot/adafuzzy) - A fuzzy inference system library for Ada.
+- [Radalib](https://github.com/sergio-gomez/Radalib) - Ada library and tools for the analysis of Complex Networks and more.
 
 #### Parsers, Scanners, Linters, Analysers, Interpreters and Prettyprinters
 - [libadalang](https://github.com/AdaCore/libadalang/) - Libadalang is a library for parsing and semantic analysis of Ada code. It is meant as a building block for integration into other tools (IDE, static analyzers, etc).
