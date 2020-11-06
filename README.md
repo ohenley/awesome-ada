@@ -521,6 +521,9 @@ lanugage.  It is loosely modelled after JUnit and some ideas from AUnit.
 - [scala](http://www.huygens-fokker.org/scala) - Scala is a powerful software tool for experimentation with musical tunings, such as just intonation scales, equal and historical temperaments, microtonal and macrotonal scales, and non-Western scales.
 - [ada-portable-sound](https://github.com/fastrgv/portable-linux-sound) - a linux-sound-playing package for Ada apps that can asynchronously start and stop music loops, as well as initiate transient sounds.  Suitable for games.
 
+- [ada-OpenAL-sound](https://github.com/fastrgv/Portable-Sound) - a.cross-platform sound-playing package for Ada apps that includes an OpenAL binding. It can asynchronously start and stop music loops, as well as initiate transient sounds. It plays WAV files, via OpenAL, on Windows, OSX, and linux platforms.
+
+
 #### Localization
 - [translator](http://www.christ-usch-grein.homepage.t-online.de/Ada/Translator.html) - An Ada package to write language independent messages.
 - [zanyblue](https://sourceforge.net/projects/zanyblue/) - An Ada package allowing the externalization of application messages into a properties file.
