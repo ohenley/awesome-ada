@@ -414,7 +414,6 @@ lanugage.  It is loosely modelled after JUnit and some ideas from AUnit.
 - [simple-blockchain](https://github.com/tomekw/simple_blockchain) - Simple blockchain in Ada.
 - [adagio](https://github.com/mosteo/adagio) - Gnutella2 (G2) network server leaf.
 - [agpl](https://github.com/mosteo/agpl) - Ada General Purpose Library (Miscellaneous utilities, with a robotic flavor).
-- [increment](https://github.com/reznikmm/increment) - This package provides incremental analysis algorithms and related data structures.
 
 #### Cryptography
 - [threefish](https://github.com/jrcarter/Threefish) - Ada Implementation of the Threefish-256 Encryption Algorithm.
