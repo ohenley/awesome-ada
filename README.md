@@ -456,7 +456,6 @@ lanugage.  It is loosely modelled after JUnit and some ideas from AUnit.
 - [increment](https://github.com/reznikmm/increment) - Incremental analysis in Ada.
 - [parse-args](https://github.com/jhumphry/parse_args) - Simple command-line argument parsing.
 - [aforth](https://github.com/samueltardieu/aforth) - Embeddable Forth interpreter written in Ada.
-- [ada-toml](https://github.com/pmderodat/ada-toml) - TOML parser for Ada.
 - [parser-tools](https://github.com/flyx/ParserTools) - Tools for writing lexers / parsers in Ada.
 - [xia](https://github.com/simonjwright/xia) - An Ada implementation of XPath 1.0.
 
@@ -476,6 +475,7 @@ lanugage.  It is loosely modelled after JUnit and some ideas from AUnit.
 - [ada-bar-codes](https://github.com/zertovitch/ada-bar-codes) - Ada Bar Codes provides a package for generating various types of bar codes (1D, or 2D like QR codes) on different output formats, such as PDF or SVG.
 - [ada-bin2asc](https://github.com/jhumphry/Ada_BinToAsc) - Various binary-to-ASCII codecs such as Base64.
 - [abf-io](https://github.com/gerr135/abf_io) - A library of access routines to Axon's ABF file format (electrophysiology, most common) in Ada.
+- [ada-toml](https://github.com/pmderodat/ada-toml) - TOML parser for Ada.
 
 #### Networking and Communication Middleware
 - [anet](https://www.codelabs.ch/anet/) - Anet is a networking library for the Ada programming language.
