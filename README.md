@@ -349,7 +349,7 @@ A curated list of awesome resources related to the Ada and SPARK programming lan
 
 #### Unit Test, Testing
 - [ahven](http://ahven.stronglytyped.org/) - Ahven is a simple unit test library and framework for the Ada programming.
-lanugage.  It is loosely modelled after JUnit and some ideas from AUnit.
+language.  It is loosely modelled after JUnit and some ideas from AUnit.
 - [aunit](http://libre.adacore.com/tools/aunit/) - Ada unit testing framework.
 - [gnatbdd](https://github.com/briot/gnatbdd) - Behavior Driven Development in Ada.
 - [scripted-testing](https://github.com/simonjwright/scripted_testing) - Supports functional testing using Tcl scripts.
@@ -389,9 +389,6 @@ lanugage.  It is loosely modelled after JUnit and some ideas from AUnit.
 #### Math
 - [math-packages](https://github.com/jscparker/math_packages) - Collection of basic math routines in Ada.
 - [mathpaqs](https://github.com/zertovitch/mathpaqs) - Mathpaqs is a collection of mathematical, 100% portable, packages in the Ada programming language.
-- [polynomials](http://www.christ-usch-grein.homepage.t-online.de/Ada/Polynomials.html) - This package allows formal manipulation of polynomials of several variables.
-- [landscape](http://www.christ-usch-grein.homepage.t-online.de/Ada/Landscape.html) - A library to plot functions of two real variables.
-- [si-units](http://www.christ-usch-grein.homepage.t-online.de/Ada/Dimension/SI.html) - A set of Ada packages to compute with dimensioned items in full generality.
 - [mandelbrot-ascii](https://github.com/mosteo/mandelbrot_ascii) - Mandelbrot renderer in "ASCII" (unicode actually, but text nonetheless).
 - [lalg](https://github.com/jhumphry/LALG) - Interface to dense linear algebra packages.
 
@@ -408,7 +405,6 @@ lanugage.  It is loosely modelled after JUnit and some ideas from AUnit.
 - [ada-sodoku](https://github.com/frett27/Ada-Sodoku) - Small Library for Sodoku grid solving / finding.
 - [sl3p](https://github.com/jklmnn/sl3p) - Simple Layer 3 Protocol.
 - [smart-pointers](https://github.com/alire-project/smart_pointers) - A package providing a reference-counted access type Smart_Pointer.
-- [marsaglia-random-number-generator](http://www.christ-usch-grein.homepage.t-online.de/Ada/Marsaglia.html) - Ada implementation of the algorithm developed by George Marsaglia, Supercomputer Computations Research Institute, Florida State University.
 - [hungarian-algorithm](https://github.com/fastrgv/HungarianAlgorithm) - Hungarian Algorithm implementation in Ada.
 - [sal](http://www.stephe-leake.org/ada/sal.html) - SAL (Stephe's Ada Library).
 - [nb-ada](https://github.com/andgi/NBAda) - NBAda : An Ada library of lock-free data structures and algorithms.
@@ -418,7 +414,6 @@ lanugage.  It is loosely modelled after JUnit and some ideas from AUnit.
 - [simple-blockchain](https://github.com/tomekw/simple_blockchain) - Simple blockchain in Ada.
 - [adagio](https://github.com/mosteo/adagio) - Gnutella2 (G2) network server leaf.
 - [agpl](https://github.com/mosteo/agpl) - Ada General Purpose Library (Miscellaneous utilities, with a robotic flavor).
-- [increment](https://github.com/reznikmm/increment) - This package provides incremental analysis algorithms and related data structures.
 
 #### Cryptography
 - [threefish](https://github.com/jrcarter/Threefish) - Ada Implementation of the Threefish-256 Encryption Algorithm.
@@ -459,10 +454,8 @@ lanugage.  It is loosely modelled after JUnit and some ideas from AUnit.
 - [anagram](https://github.com/reznikmm/anagram) - Grammar handling and parser generation Ada library.
 - [ada-pretty](https://github.com/reznikmm/ada-pretty) - Pretty printing library for Ada.
 - [increment](https://github.com/reznikmm/increment) - Incremental analysis in Ada.
-- [ada-lexer](http://www.christ-usch-grein.homepage.t-online.de/Ada/Lexer.html) - A lexical analyzer written in Ada, which transforms a stream of characters representing an Ada program into a stream of language specific tokens.
 - [parse-args](https://github.com/jhumphry/parse_args) - Simple command-line argument parsing.
 - [aforth](https://github.com/samueltardieu/aforth) - Embeddable Forth interpreter written in Ada.
-- [ada-toml](https://github.com/pmderodat/ada-toml) - TOML parser for Ada.
 - [parser-tools](https://github.com/flyx/ParserTools) - Tools for writing lexers / parsers in Ada.
 - [xia](https://github.com/simonjwright/xia) - An Ada implementation of XPath 1.0.
 
@@ -482,6 +475,7 @@ lanugage.  It is loosely modelled after JUnit and some ideas from AUnit.
 - [ada-bar-codes](https://github.com/zertovitch/ada-bar-codes) - Ada Bar Codes provides a package for generating various types of bar codes (1D, or 2D like QR codes) on different output formats, such as PDF or SVG.
 - [ada-bin2asc](https://github.com/jhumphry/Ada_BinToAsc) - Various binary-to-ASCII codecs such as Base64.
 - [abf-io](https://github.com/gerr135/abf_io) - A library of access routines to Axon's ABF file format (electrophysiology, most common) in Ada.
+- [ada-toml](https://github.com/pmderodat/ada-toml) - TOML parser for Ada.
 
 #### Networking and Communication Middleware
 - [anet](https://www.codelabs.ch/anet/) - Anet is a networking library for the Ada programming language.
@@ -522,14 +516,9 @@ lanugage.  It is loosely modelled after JUnit and some ideas from AUnit.
 - [ada-portable-sound](https://github.com/fastrgv/portable-linux-sound) - a linux-sound-playing package for Ada apps that can asynchronously start and stop music loops, as well as initiate transient sounds.  Suitable for games.
 
 #### Localization
-- [translator](http://www.christ-usch-grein.homepage.t-online.de/Ada/Translator.html) - An Ada package to write language independent messages.
 - [zanyblue](https://sourceforge.net/projects/zanyblue/) - An Ada package allowing the externalization of application messages into a properties file.
 
 #### Utilities
-- [split-n-join](http://www.christ-usch-grein.homepage.t-online.de/Ada/Split_n_Join.html) - An Ada package Ada.Strings.Unbounded.Lists to split and join Strings similar to Perl.
-- [make-body](http://www.christ-usch-grein.homepage.t-online.de/Ada/Utilities.html) - From a given Ada package spezification, create a body template.
-- [colorize](http://www.christ-usch-grein.homepage.t-online.de/Ada/Utilities.html) - Presentation of tokens of an Ada program in different colors.
-- [lines-of-code](http://www.christ-usch-grein.homepage.t-online.de/Ada/Utilities.html) - Count the lines of code of an Ada program.
 - [auto-counters](https://github.com/jhumphry/auto_counters) - Reference counting approaches to resource management.
 - [a-stream-tools](https://github.com/persan/a-stream-tools.git) - Stream utilities for Ada2005 and 2012.
 - [ssprep](https://github.com/persan/ssprep.git) - An extensible template engine akin to jinja but using [template-parser](https://github.com/AdaCore/templates-parser) and intended for command line usage.
@@ -594,7 +583,6 @@ lanugage.  It is loosely modelled after JUnit and some ideas from AUnit.
 - [wee-noise-maker](https://github.com/Fabien-Chouteau/Wee-Noise-Maker) - Wee Noise Maker is an open source pocket synthesizer.
 - [lunar-lander-rotation](https://github.com/AdaCore/Lunar_Lander_Rotation_Demo) - Program that interacts with the AdaFruit BNO055 breakout board in order to send orientation data to a host computer.
 - [railway-simulation](https://github.com/AdaCore/SPARK_Railway_Simulation_Demo) - Program simulating a railway network with trains, switches and signaling. The signaling system is proven with SPARK/Ada to ensure that trains cannot collide.
-- [fsm-edit](http://www.christ-usch-grein.homepage.t-online.de/Ada/FSM.html) - FSMedit is an editor for finite state machines. It is written in Ada with the graphical user's interface by alternatively Claw or GtkAda.
 - [etherscope](https://github.com/stcarrez/etherscope) - Ethernet traffic monitor on a STM32F746 board.
 
 #### Bindings
