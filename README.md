@@ -414,6 +414,7 @@ language.  It is loosely modelled after JUnit and some ideas from AUnit.
 - [simple-blockchain](https://github.com/tomekw/simple_blockchain) - Simple blockchain in Ada.
 - [adagio](https://github.com/mosteo/adagio) - Gnutella2 (G2) network server leaf.
 - [agpl](https://github.com/mosteo/agpl) - Ada General Purpose Library (Miscellaneous utilities, with a robotic flavor).
+- [az3](https://github.com/Componolit/AZ3) - Ada binding for Z3
 
 #### Cryptography
 - [threefish](https://github.com/jrcarter/Threefish) - Ada Implementation of the Threefish-256 Encryption Algorithm.
