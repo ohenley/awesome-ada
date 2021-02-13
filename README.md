@@ -507,6 +507,7 @@ language.  It is loosely modelled after JUnit and some ideas from AUnit.
 - [opencl-ada](https://github.com/flyx/OpenCLAda) - An Ada binding for the OpenCL host API.
 
 #### Sound
+- [openAL sound](https://github.com/fastrgv/Portable-OpenAL-Sound) - a cross-platform sound-playing package for Ada apps that handles music-loops and runs on Windows, OSX, and linux.
 - [opus-ada](https://github.com/onox/opus-ada) - Ada 2012 bindings for the Opus audio codec.
 - [canberra-ada](https://github.com/onox/canberra-ada) - Ada 2012 bindings for libcanberra, an implementation of the XDG Sound Theme and Name Specifications.
 - [ada-soundio](https://github.com/raph-amiard/ada-soundio) - Ada bindings for libsoundio.
