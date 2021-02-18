@@ -415,6 +415,8 @@ language.  It is loosely modelled after JUnit and some ideas from AUnit.
 - [adagio](https://github.com/mosteo/adagio) - Gnutella2 (G2) network server leaf.
 - [agpl](https://github.com/mosteo/agpl) - Ada General Purpose Library (Miscellaneous utilities, with a robotic flavor).
 - [az3](https://github.com/Componolit/AZ3) - Ada binding for Z3
+- [hbox4](https://sourceforge.net/projects/hbox4) - a relatively capable command line sokoban solver that uses several interesting algorithms and data structures of general interest, including the Hungarian Algorithm.
+
 
 #### Cryptography
 - [threefish](https://github.com/jrcarter/Threefish) - Ada Implementation of the Threefish-256 Encryption Algorithm.
