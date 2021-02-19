@@ -64,25 +64,26 @@ A curated list of awesome resources related to the Ada and SPARK programming lan
 	3. [UML](#UML)
 	4. [Encryption](#Encryption)
 12. [Libraries](#Libraries)   
-	1. [Math](#Math)   
-	2. [Algorithms, Containers and Protocols](#Algorithms-Containers-and-Protocols)
-	3. [Cryptograrphy](#Cryptography)
-	4. [Compression](#Compression)
-	5. [Patterns](#Patterns)
-	6. [System Modeling](#System-Modeling)
-	7. [Parsers, Scanners, Linters, Analysers, Interpreters and Prettyprinters](#Parsers-Scanners-Linters-Analysers-Interpreters-and-Prettyprinters)
-	8. [Format Readers and Writers](#Format-Readers-and-Writers)
-	9. [Networking and Communication Middleware](#Networking-and-Communication-Middleware)
-	10. [Chatting and Communication](#Chatting-and-Communication)
-	11. [Web](#Web-1)
-	12. [Computer Graphics](#Computer-Graphics)
-	13. [General Purpose Computing](#General-Purpose-Computing)
-	14. [Sound](#Sound)
-	15. [Localization](#Localization)
-	16. [Utilities](#Utilities)
-	17. [Robotics](#Robotics)
-	18. [Linux and POSIX](#Linux-and-POSIX)
-	19. [Windows and .NET](#Windows-and-.NET)
+	1. [Math](#Math)
+	2. [Science](#Science)  
+	3. [Algorithms, Containers and Protocols](#Algorithms-Containers-and-Protocols)
+	4. [Cryptograrphy](#Cryptography)
+	5. [Compression](#Compression)
+	6. [Patterns](#Patterns)
+	7. [System Modeling](#System-Modeling)
+	8. [Parsers, Scanners, Linters, Analysers, Interpreters and Prettyprinters](#Parsers-Scanners-Linters-Analysers-Interpreters-and-Prettyprinters)
+	9. [Format Readers and Writers](#Format-Readers-and-Writers)
+	10. [Networking and Communication Middleware](#Networking-and-Communication-Middleware)
+	11. [Chatting and Communication](#Chatting-and-Communication)
+	12. [Web](#Web-1)
+	13. [Computer Graphics](#Computer-Graphics)
+	14. [General Purpose Computing](#General-Purpose-Computing)
+	15. [Sound](#Sound)
+	16. [Localization](#Localization)
+	17. [Utilities](#Utilities)
+	18. [Robotics](#Robotics)
+	19. [Linux and POSIX](#Linux-and-POSIX)
+	20. [Windows and .NET](#Windows-and-.NET)
 13. [Hardware and Embedded](#Hardware-and-Embedded)   
 	1. [Frameworks](#Frameworks)   
 	2. [Firmwares](#Firmwares)   
@@ -306,6 +307,7 @@ A curated list of awesome resources related to the Ada and SPARK programming lan
 - [gnatcoll-db](https://github.com/AdaCore/gnatcoll-db) - This is the DB module of the GNAT Components Collection.
 - [gnatcoll-json](https://github.com/persan/gnatcoll-json) - This is a set of helpers for writing JSON-intefaces it contains JSON parses for most of the Ada runtime components.
 - [gneiss](https://github.com/Componolit/gneiss) - Gneiss is an interface collection to be used with applications for component based systems. It aims to be easily portable/platform independent and is compatible with the [ada-runtime](https://github.com/Componolit/ada-runtime).
+- [lace](https://github.com/charlie5/lace) - A set of Ada components to allow 3D simulations, games and GUI's in Ada.
 
 #### Distributed
 - [poly-orb](https://github.com/AdaCore/PolyORB) - PolyORB provides a uniform solution to build distributed applications relying either on middleware standards.
@@ -391,6 +393,9 @@ language.  It is loosely modelled after JUnit and some ideas from AUnit.
 - [mathpaqs](https://github.com/zertovitch/mathpaqs) - Mathpaqs is a collection of mathematical, 100% portable, packages in the Ada programming language.
 - [mandelbrot-ascii](https://github.com/mosteo/mandelbrot_ascii) - Mandelbrot renderer in "ASCII" (unicode actually, but text nonetheless).
 - [lalg](https://github.com/jhumphry/LALG) - Interface to dense linear algebra packages.
+
+#### Science
+- [si](http://archive.adaic.com/tools/CKWG/Dimension/SI.html) - SI units checked and unchecked.
 
 #### Algorithms, Containers and Protocols
 - [ada-language-server](https://github.com/AdaCore/ada_language_server) - Adacore server implemention of the the Microsoft Language Protocol for Ada and SPARK.
@@ -613,6 +618,8 @@ language.  It is loosely modelled after JUnit and some ideas from AUnit.
 
 #### Automation
 - [acnc](https://github.com/Fabien-Chouteau/ACNC) - A G-code parser and CNC controller (in Ada).
+- [aicwl](http://www.dmitry-kazakov.de/ada/aicwl.htm) - Collection of packages provided for design of high-quality industrial control widgets for Ada applications.
+- [ada-for-automation](https://gitlab.com/ada-for-automation/ada-for-automation) - A4A is a framework for designing industrial automation applications using the Ada language.
 
 #### Simulation
 - [ghdl](https://github.com/ghdl/ghdl) - VHDL 2008/93/87 simulator.
@@ -635,6 +642,7 @@ language.  It is loosely modelled after JUnit and some ideas from AUnit.
 - [gsh](https://github.com/AdaCore/gsh) - GSH is non interactive POSIX shell for Windows, aimed at GNU software builds. 2-3 times faster than Cygwin.
 - [gnatcoll-scripts-shell](https://github.com/AdaCore/gnatcoll-core/blob/master/src/gnatcoll-scripts-shell.ads) - GNATCOLL.Scripts.Shell is a simple embeddable scripting language, part of GNATCOLL Core.
 - [analytical-engine](https://github.com/simonjwright/analytical-engine) - An Ada 2012 emulation of Charles Babbage’s Analytical Engine.
+- [a-shell](https://github.com/charlie5/aShell) - A component to aid in writing shell-like applications in Ada.
 
 #### Programming Languages
 - [para-sail](http://parasail-lang.org/) - ParaSail is a highly parallel experimental language, similar to Go and Erlang. Originaly owned by SofCheck (now AdaCore), it is a test project to try new ideas. Expandable pointers is a sample feature that is about to be introduced to SPARK and Ada. There are in fact 4 experimental languages: ParaSail, Sparkel, Javallel, Parython, all sharing bytecode interpreter and LLVM engine.
