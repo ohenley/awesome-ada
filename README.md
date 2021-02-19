@@ -58,6 +58,7 @@ A curated list of awesome resources related to the Ada and SPARK programming lan
 	6. [Unit Test](#Unit-Test)   
 	7. [Logging](#Logging)
 	8. [Machine Learning](#Machine-Learning)
+	9. [Automation](#Automation)
 11. [Tools](#Tools) 
 	1. [Verification](#Verification)   
 	2. [Generation](#Generation)
@@ -362,6 +363,10 @@ language.  It is loosely modelled after JUnit and some ideas from AUnit.
 #### Machine Learning
 - [fuzzyml](https://sourceforge.net/projects/fuzzyml/) - Fuzzy machine learning framework.
 
+#### Automation
+- [aicwl](http://www.dmitry-kazakov.de/ada/aicwl.htm) - Collection of packages provided for design of high-quality industrial control widgets for Ada applications.
+- [ada-for-automation](https://gitlab.com/ada-for-automation/ada-for-automation) - A4A is a framework for designing industrial automation applications using the Ada language.
+
 ## Tools
 
 #### Verification
@@ -618,8 +623,6 @@ language.  It is loosely modelled after JUnit and some ideas from AUnit.
 
 #### Automation
 - [acnc](https://github.com/Fabien-Chouteau/ACNC) - A G-code parser and CNC controller (in Ada).
-- [aicwl](http://www.dmitry-kazakov.de/ada/aicwl.htm) - Collection of packages provided for design of high-quality industrial control widgets for Ada applications.
-- [ada-for-automation](https://gitlab.com/ada-for-automation/ada-for-automation) - A4A is a framework for designing industrial automation applications using the Ada language.
 
 #### Simulation
 - [ghdl](https://github.com/ghdl/ghdl) - VHDL 2008/93/87 simulator.
