@@ -540,7 +540,8 @@ language.  It is loosely modelled after JUnit and some ideas from AUnit.
 - [cstrings](https://github.com/mosteo/cstrings) - Convenience subprograms to interact with C strings.
 - [cvsweb2git](https://github.com/reznikmm/cvsweb2git) - Tool to imports CVS repository shared on Ada Conformity Assessment Authority into the Git repository.
 - [ada-bundler](https://github.com/flyx/ada-bundler) - Library and tool for transparently handling data and configuration file access in an Ada application. Supports MacOSX, Linux and Windows.
-- [macos-sdks-vs-gcc](https://github.com/simonjwright/macos-sdks-vs-gcc) - Provides GCC 'specs' files to cope with SDK policy changes.
+- [macos-sdks-vs-gcc](https://github.com/simonjwright/macos-sdks-vs-gcc) - Provides GCC 'specs' files to cope with SDK policy changes.    
+- [ux-strings](https://github.com/Blady-Com/UXStrings) - Unicode extended strings.
 
 #### Robotics
 - [rclada](https://github.com/ada-ros/rclada) - Ada client library for ROS2/RCL.
