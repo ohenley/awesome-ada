@@ -77,7 +77,7 @@ A curated list of awesome resources related to the Ada and SPARK programming lan
 	10. [Networking and Communication Middleware](#Networking-and-Communication-Middleware)
 	11. [Chatting and Communication](#Chatting-and-Communication)
 	12. [Web](#Web-1)
-	13. [Computer Graphics](#Computer-Graphics)
+	13. [Graphics and Multimedia](#Graphics-and-Multimedia)
 	14. [General Purpose Computing](#General-Purpose-Computing)
 	15. [Sound](#Sound)
 	16. [Localization](#Localization)
@@ -505,7 +505,7 @@ language.  It is loosely modelled after JUnit and some ideas from AUnit.
 #### Web
 - [template-parser](https://github.com/AdaCore/templates-parser) - AWS templates engine.
 
-### Computer Graphics
+#### Graphics and Multimedia
 - [orka](https://github.com/onox/orka) - The OpenGL 4.6 Rendering Kernel in Ada 2012.
 - [opengl-ada](https://github.com/flyx/OpenGLAda) - Thick Ada binding for OpenGL and GLFW.
 - [adagl](https://github.com/godunko/adagl) - Multiplatform Ada/OpenGL bindings (ported to native/OpenGL, A2JS/WebGL and WASM/WebGL).
@@ -513,7 +513,7 @@ language.  It is loosely modelled after JUnit and some ideas from AUnit.
 - [ada-nanovg](https://github.com/raph-amiard/ada-nanovg) - Ada bindings to NanoVG.
 - [free-type-ada](https://github.com/flyx/FreeTypeAda) - FreeType binding for Ada 2005.
 
-### General Purpose Computing
+#### General Purpose Computing
 - [cuda-ada](https://codelabs.ch/cuda-ada/index.html) - CUDA/Ada is an Ada binding to NVIDIA’s CUDA parallel computing platform and programming model.
 - [opencl-ada](https://github.com/flyx/OpenCLAda) - An Ada binding for the OpenCL host API.
 
