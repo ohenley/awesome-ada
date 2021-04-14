@@ -259,6 +259,8 @@ A curated list of awesome resources related to the Ada and SPARK programming lan
 - [ravenadm](https://github.com/jrmarino/ravenadm) - Administration tool for Ravenports http://www.ravenports.com.
 - [synth](https://github.com/jrmarino/synth) - Next D/Ports build tool for live systems (Alternative for Portmaster and Portupgrade tools).
 - [ada4cmake](https://github.com/mosteo/ada4cmake) - CMake macros for simple gnat project inclusion.
+- [cmake-ada-offa](https://github.com/offa/cmake-ada) - Ada language support for CMake.
+- [cmake-ada-cho3](https://github.com/cho3/cmake-ada) - CMake language support for Ada, fork of PLplot's cross-platform support code.
 
 #### Continuous Integration
 - [continuous-verification](https://github.com/jklmnn/continuous-verification) - SPARK formal verification automated with Travis CI.
