@@ -661,6 +661,7 @@ language.  It is loosely modelled after JUnit and some ideas from AUnit.
 
 #### Misc
 - [dhondt](https://github.com/simonjwright/dhondt) - Ada implementation of D’Hondt electoral result calculator.
+- [septum](https://github.com/pyjarrett/septum) - An interactive context-based text search tool for searching large codebases.
 
 ## Bindings
 
