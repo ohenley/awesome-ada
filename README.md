@@ -245,7 +245,7 @@ A curated list of awesome resources related to the Ada and SPARK programming lan
 - [ada-visual](https://marketplace.visualstudio.com/items?itemName=AlexGamper.VisualAda) - Ada language integration for Visual Studio 2017.
 
 #### Editors
-- [lea](https://github.com/zertovitch/lea) - LEA, a Lightweight Editor for Ada, aims to provide an easy, script-world-like, "look & feel" for developing Ada projects of any size and level, while enabling access to full-scale development tools like GNAT. LEA includes HAC, the HAC Ada Compiler.
+- <img height="70px" width="089px" hspace="10px" src="https://hacadacompiler.sourceforge.io/_thumbs_awesome/lea.png">[lea](https://github.com/zertovitch/lea) - LEA, a Lightweight Editor for Ada, aims to provide an easy, script-world-like, "look & feel" for developing Ada projects of any size and level, while enabling access to full-scale development tools like GNAT. LEA includes HAC, the HAC Ada Compiler.
 
 #### Text Modes
 - [gnu-emacs-ada-mode](http://www.nongnu.org/ada-mode/) - Gnu Emacs major-mode for editing Ada sources.
@@ -303,7 +303,7 @@ A curated list of awesome resources related to the Ada and SPARK programming lan
 - [co-terminal-apps](https://github.com/fastrgv/CoTerminalApps) - Retro Games that run in a terminal on any platform.
 - [mini-pacman](https://github.com/fastrgv/MiniPacman) - MiniPac is a kid friendly ascii character version of Pacman that plays in a commandline terminal.
 - [world-cup-sokerban](https://github.com/fastrgv/WorldCupSokerban) - This is a soccer-themed, 3D sokoban puzzle game that runs on Windows, Mac OS-X and GNU Linux.
-- [pasta](http://pasta.phyrama.com/) - Pasta! is a game of the "match-3" genre.
+- <img height="70px" width="091px" hspace="10px" src="https://hacadacompiler.sourceforge.io/_thumbs_awesome/pasta.png">[pasta](http://pasta.phyrama.com/) - Pasta! is a game of the "match-3" genre.
 - [buttons](https://github.com/andreacervetti/buttons) - A simple Gtkada Button Mania game.
 - [mine-detector](https://github.com/jrcarter/Mine_Detector) - Mine Detector: a mine-finding game that never requires guessing.
 
@@ -338,8 +338,8 @@ A curated list of awesome resources related to the Ada and SPARK programming lan
 - [ncurses-ada95](http://invisible-island.net/ncurses/ncurses-Ada95.html) - Ada95 bindings for ncurses.
 
 #### 3D
-- [globe-3d](https://github.com/zertovitch/globe-3d) - GL Object Based Engine for 3D.
-- [engine-3d](https://github.com/zertovitch/engine-3d) - A 3D engine for DOS-talgics.
+- <img height="70px" width="124px" hspace="10px" src="https://hacadacompiler.sourceforge.io/_thumbs_awesome/globe_3d_new.jpg">[globe-3d](https://github.com/zertovitch/globe-3d) - GL Object Based Engine for 3D.
+- <img height="70px" width="089px" hspace="10px" src="https://hacadacompiler.sourceforge.io/_thumbs_awesome/engine_3d.jpg">[engine-3d](https://github.com/zertovitch/engine-3d) - A 3D engine for DOS-talgics. Full Ada, including the 3D rendering.
 - [ada-ogl](https://github.com/JulianSchutsch/AdaOGL) - Ada OpenGL Framework.
 - [ada-doom-3](https://github.com/AdaDoom3/AdaDoom3) - Id Software's Id-tech-4-BFG in the Ada programming language. 
 
@@ -491,9 +491,9 @@ language.  It is loosely modelled after JUnit and some ideas from AUnit.
 - [xmlada](https://github.com/AdaCore/xmlada) - The XML/Ada toolkit.
 - [xml-ez](http://www.mckae.com/xmlEz.html) - Library for emitting XML from Ada programs.
 - [spark-xml](https://github.com/Componolit/SXML) - A formally verified XML library in SPARK.
-- [excel-writer](https://github.com/zertovitch/excel-writer) - Create Excel files with basic formats.
-- [generic-image-decoder](https://github.com/zertovitch/gid) - Multi-format image decoder library for Ada.
-- [ada-pdf-writer](https://github.com/zertovitch/ada-pdf-writer) - Ada package for producing easily and automatically PDF files, from an Ada program, with text, vector graphics, images (JPEG).
+- <img height="70px" width="173px" hspace="10px" src="https://hacadacompiler.sourceforge.io/_thumbs_awesome/excel_writer.png">[excel-writer](https://github.com/zertovitch/excel-writer) - Create Excel files with basic formats.
+- <img height="70px" width="093px" hspace="10px" src="https://hacadacompiler.sourceforge.io/_thumbs_awesome/gid.png">[generic-image-decoder](https://github.com/zertovitch/gid) - Multi-format image decoder library for Ada.
+- <img height="70px" width="119px" hspace="10px" src="https://hacadacompiler.sourceforge.io/_thumbs_awesome/ada_pdf_pw_vg.png"> [ada-pdf-writer](https://github.com/zertovitch/ada-pdf-writer) - Ada package for producing easily and automatically PDF files, from an Ada program, with text, vector graphics, images (JPEG).
 - [ada-midi](https://github.com/frett27/Ada-Midi) - Implementation of Midi / MidiFile reading and writing.
 - [ada-bar-codes](https://github.com/zertovitch/ada-bar-codes) - Ada Bar Codes provides a package for generating various types of bar codes (1D, or 2D like QR codes) on different output formats, such as PDF or SVG.
 - [ada-bin2asc](https://github.com/jhumphry/Ada_BinToAsc) - Various binary-to-ASCII codecs such as Base64.
@@ -618,8 +618,8 @@ language.  It is loosely modelled after JUnit and some ideas from AUnit.
 ## Applications
 
 #### Office
-- [azip](https://github.com/zertovitch/azip) - A free, portable Zip Archive Manager.
-- [texcad](https://github.com/zertovitch/texcad) - TeXCAD is a program for drawing or retouching {picture}s in LaTeX.
+- <img height="70px" width="140px" hspace="10px" src="https://hacadacompiler.sourceforge.io/_thumbs_awesome/azip_context_big.gif">[azip](https://github.com/zertovitch/azip) - A free, portable Zip Archive Manager.
+- <img height="70px" width="105px" hspace="10px" src="https://hacadacompiler.sourceforge.io/_thumbs_awesome/texcad_018.png">[texcad](https://github.com/zertovitch/texcad) - TeXCAD is a program for drawing or retouching {picture}s in LaTeX.
 - [cbsg](https://github.com/zertovitch/cbsg) - The Corporate Bullshit Generator.
 - [hunter](https://github.com/thindil/hunter) - Graphical (GtkAda) file manager for Linux.
 
@@ -628,7 +628,7 @@ language.  It is loosely modelled after JUnit and some ideas from AUnit.
 
 #### Web
 - [ironsides](http://ironsides.martincarlisle.com) - Authoritative DNS server verified by SPARK/Ada.
-- [wasabee](https://github.com/zertovitch/wasabee) - A Web browser with safety focus.
+- <img height="70px" width="081px" hspace="10px" src="https://hacadacompiler.sourceforge.io/_thumbs_awesome/wasabee.jpg">[wasabee](https://github.com/zertovitch/wasabee) - A Web browser with safety focus.
 - [yass](https://github.com/yet-another-static-site-generator/yass) - Yet Another Static Site Generator (like Jekyll or Hugo).
 
 #### Multimedia
