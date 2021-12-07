@@ -506,6 +506,7 @@ language.  It is loosely modelled after JUnit and some ideas from AUnit.
 - [dbus-ada](https://codelabs.ch/dbus-ada/index.html) - The D_Bus/Ada library provides an Ada binding to the D-Bus message bus system.
 - [zeromq-ada](https://github.com/persan/zeromq-Ada.git) - Binding to the ZeroMQ comunications-library.
 - [tomi-4-ada](https://sourceforge.net/projects/tomi4ada) - Wrappers for various client/server and pub/sub messaging protocols (AMQP, STOMP and ZeroMQ), focusing exclusively on text message communications.
+- [mosquitto-ada](https://github.com/persan/mosquitto-ada) - Binding for the MQTT broker Mosquitto.
 
 #### Chatting and Communication
 - [axmpp](https://github.com/coopht/axmpp) - With the AXMPP library you can connect to a Jabber server to send and receive messages.
