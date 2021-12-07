@@ -306,7 +306,7 @@ A curated list of awesome resources related to the Ada and SPARK programming lan
 - [pasta](http://pasta.phyrama.com/) - Pasta! is a game of the "match-3" genre.
 - [buttons](https://github.com/andreacervetti/buttons) - A simple Gtkada Button Mania game.
 - [mine-detector](https://github.com/jrcarter/Mine_Detector) - Mine Detector: a mine-finding game that never requires guessing.
-
+- [play-2048](https://github.com/mgrojo/play_2048) - Play 2048! is a clone of the popular 2048 game, implemented in Ada using ASFML for graphics and ada-toml for saving state.
 
 ## Frameworks
 
