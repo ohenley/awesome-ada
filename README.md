@@ -527,6 +527,7 @@ language.  It is loosely modelled after JUnit and some ideas from AUnit.
 - [asfml](https://github.com/mgrojo/ASFML) - Ada binding to the Simple and Fast Multimedia Library.
 
 #### General Purpose Computing
+- [cuda](ttps://github.com/AdaCore/cuda) - CUDA support from AdaCore.
 - [cuda-ada](https://codelabs.ch/cuda-ada/index.html) - CUDA/Ada is an Ada binding to NVIDIA’s CUDA parallel computing platform and programming model.
 - [opencl-ada](https://github.com/flyx/OpenCLAda) - An Ada binding for the OpenCL host API.
 
