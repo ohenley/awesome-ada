@@ -276,9 +276,11 @@ A curated list of awesome resources related to the Ada and SPARK programming lan
 ## Runtimes
 - [bb-runtimes](https://github.com/AdaCore/bb-runtimes) - GNAT bare metal board support package (BSP).
 - [avr-ada](https://sourceforge.net/projects/avr-ada) - GNAT for 8-bit AVR microcontrollers.
-- [ada-runtime](https://github.com/Componolit/ada-runtime) - A downsized Ada runtime which can be adapted to different platforms.
+- [ada-runtime] - A downsized Ada runtime which can be adapted to different platforms.
 - [cortex-gnat-rts](https://github.com/simonjwright/cortex-gnat-rts) - This package includes GNAT Ada Run Time Systems (RTSs) based on FreeRTOS and targeted at boards with Cortex-M0, M3, -M4, -M4F MCUs.
 - [adawebpack](https://github.com/godunko/adawebpack) - GNAT RTL for WASM and bindings for Web API.
+
+[ada-runtime]: https://github.com/Componolit/ada-runtime
 
 ## OS and Kernels
 - [m2os](https://m2os.unican.es/) - RTOS with simple tasking support for small microcontrollers.
@@ -302,10 +304,11 @@ A curated list of awesome resources related to the Ada and SPARK programming lan
 - [co-terminal-apps](https://github.com/fastrgv/CoTerminalApps) - Retro Games that run in a terminal on any platform.
 - [mini-pacman](https://github.com/fastrgv/MiniPacman) - MiniPac is a kid friendly ascii character version of Pacman that plays in a commandline terminal.
 - [world-cup-sokerban](https://github.com/fastrgv/WorldCupSokerban) - This is a soccer-themed, 3D sokoban puzzle game that runs on Windows, Mac OS-X and GNU Linux.
-- [pasta](http://pasta.phyrama.com/) - Pasta! is a game of the "match-3" genre.
-- [buttons](https://github.com/andreacervetti/buttons) - A simple Gtkada Button Mania game.
+- [pasta](http://pasta.phyrama.com/) - Pasta! is a game of the "match-3" genre, implemented in [gnoga].
+- [buttons](https://github.com/andreacervetti/buttons) - A simple [gtkada] Button Mania game.
 - [mine-detector](https://github.com/jrcarter/Mine_Detector) - Mine Detector: a mine-finding game that never requires guessing.
-- [play-2048](https://github.com/mgrojo/play_2048) - Play 2048! is a clone of the popular 2048 game, implemented in Ada using ASFML for graphics and ada-toml for saving state.
+- [play-2048](https://github.com/mgrojo/play_2048) - Play 2048! is a clone of the popular 2048 game, implemented in Ada using [asfml] for graphics and [ada-toml] for saving state.
+- [bingada](https://github.com/jfuica/bingada) - Bingo application in [gtkada]
 
 ## Frameworks
 
@@ -316,20 +319,23 @@ A curated list of awesome resources related to the Ada and SPARK programming lan
 - [gnatcoll-bindings](https://github.com/AdaCore/gnatcoll-bindings) - This is the bindings module of the GNAT Components Collection.
 - [gnatcoll-db](https://github.com/AdaCore/gnatcoll-db) - This is the DB module of the GNAT Components Collection.
 - [gnatcoll-json](https://github.com/persan/gnatcoll-json) - This is a set of helpers for writing JSON-intefaces it contains JSON parses for most of the Ada runtime components.
-- [gneiss](https://github.com/Componolit/gneiss) - Gneiss is an interface collection to be used with applications for component based systems. It aims to be easily portable/platform independent and is compatible with the [ada-runtime](https://github.com/Componolit/ada-runtime).
+- [gneiss](https://github.com/Componolit/gneiss) - Gneiss is an interface collection to be used with applications for component based systems. It aims to be easily portable/platform independent and is compatible with the [ada-runtime]
 - [lace](https://github.com/charlie5/lace) - A set of Ada components to allow 3D simulations, games and GUI's in Ada.
 
 #### Distributed
 - [poly-orb](https://github.com/AdaCore/PolyORB) - PolyORB provides a uniform solution to build distributed applications relying either on middleware standards.
 
 #### Graphical User Interface
-- [gnoga](https://sourceforge.net/projects/gnoga/) - The GNU Omnificent GUI for Ada.
+- [gnoga] - The GNU Omnificent GUI for Ada.
 - [gwindows](https://github.com/zertovitch/gwindows) - GNU Ada Visual Interface.
 - [claw](http://www.rrsoftware.com/html/prodinf/claw/claw.htm) - CLAW, a High Level, Portable, Ada 95 Binding for Microsoft Windows.
-- [gtkada](https://github.com/AdaCore/gtkada) - Ada graphical toolkit based on Gtk3 components.
+- [gtkada] - Ada graphical toolkit based on Gtk3 components.
 - [qt-ada](https://r3fowwcolhrzycn2yzlzzw-on.drv.tw/AdaStudio/qtada/qt5ada.html) - Ada-2012 port to QT 5 framework.
 - [vtk-ada](https://r3fowwcolhrzycn2yzlzzw-on.drv.tw/AdaStudio/vtkada/vtkada.html) - Ada-2012 port to VTK 8.1 (Visualization Toolkit).
 - [fltk-ada](http://jedbarber.id.au/fltkada.html) - Ada-2012 port to FLTK.
+
+[gnoga]: https://sourceforge.net/projects/gnoga/
+[gtkada]: https://github.com/AdaCore/gtkada
 
 #### Terminal User Interface
 
@@ -357,8 +363,10 @@ A curated list of awesome resources related to the Ada and SPARK programming lan
     - [ada-asf](https://github.com/stcarrez/ada-asf) - Ada Server Faces allows to create web applications using the same pattern as the Java Server Faces (See JSR 252, JSR 314 and JSR 344).
     - [ada-servlet](https://github.com/stcarrez/ada-servlet) - Ada Servlet allows to create web applications using the same pattern as the Java Servlet (See JSR 154, JSR 315).
 - [swagger-ada](https://github.com/stcarrez/swagger-ada) - Ada support for Swagger codegen: OpenAPI Generator is a code generator that supports generation of API client libraries, server stubs and documentation automatically given an OpenAPI Spec.
-- [matreshka](http://forge.ada-ru.org/matreshka) - Matreshka is an Ada framework to develop information systems.  It consists of five major components: League, XML processor, Web framework, SQL access, and the Modeling framework.
 - [ews](https://github.com/simonjwright/ews) - Embedded Web Server is a web server construction kit, designed for embedded applications using the GNAT Ada compiler.
+- [matreshka] - Matreshka is an Ada framework to develop information systems.  It consists of five major components: League, XML processor, Web framework, SQL access, and the Modeling framework.
+
+[matreshka]: http://forge.ada-ru.org/matreshka
 
 #### Unit Test, Testing
 - [ahven](http://ahven.stronglytyped.org/) - Ahven is a simple unit test library and framework for the Ada programming.
@@ -456,9 +464,11 @@ language.  It is loosely modelled after JUnit and some ideas from AUnit.
 - [blake2s](https://github.com/lkujaw/blake2s) - SPARK83 implementation of the BLAKE2s hash function.
 
 #### Compression
-- [zip-ada](https://github.com/zertovitch/zip-ada) - Zip-Ada is a programming library for dealing with the Zip compressed archive file format.
+- [zip-ada] - Zip-Ada is a programming library for dealing with the Zip compressed archive file format.
 - [ada-lzma](https://github.com/stcarrez/ada-lzma) - Ada binding for liblzma compression library.
-- [dcf-ada](https://github.com/onox/dcf-ada) - An Ada 2012 library for document container files (Based on Zip-Ada).
+- [dcf-ada](https://github.com/onox/dcf-ada) - An Ada 2012 library for document container files (Based on [zip-ada]).
+
+[zip-ada]: https://github.com/zertovitch/zip-ada
 
 #### Patterns
 - [ada-promises](https://github.com/briot/Ada-promises) - Implementing promises in Ada. Type-safe, efficient, thread-safe.
@@ -484,7 +494,8 @@ language.  It is loosely modelled after JUnit and some ideas from AUnit.
 
 #### Format Readers and Writers
 - [ini-files](https://github.com/zertovitch/ini-files) - The Ini file manager consists of a package, Config, which can read and modify informations from various configuration files known as "ini" files.
-- [protobuf-ada](https://github.com/persan/protobuf-ada) - Experimantal Ada code generation support for Google Protocol Buffers.
+- [protobuf-ada](https://github.com/persan/protobuf-ada) - Experimental Ada code generation support for Google Protocol Buffers.
+- [protobuf] - A Google Protocol Buffers implementation in Ada, using [matreshka].
 - [ada-yaml](https://github.com/yaml/AdaYaml) - Experimental YAML 1.3 implementation in Ada.
 - [json-ada](https://github.com/onox/json-ada) - An Ada 2012 library for parsing JSON.
 - [jwx](https://github.com/Componolit/jwx) - A formally verified JSON library in SPARK.
@@ -498,7 +509,10 @@ language.  It is loosely modelled after JUnit and some ideas from AUnit.
 - [ada-bar-codes](https://github.com/zertovitch/ada-bar-codes) - Ada Bar Codes provides a package for generating various types of bar codes (1D, or 2D like QR codes) on different output formats, such as PDF or SVG.
 - [ada-bin2asc](https://github.com/jhumphry/Ada_BinToAsc) - Various binary-to-ASCII codecs such as Base64.
 - [abf-io](https://github.com/gerr135/abf_io) - A library of access routines to Axon's ABF file format (electrophysiology, most common) in Ada.
-- [ada-toml](https://github.com/pmderodat/ada-toml) - TOML parser for Ada.
+- [ada-toml] - TOML parser for Ada.
+
+[protobuf]: https://github.com/reznikmm/protobuf
+[ada-toml]: https://github.com/pmderodat/ada-toml
 
 #### Networking and Communication Middleware
 - [anet](https://www.codelabs.ch/anet/) - Anet is a networking library for the Ada programming language.
@@ -516,7 +530,9 @@ language.  It is loosely modelled after JUnit and some ideas from AUnit.
 - [weechat-emoji](https://github.com/onox/weechat-emoji) - A WeeChat plug-in written in Ada 2012 that displays emoji.
 
 #### Web
-- [template-parser](https://github.com/AdaCore/templates-parser) - AWS templates engine.
+- [template-parser] - AWS templates engine.
+
+[template-parser]: https://github.com/AdaCore/templates-parser
 
 #### Graphics and Multimedia
 - [orka](https://github.com/onox/orka) - The OpenGL 4.6 Rendering Kernel in Ada 2012.
@@ -525,7 +541,9 @@ language.  It is loosely modelled after JUnit and some ideas from AUnit.
 - [sdlada](https://github.com/Lucretia/sdlada) - Ada 2012 bindings to SDL 2.
 - [ada-nanovg](https://github.com/raph-amiard/ada-nanovg) - Ada bindings to NanoVG.
 - [free-type-ada](https://github.com/flyx/FreeTypeAda) - FreeType binding for Ada 2005.
-- [asfml](https://github.com/mgrojo/ASFML) - Ada binding to the Simple and Fast Multimedia Library.
+- [asfml] - Ada binding to the Simple and Fast Multimedia Library.
+
+[asfml]: https://github.com/mgrojo/ASFML
 
 #### General Purpose Computing
 - [cuda](https://github.com/AdaCore/cuda) - CUDA support from AdaCore.
@@ -548,7 +566,7 @@ language.  It is loosely modelled after JUnit and some ideas from AUnit.
 #### Utilities
 - [auto-counters](https://github.com/jhumphry/auto_counters) - Reference counting approaches to resource management.
 - [a-stream-tools](https://github.com/persan/a-stream-tools.git) - Stream utilities for Ada2005 and 2012.
-- [ssprep](https://github.com/persan/ssprep.git) - An extensible template engine akin to jinja but using [template-parser](https://github.com/AdaCore/templates-parser) and intended for command line usage.
+- [ssprep](https://github.com/persan/ssprep.git) - An extensible template engine akin to jinja but using [template-parser] and intended for command line usage.
 - [licensing](https://github.com/mosteo/licensing) - Open Source Licenses library for Ada.
 - [simple-logging](https://github.com/mosteo/simple_logging) - Easy to use logging facilities for output to console in Ada programs.
 - [rsfile](https://github.com/mosteo/rsfile) - Command-line utility that picks a file from a folder hierarchy with probability proportional to its size.
@@ -624,7 +642,7 @@ language.  It is loosely modelled after JUnit and some ideas from AUnit.
 - [azip](https://github.com/zertovitch/azip) - A free, portable Zip Archive Manager.
 - [texcad](https://github.com/zertovitch/texcad) - TeXCAD is a program for drawing or retouching {picture}s in LaTeX.
 - [cbsg](https://github.com/zertovitch/cbsg) - The Corporate Bullshit Generator.
-- [hunter](https://github.com/thindil/hunter) - Graphical (GtkAda) file manager for Linux.
+- [hunter](https://github.com/thindil/hunter) - Graphical ([gtkada]) file manager for Linux.
 
 #### Mail
 - [trash-finder](http://www.rrsoftware.com/html/prodinf/tf/tf-main.html) - Trash Finder is a mail filter that operates as a plugin for your mail server, providing filtering on dozens of criteria along with management of known good mail.
@@ -635,7 +653,7 @@ language.  It is loosely modelled after JUnit and some ideas from AUnit.
 - [yass](https://github.com/yet-another-static-site-generator/yass) - Yet Another Static Site Generator (like Jekyll or Hugo).
 
 #### Multimedia
-- [eagle-lander](https://github.com/Fabien-Chouteau/eagle-lander) - Apollo 11 lunar lander simulator (Ada/Gtk/Cairo).
+- [eagle-lander](https://github.com/Fabien-Chouteau/eagle-lander) - Apollo 11 lunar lander simulator ([gtkada]/Cairo).
 - [ada-3ds](https://github.com/AdaDoom3/Ada3DS) - A simple 3DS Max model renderer.
 
 #### Automation
@@ -652,7 +670,7 @@ language.  It is loosely modelled after JUnit and some ideas from AUnit.
 - [tiled-code-gen](https://github.com/Fabien-Chouteau/tiled-code-gen) - Code generator for Tiled the map editor.
 - [cvsweb2git](https://github.com/reznikmm/cvsweb2git) - This tool imports CVS repository shared on Ada Conformity Assessment Authority into the Git repository.
 - [j2ada](https://github.com/Blady-Com/j2ada) - Translator for a Java valid source code in Ada source code.
-- [a2js](http://forge.ada-ru.org/matreshka/wiki/Web/A2JS) - Ada2JS is experimental open source compiler, component of Matreshka.
+- [a2js](http://forge.ada-ru.org/matreshka/wiki/Web/A2JS) - Ada2JS is experimental open source compiler, component of [matreshka].
 - [ada-magic](https://www.mapusoft.com/ada-to-c-changer/) - SofCheck AdaMagic is ACATS validated and certified Ada compiler targeting C and/or C++ (4 command line switches for fine tuning). ObjectAda and several other commercial compilers share engine with AdaMagic. MapuSoft distributes AdaMagic as integral component of AppCOE.
 - [cappulada](https://github.com/Componolit/Cappulada) - Ada binding generator for C++.
 - [asis2xml](https://github.com/simonjwright/asis2xml) - Converts Ada sources’ ASIS representation to XML, so as to make it easier to develop reporting and transformational tools using (for example) XSLT.
@@ -675,8 +693,8 @@ language.  It is loosely modelled after JUnit and some ideas from AUnit.
 
 - [pcsc-ada](http://www.codelabs.ch/pcscada) - PCSC/Ada provides a thick Ada binding to PC/SC-middleware. The library allows programs written in Ada to communicate with smart cards using the SCard API.
 - [areadline](https://github.com/samueltardieu/areadline) - Ada interface to the readline library.
-- [tp7-ada-gtkada](https://github.com/Blady-Com/tp7ada-gtkada) - Implementation of Turbo Pascal 7.0 units with GTKAda.
-- [tp7-ada-gnoga](https://github.com/Blady-Com/tp7ada-gnoga) - Implementation of Turbo Pascal 7.0 units with Gnoga.
+- [tp7-ada-gtkada](https://github.com/Blady-Com/tp7ada-gtkada) - Implementation of Turbo Pascal 7.0 units with [gtkada].
+- [tp7-ada-gnoga](https://github.com/Blady-Com/tp7ada-gnoga) - Implementation of Turbo Pascal 7.0 units with [gnoga].
 - [ada-bfd](https://github.com/stcarrez/ada-bfd) - Ada BFD is an Ada binding for the GNU Binutils BFD library. It allows to read binary ELF, COFF files by using the GNU BFD.
 - [boehmgc-ada](https://github.com/ytomino/boehmgc-ada) - Ada binding to the Boehm-Demers-Weiser conservative garbage collector.
 - [tcl-ada-shell](https://github.com/simonjwright/tcladashell) - Tcl Ada SHell (Tash) is an Ada binding to Tcl/Tk.
