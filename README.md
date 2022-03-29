@@ -656,7 +656,7 @@ language.  It is loosely modelled after JUnit and some ideas from AUnit.
 #### Multimedia
 - [eagle-lander](https://github.com/Fabien-Chouteau/eagle-lander) - Apollo 11 lunar lander simulator ([gtkada]/Cairo).
 - [ada-3ds](https://github.com/AdaDoom3/Ada3DS) - A simple 3DS Max model renderer.
-
+- [canta](https://sourceforge.net/projects/canta/) - A tool to help to sing in tune.
 #### Automation
 - [acnc](https://github.com/Fabien-Chouteau/ACNC) - A G-code parser and CNC controller (in Ada).
 
