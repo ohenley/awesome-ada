@@ -182,7 +182,7 @@ A curated list of awesome resources related to the Ada and SPARK programming lan
 - [subreddit-spark](https://www.reddit.com/r/spark/) - Spark at Reddit.
 - [telegram-ada](https://t.me/ada_lang) - Ada group at Telegram.
 - [libera-chat-ada](https://libera.chat/) - Ada channel at IRC.
-- [matrix-ada](https://matrix.to/#/#ada-lang:matrix.org) - Ada room at Matrix.
+- [matrix-ada](https://matrix.to/#/#ada-lang_Lobby:gitter.im) - Ada room at Gitter via Matrix.
 
 #### News and Resources
 - [adacore-blog](https://blog.adacore.com/) - An insight into the AdaCore ecosystem.
