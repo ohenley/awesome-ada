@@ -348,6 +348,7 @@ A curated list of awesome resources related to the Ada and SPARK programming lan
 
 - [curses](https://github.com/annexi-strayline/Curses) - Advanced UNIX Terminal UI Ada Binding Package.
 - [ncurses-ada95](http://invisible-island.net/ncurses/ncurses-Ada95.html) - Ada95 bindings for ncurses.
+- [linenoise-ada](https://git.sr.ht/~nytpu/linenoise-ada) - Bindings to the Linenoise line-editing library (patched to support UTF-8)
 
 #### 3D
 - [globe-3d](https://github.com/zertovitch/globe-3d) - GL Object Based Engine for 3D.
@@ -518,6 +519,7 @@ language.  It is loosely modelled after JUnit and some ideas from AUnit.
 - [ada-bin2asc](https://github.com/jhumphry/Ada_BinToAsc) - Various binary-to-ASCII codecs such as Base64.
 - [abf-io](https://github.com/gerr135/abf_io) - A library of access routines to Axon's ABF file format (electrophysiology, most common) in Ada.
 - [ada-toml] - TOML parser for Ada.
+- [uri-ada](https://git.sr.ht/~nytpu/uri-ada) - URI and MIME parser & manipulation library.
 
 [protobuf]: https://github.com/reznikmm/protobuf
 [ada-toml]: https://github.com/pmderodat/ada-toml
@@ -530,6 +532,7 @@ language.  It is loosely modelled after JUnit and some ideas from AUnit.
 - [zeromq-ada](https://github.com/persan/zeromq-Ada.git) - Binding to the ZeroMQ comunications-library.
 - [tomi-4-ada](https://sourceforge.net/projects/tomi4ada) - Wrappers for various client/server and pub/sub messaging protocols (AMQP, STOMP and ZeroMQ), focusing exclusively on text message communications.
 - [mosquitto-ada](https://github.com/persan/mosquitto-ada) - Binding for the MQTT broker Mosquitto.
+- [tlsada](https://git.sr.ht/~nytpu/tlsada) - Bindings to the libtls TLS/SSL library.
 
 #### Chatting and Communication
 - [axmpp](https://github.com/coopht/axmpp) - With the AXMPP library you can connect to a Jabber server to send and receive messages.
@@ -586,6 +589,7 @@ language.  It is loosely modelled after JUnit and some ideas from AUnit.
 - [ada-bundler](https://github.com/flyx/ada-bundler) - Library and tool for transparently handling data and configuration file access in an Ada application. Supports MacOSX, Linux and Windows.
 - [macos-sdks-vs-gcc](https://github.com/simonjwright/macos-sdks-vs-gcc) - Provides GCC 'specs' files to cope with SDK policy changes.    
 - [ux-strings](https://github.com/Blady-Com/UXStrings) - Unicode extended strings.
+- [getopt-ada](https://git.sr.ht/~nytpu/getopt-ada) - Portable implementation of getopt(3) in Ada.
 
 #### Robotics
 - [rclada](https://github.com/ada-ros/rclada) - Ada client library for ROS2/RCL.
