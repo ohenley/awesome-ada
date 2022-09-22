@@ -1,6 +1,6 @@
 <br/><br/>
 <div align="center">
-	<img width=450px"  src="https://github.com/ohenley/files/blob/master/awesome-ada/awesome_ada.svg" alt="Awesome">
+	<img width=450px"  src="https://github.com/ohenley/files/blob/master/awesome-ada/awesome_ada_logo.svg" alt="Awesome">
 </div>
 
 <br><br>
