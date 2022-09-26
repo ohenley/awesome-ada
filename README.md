@@ -1,19 +1,19 @@
 <br/><br/>
 <div align="center">
-	<img width=450px"  src="https://github.com/ohenley/files/blob/master/awesome-ada/awesome_ada_logo.svg" alt="Awesome">
+	<img width="450px"  src="https://github.com/ohenley/files/blob/master/awesome-ada/awesome_ada_logo.svg" alt="Awesome"/>
 </div>
 
-<br><br>
+<br/><br/>
 
 
-> <font size="7">[Ada is powering satellites, aircrafts, ships, power plants, surgical robots](https://www2.seas.gwu.edu/~mfeldman/ada-project-summary.html), drones, CNCs, servers, games and coffee makers.</font>   
-> Ada is arguably the most { <b>performant</b> &cap; <b>capable</b> &cap; <b>precise</b> &cap; <b>readable</b> &cap; <b>mature</b> } programming language.   
+> <font size="7">[Ada is powering satellites, aircrafts, ships, power plants, surgical robots](https://www2.seas.gwu.edu/~mfeldman/ada-project-summary.html), drones, CNCs, servers, games and coffee makers.</font>
+> Ada is arguably the most { <b>performant</b> &cap; <b>capable</b> &cap; <b>precise</b> &cap; <b>readable</b> &cap; <b>mature</b> } programming language.
 > Ada is alive and kicking!
 >
 > Long live Ada/SPARK.
 
 
-<br><br>
+<br/><br/>
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)    
 A curated list of awesome resources related to the Ada and SPARK programming language.      
@@ -106,7 +106,7 @@ A curated list of awesome resources related to the Ada and SPARK programming lan
 	8. [Programming Languages](#Programming-Languages)
 	9. [Misc](#Misc)
 15. [Bindings](#Bindings)
-16. [License](#Licence)
+16. [License](#License)
 
 </details>
 
@@ -115,15 +115,15 @@ A curated list of awesome resources related to the Ada and SPARK programming lan
 <div align="center">
 
 <a href="https://www.youtube.com/embed/yUqJkAZofZs">
-<img border="0" src="https://img.youtube.com/vi/yUqJkAZofZs/1.jpg" style="max-width:100%;">
+<img border="0" src="https://img.youtube.com/vi/yUqJkAZofZs/1.jpg" style="max-width:100%;"/>
 </a>
   
 <a href="https://www.youtube.com/embed/3e-BGblAMC4">
-<img border="0" src="https://img.youtube.com/vi/3e-BGblAMC4/2.jpg" style="max-width:100%;">	
+<img border="0" src="https://img.youtube.com/vi/3e-BGblAMC4/2.jpg" style="max-width:100%;"/>	
 </a>
   
 <a href="https://www.youtube.com/embed/0yXwnk8Cr0c">
-<img border="0" src="https://img.youtube.com/vi/0yXwnk8Cr0c/3.jpg" style="max-width:100%;">
+<img border="0" src="https://img.youtube.com/vi/0yXwnk8Cr0c/3.jpg" style="max-width:100%;"/>
 </a>
    
 </div>
@@ -197,13 +197,13 @@ A curated list of awesome resources related to the Ada and SPARK programming lan
 #### Competition
 <div align="center">
 	<a href="https://www.makewithada.org/">
-		<img width="800px" src="https://hackster.imgix.net/uploads/attachments/1164282/_UAa0j7WX8u.blob?auto=compress%2Cformat&w=800&h=200&fit=min">
+		<img width="800px" src="https://hackster.imgix.net/uploads/attachments/1164282/_UAa0j7WX8u.blob?auto=compress%2Cformat&w=800&h=200&fit=min"/>
 	</a>
 </div>
 
 <div align="center">
 	<a href="https://blog.adacore.com/announcing-the-first-ada-spark-crate-of-the-year-award">
-		<img width="800px" src="https://raw.githubusercontent.com/AdaCore/Ada-SPARK-Crate-Of-The-Year/master/banner.jpg">
+		<img width="800px" src="https://raw.githubusercontent.com/AdaCore/Ada-SPARK-Crate-Of-The-Year/master/banner.jpg"/>
 	</a>
 </div>
 
@@ -244,7 +244,7 @@ A curated list of awesome resources related to the Ada and SPARK programming lan
 ## Edit
 
 #### Integrated Development Editor
-<img width="120px" hspace="10px" src="http://docs.adacore.com/live/wave/gps/html/gps_ug/_images/gps-main-window.png"> [The GNAT Programming Studio](https://github.com/AdaCore/gps)
+<img width="120px" hspace="10px" src="http://docs.adacore.com/live/wave/gps/html/gps_ug/_images/gps-main-window.png"/> [The GNAT Programming Studio](https://github.com/AdaCore/gps)
 - [ada-visual](https://marketplace.visualstudio.com/items?itemName=AlexGamper.VisualAda) - Ada language integration for Visual Studio 2017.
 
 #### Editors
