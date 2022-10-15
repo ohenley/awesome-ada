@@ -723,6 +723,7 @@ language.  It is loosely modelled after JUnit and some ideas from AUnit.
 
 [whitakers-words]: https://github.com/mk270/whitakers-words
 [ada-chess]: http://www.adachess.com/
+[hbox4](https://github.com/fastrgv/hbox4) - a relatively capable command line sokoban solver that uses several interesting algorithms and data structures of general interest, including and applications of the Hungarian Algorithm.
 
 ## Bindings
 
