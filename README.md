@@ -61,10 +61,11 @@ A curated list of awesome resources related to the Ada and SPARK programming lan
 	8. [Machine Learning](#Machine-Learning)
 	9. [Automation](#Automation)
 11. [Tools](#Tools) 
-	1. [Verification](#Verification)   
-	2. [Generation](#Generation)
-	3. [UML](#UML)
-	4. [Encryption](#Encryption)
+	1. [DevOps](#DevOps)
+	2. [Verification](#Verification)   
+	3. [Generation](#Generation)
+	4. [UML](#UML)
+	5. [Encryption](#Encryption)
 12. [Libraries](#Libraries)   
 	1. [Math](#Math)
 	2. [Science](#Science)  
@@ -400,6 +401,10 @@ language.  It is loosely modelled after JUnit and some ideas from AUnit.
 
 ## Tools
 
+#### DevOps
+- [septum](https://github.com/pyjarrett/septum) - An interactive context-based text search tool for searching large codebases.
+- [power-joular](https://gitlab.com/joular/powerjoular) - PowerJoular allows monitoring power consumption of multiple platforms and processes.
+
 #### Verification
 - [gnat-coverage](https://github.com/AdaCore/gnatcoverage) - GNATcoverage is a tool to analyze and report program coverage.
 - [adacontrol](http://www.adalog.fr/en/adacontrol.html) - Ada constructs lint tool.
@@ -717,7 +722,6 @@ language.  It is loosely modelled after JUnit and some ideas from AUnit.
 
 #### Misc
 - [dhondt](https://github.com/simonjwright/dhondt) - Ada implementation of D’Hondt electoral result calculator.
-- [septum](https://github.com/pyjarrett/septum) - An interactive context-based text search tool for searching large codebases.
 - [whitakers-words] - William Whitaker's WORDS, a Latin dictionary.
 - [ada-chess] - Chess engine written in Ada.
 
