@@ -396,8 +396,10 @@ language.  It is loosely modelled after JUnit and some ideas from AUnit.
 - [fuzzyml](https://sourceforge.net/projects/fuzzyml/) - Fuzzy machine learning framework.
 
 #### Automation
-- [aicwl](http://www.dmitry-kazakov.de/ada/aicwl.htm) - Collection of packages provided for design of high-quality industrial control widgets for Ada applications.
+- [aicwl] - Collection of packages provided for design of high-quality industrial control widgets for Ada applications.
 - [ada-for-automation](https://gitlab.com/ada-for-automation/ada-for-automation) - A4A is a framework for designing industrial automation applications using the Ada language.
+
+[aicwl]: http://www.dmitry-kazakov.de/ada/aicwl.htm
 
 ## Tools
 
@@ -582,10 +584,13 @@ language.  It is loosely modelled after JUnit and some ideas from AUnit.
 - [canberra-ada](https://github.com/onox/canberra-ada) - Ada 2012 bindings for libcanberra, an implementation of the XDG Sound Theme and Name Specifications.
 - [ada-soundio](https://github.com/raph-amiard/ada-soundio) - Ada bindings for libsoundio.
 - [oto](https://github.com/darkestkhan/oto) - Ada binding to OpenAL which tries to mimic original API while using Ada types.
+- [coreland-openal-ada] - Ada binding to OpenAL
 - [ada-synthetizer](https://github.com/frett27/Ada-Synthetizer) - Sound Synthetizer Library implemented in Ada.
 - [ada-synth-lib](https://github.com/raph-amiard/ada-synth-lib) - Simple audio synthesis library.
 - [scala](http://www.huygens-fokker.org/scala) - Scala is a powerful software tool for experimentation with musical tunings, such as just intonation scales, equal and historical temperaments, microtonal and macrotonal scales, and non-Western scales.
 - [ada-portable-sound](https://github.com/fastrgv/portable-linux-sound) - a linux-sound-playing package for Ada apps that can asynchronously start and stop music loops, as well as initiate transient sounds.  Suitable for games.
+
+[coreland-openal-ada]: https://github.com/io7m/coreland-openal-ada
 
 #### Localization
 - [zanyblue](https://sourceforge.net/projects/zanyblue/) - An Ada package allowing the externalization of application messages into a properties file.
@@ -681,7 +686,6 @@ language.  It is loosely modelled after JUnit and some ideas from AUnit.
 - [yass](https://github.com/yet-another-static-site-generator/yass) - Yet Another Static Site Generator (like Jekyll or Hugo).
 
 #### Multimedia
-- [eagle-lander](https://github.com/Fabien-Chouteau/eagle-lander) - Apollo 11 lunar lander simulator ([gtkada]/Cairo).
 - [ada-3ds](https://github.com/AdaDoom3/Ada3DS) - A simple 3DS Max model renderer.
 - [canta](https://sourceforge.net/projects/canta/) - A tool to help to sing in tune.
 
@@ -692,9 +696,12 @@ language.  It is loosely modelled after JUnit and some ideas from AUnit.
 [max-home-automation]: https://sourceforge.net/projects/max-home-automation/
 
 #### Simulation
+- [eagle-lander](https://github.com/Fabien-Chouteau/eagle-lander) - Apollo 11 lunar lander simulator ([gtkada]/Cairo).
 - [ghdl](https://github.com/ghdl/ghdl) - VHDL 2008/93/87 simulator.
 - [parallel-sim](https://github.com/JulianSchutsch/ParallelSim) - Distributed Simulation of Transport Networks.
 - [covid-19-simulator](https://github.com/ohenley/COVID-19_Simulator) - Multi engine/algorithms COVID-19 simulator. Ada, Qt code under the hood.
+- [mars-mpl](https://github.com/Jellix/mars_mpl) - Mars Polar Lander (Crash) Simulator ([gtkada], [aicwl])
+- [doppler-effect-sample2](https://github.com/moriyasum/GtkAda_OpenAL_Doppler_Effect_Sample2) - Moving airplane causes Stereo Sound Doppler effect ([gtkada]).
 
 #### Generators and Translators
 - [adabrowse](http://home.datacomm.ch/t_wolf/tw/ada95/adabrowse) - HTML generator for Ada95 library unit specs.
