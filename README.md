@@ -405,7 +405,7 @@ language.  It is loosely modelled after JUnit and some ideas from AUnit.
 
 #### DevOps
 - [septum](https://github.com/pyjarrett/septum) - An interactive context-based text search tool for searching large codebases.
-- [power-joular](https://gitlab.com/joular/powerjoular) - PowerJoular allows monitoring power consumption of multiple platforms and processes.
+- [powerjoular](https://github.com/joular/powerjoular) - PowerJoular allows monitoring power consumption of multiple platforms and processes.
 
 #### Verification
 - [gnat-coverage](https://github.com/AdaCore/gnatcoverage) - GNATcoverage is a tool to analyze and report program coverage.
