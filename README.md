@@ -133,7 +133,7 @@ A curated list of awesome resources related to the Ada and SPARK programming lan
 
 #### Entry Point
 - [learn](https://learn.adacore.com/) - Interactive learning platform designed to teach the Ada and SPARK programming languages.
-- [programming-with-ada](https://pyjarrett.github.io/programming-with-ada/) - Anecdotes and summaries from learning Ada 2012.
+- [ada-lang-io](https://ada-lang.io) - A community site for Ada.
 - [celebrating-ada](https://www.celebratingada.com/) - Ada history key moments.
 
 #### Tutorials
