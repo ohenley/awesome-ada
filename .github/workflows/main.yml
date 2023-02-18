@@ -1,0 +1,31 @@
+name: Check Lint
+
+on:
+  workflow_dispatch:
+  push:
+    branches:
+    - main
+  schedule:
+  # Run every first day at 00:00 AM every month.
+    - cron: "0 0 * * *"
+  pull_request:
+    branches: [main]
+    paths:
+      - 'readme.md'
+
+jobs:
+  main:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+        with:
+          fetch-depth: 0
+      - name: Check links
+        uses: gaurav-nelson/github-action-markdown-link-check@v1
+        with:
+          retry-after: 10
+          use-quiet-mode: 'yes'
+          use-verbose-mode: 'yes'
+          config-file: '.github/workflows/markdown.links.config.json'
+      - name: Awesome linter
+        run: npx awesome-lint
