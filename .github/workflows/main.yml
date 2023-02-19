@@ -23,10 +23,5 @@ jobs:
           fetch-depth: 0
       - name: Check links
         uses: gaurav-nelson/github-action-markdown-link-check@v1
-        with:
-          retry-after: 10
-          use-quiet-mode: 'yes'
-          use-verbose-mode: 'yes'
-          config-file: '.github/workflows/markdown.links.config.json'
       - name: Awesome linter
         run: npx awesome-lint
