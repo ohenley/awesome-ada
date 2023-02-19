@@ -144,7 +144,7 @@ A curated list of awesome resources related to the Ada and SPARK programming lan
 
 #### Online books
 - [ada-wikibook](https://en.wikibooks.org/wiki/Ada_Programming) - Ada Programming book at Wikibooks.
-- [ada-distilled](http://www.adaic.org/wp-content/uploads/2010/05/Ada-Distilled-24-January-2011-Ada-2005-Version.pdf) - Ada Distilled for Ada 2005.
+- [ada-distilled](https://www.adaic.org/wp-content/uploads/2010/05/Ada-Distilled-24-January-2011-Ada-2005-Version.pdf) - Ada Distilled for Ada 2005.
 - [ada-craft](https://www.adaic.org/resources/add_content/docs/craft/html/contents.htm) - Ada 95: The Craft of Object-Oriented Programming.
 - [ada-cpp-java](https://learn.adacore.com/courses/Ada_For_The_CPP_Java_Developer/index.html) - Ada for the C++ or Java Developer.
 - [spark-guidance](https://www.adacore.com/books/implementation-guidance-spark) - Implementation Guidance for the Adoption of SPARK.
@@ -168,7 +168,7 @@ A curated list of awesome resources related to the Ada and SPARK programming lan
 #### Specialties
 - [gems](https://www.adacore.com/gems/) - Ada Gem Archive.
 - [ada-composition](https://github.com/gerr135/ada_composition) - A collections of small nifty demos/sample code that may help better layout data or structure project.
-- [ada-ic-learning](http://www.adaic.org/learn/materials/) - For additional learning resources, see the AdaIC learning section.
+- [ada-ic-learning](https://www.adaic.org/learn/materials/) - For additional learning resources, see the AdaIC learning section.
 - [ada-at-rosetta-code](https://rosettacode.org/wiki/Category:Ada) - A collection of programming tasks and their sample solutions in Ada.
 
 #### Reference
@@ -191,8 +191,8 @@ A curated list of awesome resources related to the Ada and SPARK programming lan
 - [adacore-blog](https://blog.adacore.com/) - An insight into the AdaCore ecosystem.
 - [ada-europe](http://www.ada-europe.org/) - Ada-Europe is an international organization, set up to promote the use of Ada.
 - [acm-sig-ada](https://www.sigada.org/) - The Special Interest Group on Ada.
-- [ada-resource-association](http://www.adaic.org/community/) - Since 1990 the Ada Resource Association’s principal mission has been “To ensure continued success of Ada users and promote Ada use in the software industry”.
-- [ada-information-clearinghouse](http://www.adaic.org/) - News and resources for the Ada programming language.
+- [ada-resource-association](https://www.adaic.org/community/) - Since 1990 the Ada Resource Association’s principal mission has been “To ensure continued success of Ada users and promote Ada use in the software industry”.
+- [ada-information-clearinghouse](https://www.adaic.org/) - News and resources for the Ada programming language.
 - [ada-planet](https://www.laeran.pl/adaplanet/i/) - News Aggregator from the Ada programming language world. ([RSS feed via Matrix](https://matrix.to/#/#ada-lang:matrix.org))
 
 #### Competition
@@ -309,7 +309,6 @@ A curated list of awesome resources related to the Ada and SPARK programming lan
 - [rufas-cube](https://github.com/fastrgv/RufasCube) - RufasCube is a puzzle game for Windows, OS-X and GNU Linux... it looks like a rubic cube but it's a slider, not a twister.
 - [ada-venture](https://github.com/fastrgv/AdaVenture) - AdaVenture is a kid-friendly retro point&click game with mazes, dragons, bats & snakes.
 - [co-terminal-apps](https://github.com/fastrgv/CoTerminalApps) - Retro Games that run in a terminal on any platform.
-- [mini-pacman](https://github.com/fastrgv/MiniPacman) - MiniPac is a kid friendly ascii character version of Pacman that plays in a commandline terminal.
 - [world-cup-sokerban](https://github.com/fastrgv/WorldCupSokerban) - This is a soccer-themed, 3D sokoban puzzle game that runs on Windows, Mac OS-X and GNU Linux.
 - [pasta](http://pasta.phyrama.com/) - Pasta! is a game of the "match-3" genre, implemented in [gnoga].
 - [buttons](https://github.com/andreacervetti/buttons) - A simple [gtkada] Button Mania game.
@@ -343,7 +342,7 @@ A curated list of awesome resources related to the Ada and SPARK programming lan
 - [gtkada] - Ada graphical toolkit based on Gtk3 components.
 - [qt-ada](https://r3fowwcolhrzycn2yzlzzw.on.drv.tw/AdaStudio/qt6ada/qt6ada.html) - Ada-2012 port to Qt 6 framework.
 - [vtk-ada](https://r3fowwcolhrzycn2yzlzzw-on.drv.tw/AdaStudio/vtkada/vtkada.html) - Ada-2012 port to VTK 8.1 (Visualization Toolkit).
-- [fltk-ada](http://jedbarber.id.au/fltkada.html) - Ada-2012 port to FLTK.
+- [fltk-ada](http://jedbarber.id.au/fltkada.xhtml) - Ada-2012 binding to FLTK (Fast Light Toolkit).
 - [ada-gui] - GUI implemented on its own task, so it doesn't require that its client give up a thread of control. Derived from [gnoga].
 
 [gnoga]: https://sourceforge.net/projects/gnoga/
@@ -460,7 +459,7 @@ language.  It is loosely modelled after JUnit and some ideas from AUnit.
 - [nb-ada](https://github.com/andgi/NBAda) - NBAda : An Ada library of lock-free data structures and algorithms.
 - [paraffin](https://sourceforge.net/projects/paraffin/) - A suite of Ada 2012 generics to facilitate iterative and recursive parallelism for multicore systems.
 - [deepend](https://sourceforge.net/projects/deepend/) - Deepend is a storage pool with subpool capabilities for Ada 2012, Ada 2005, and Ada 95.
-- [charles](http://home.earthlink.net/~matthewjheaney/charles/) - Charles is an Ada 95 container library, precursor to Ada 2005+ standard containers.
+- [charles](https://web.archive.org/web/20161207211935/https://home.earthlink.net/~matthewjheaney/charles/) - Charles is an Ada 95 container library, precursor to Ada 2005+ standard containers.
 - [simple-blockchain](https://github.com/tomekw/simple_blockchain) - Simple blockchain in Ada.
 - [adagio](https://github.com/mosteo/adagio) - Gnutella2 (G2) network server leaf.
 - [agpl](https://github.com/mosteo/agpl) - Ada General Purpose Library (Miscellaneous utilities, with a robotic flavor).
@@ -588,7 +587,7 @@ language.  It is loosely modelled after JUnit and some ideas from AUnit.
 - [ada-synthetizer](https://github.com/frett27/Ada-Synthetizer) - Sound Synthetizer Library implemented in Ada.
 - [ada-synth-lib](https://github.com/raph-amiard/ada-synth-lib) - Simple audio synthesis library.
 - [scala](http://www.huygens-fokker.org/scala) - Scala is a powerful software tool for experimentation with musical tunings, such as just intonation scales, equal and historical temperaments, microtonal and macrotonal scales, and non-Western scales.
-- [ada-portable-sound](https://github.com/fastrgv/portable-linux-sound) - a linux-sound-playing package for Ada apps that can asynchronously start and stop music loops, as well as initiate transient sounds.  Suitable for games.
+- [portable-openal-sound](https://github.com/fastrgv/portable-openal-sound) - a linux-sound-playing package for Ada apps that can asynchronously start and stop music loops, as well as initiate transient sounds.  Suitable for games.
 
 [coreland-openal-ada]: https://github.com/io7m/coreland-openal-ada
 
@@ -600,7 +599,7 @@ language.  It is loosely modelled after JUnit and some ideas from AUnit.
 - [a-stream-tools](https://github.com/persan/a-stream-tools.git) - Stream utilities for Ada2005 and 2012.
 - [ssprep](https://github.com/persan/ssprep.git) - An extensible template engine akin to jinja but using [template-parser] and intended for command line usage.
 - [licensing](https://github.com/mosteo/licensing) - Open Source Licenses library for Ada.
-- [simple-logging](https://github.com/mosteo/simple_logging) - Easy to use logging facilities for output to console in Ada programs.
+- [simple-logging](https://github.com/alire-project/simple_logging) - Easy to use logging facilities for output to console in Ada programs.
 - [rsfile](https://github.com/mosteo/rsfile) - Command-line utility that picks a file from a folder hierarchy with probability proportional to its size.
 - [cstrings](https://github.com/mosteo/cstrings) - Convenience subprograms to interact with C strings.
 - [cvsweb2git](https://github.com/reznikmm/cvsweb2git) - Tool to imports CVS repository shared on Ada Conformity Assessment Authority into the Git repository.
@@ -622,7 +621,6 @@ language.  It is loosely modelled after JUnit and some ideas from AUnit.
 
 #### Windows and .NET
 - [win32ada](https://github.com/AdaCore/win32ada) - Ada API to the Windows library.
-- [ada-net-framework-core](https://github.com/Alex-Gamper/Ada-NetFrameworkCore) - Ada bindings for the Microsft NetFramework Api.
 - [ada-net-framework](https://github.com/Alex-Gamper/Ada-NetFramework) - Ada bindings to the Microsoft NetFramework Api.
 - [ada-winrt](https://github.com/Alex-Gamper/Ada-WinRT) - Ada bindings for the Microsft WinRT Api.
 - [ada-win32](https://github.com/Alex-Gamper/Ada-Win32) - Ada bindings for the Microsoft Win32 Api.
@@ -747,8 +745,8 @@ language.  It is loosely modelled after JUnit and some ideas from AUnit.
 - [ada-bfd](https://github.com/stcarrez/ada-bfd) - Ada BFD is an Ada binding for the GNU Binutils BFD library. It allows to read binary ELF, COFF files by using the GNU BFD.
 - [boehmgc-ada](https://github.com/ytomino/boehmgc-ada) - Ada binding to the Boehm-Demers-Weiser conservative garbage collector.
 - [tcl-ada-shell](https://github.com/simonjwright/tcladashell) - Tcl Ada SHell (Tash) is an Ada binding to Tcl/Tk.
-- [tashy](https://www.laeran.pl/repositories/tashy/wiki?name=Home) - Tashy is short from Tcl Ada SHell Younger. It is derivate of Tash, focused mostly on Tk binding.
-- [tashy2](https://www.laeran.pl/repositories/tashy2/wiki?name=Home) - Tashy2 is short from Tcl Ada SHell Younger. It is derivate of Tashy, and aims to be more idiomatic and uses a more permisive license.
+- [tashy](https://github.com/thindil/tashy) - Tashy is short from Tcl Ada SHell Younger. It is derivate of Tash, focused mostly on Tk binding.
+- [tashy2](https://github.com/thindil/tashy2) - Tashy2 is short from Tcl Ada SHell Younger. It is derivate of Tashy, and aims to be more idiomatic and uses a more permisive license.
 - [hungarian](https://github.com/mosteo/hungarian) - Ada wrapper for the fast Stachniss' Hungarian solver.
 - [ada-lua](https://github.com/AdaCore/ada-lua) - Ada binding for Lua.
 - [coreland-lua-ada](https://github.com/io7m/coreland-lua-ada) - Ada bindings to the Lua language.
