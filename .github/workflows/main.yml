@@ -11,7 +11,8 @@ on:
   pull_request:
     branches: [main]
     paths:
-      - 'readme.md'
+      - 'README.md'
+      - '.github/workflows/main.yml'
 
 jobs:
   main:
