@@ -692,6 +692,7 @@ language.  It is loosely modelled after JUnit and some ideas from AUnit.
 #### Automation
 - [acnc](https://github.com/Fabien-Chouteau/ACNC) - A G-code parser and CNC controller (in Ada).
 - [max-home-automation] - [gtkada] application to manage ELV/eQ-3 MAX! cubes for home automation.
+- [ada4automation](https://www.ada4automation.org/) - A framework for designing industrial automation applications using the Ada language.
 
 [max-home-automation]: https://sourceforge.net/projects/max-home-automation/
 
