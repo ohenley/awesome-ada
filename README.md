@@ -135,6 +135,7 @@ A curated list of awesome resources related to the Ada and SPARK programming lan
 - [learn](https://learn.adacore.com/) - Interactive learning platform designed to teach the Ada and SPARK programming languages.
 - [ada-lang-io](https://ada-lang.io) - A community site for Ada.
 - [celebrating-ada](https://www.celebratingada.com/) - Ada history key moments.
+- [ada-logo-editor](https://ada-lang-io.github.io/ada-logo-editor/) - The “Ada horizon” logo maker website.
 
 #### Tutorials
 - [adacore-video-tutorials](https://www.youtube.com/playlist?list=PLkoa8uxigENkneyEEeDWVPgpMhPc9IJ7o) - AdaCore University Video Tutorials.
