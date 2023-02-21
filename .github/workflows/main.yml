@@ -23,5 +23,7 @@ jobs:
           fetch-depth: 0
       - name: Check links
         uses: gaurav-nelson/github-action-markdown-link-check@v1
+        with:
+          config-file: 'link_checker_config.json'
       - name: Awesome linter
         run: npx awesome-lint
