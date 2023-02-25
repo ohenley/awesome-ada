@@ -110,7 +110,6 @@ A curated list of awesome resources related to the Ada and SPARK programming lan
 	9. [Programming Languages](#programming-languages)
 	10. [Misc](#misc)
 15. [Bindings](#bindings-1)
-16. [License](#license)
 
 </details>
 
@@ -753,7 +752,3 @@ language.  It is loosely modelled after JUnit and some ideas from AUnit.
 - [hungarian](https://github.com/mosteo/hungarian) - Ada wrapper for the fast Stachniss' Hungarian solver.
 - [ada-lua](https://github.com/AdaCore/ada-lua) - Ada binding for Lua.
 - [coreland-lua-ada](https://github.com/io7m/coreland-lua-ada) - Ada bindings to the Lua language.
-
-## License
-
-[![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
