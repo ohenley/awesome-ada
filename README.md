@@ -1,3 +1,5 @@
+# Awesome Ada [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+
 <br/><br/>
 <div align="center">
 	<img width="350px"  src="https://github.com/ohenley/files/blob/master/awesome-ada/logo_ada_awesome.svg" alt="Awesome"/>
@@ -12,10 +14,8 @@
 >
 > Long live Ada/SPARK.
 
-
 <br/><br/>
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)  
 A curated list of awesome resources related to the Ada and SPARK programming language.      
 
 ## Contents
