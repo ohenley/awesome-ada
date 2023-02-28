@@ -6,8 +6,8 @@ on:
     branches:
     - main
   schedule:
-  # Run every first day at 00:00 AM every month.
-    - cron: "0 0 * * *"
+  # Run every sunday at 00:00 AM.
+    - cron: "0 0 * * 0"
   pull_request:
     branches: [main]
     paths:
@@ -21,9 +21,10 @@ jobs:
       - uses: actions/checkout@v3
         with:
           fetch-depth: 0
+      - name: Awesome linter
+        run: npx awesome-lint
       - name: Check links
         uses: gaurav-nelson/github-action-markdown-link-check@v1
         with:
           config-file: '.github/workflows/link_checker_config.json'
-      - name: Awesome linter
-        run: npx awesome-lint
+
