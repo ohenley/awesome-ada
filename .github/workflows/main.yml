@@ -23,8 +23,12 @@ jobs:
           fetch-depth: 0
       - name: Awesome linter
         run: npx awesome-lint
-      - name: Check links
-        uses: gaurav-nelson/github-action-markdown-link-check@v1
+      - name: Link Checker
+        uses: lycheeverse/lychee-action@v1
         with:
-          config-file: '.github/workflows/link_checker_config.json'
-
+          # Check only README.md
+          args: README.md
+          # Use markdown as output format (alternative is json)
+          format: markdown
+          # Fail action on broken links
+          fail: true
