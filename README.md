@@ -527,7 +527,7 @@ language.  It is loosely modelled after JUnit and some ideas from AUnit.
 - [json-ada](https://github.com/onox/json-ada) - An Ada 2012 library for parsing JSON.
 - [jwx](https://github.com/Componolit/jwx) - A formally verified JSON library in SPARK.
 - [xmlada](https://github.com/AdaCore/xmlada) - The XML/Ada toolkit.
-- [xml-ez](http://www.mckae.com/xmlEz.html) - Library for emitting XML from Ada programs.
+- [xml-ez-out](https://github.com/alire-project/xmlezout) - Library for emitting XML from Ada programs.
 - [spark-xml](https://github.com/Componolit/SXML) - A formally verified XML library in SPARK.
 - [excel-writer](https://github.com/zertovitch/excel-writer) - Create Excel files with basic formats.
 - [generic-image-decoder](https://github.com/zertovitch/gid) - Multi-format image decoder library for Ada.
