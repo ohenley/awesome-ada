@@ -192,7 +192,7 @@ A curated list of awesome resources related to the Ada and SPARK programming lan
 
 ### News and Resources
 - [adacore-blog](https://blog.adacore.com/) - An insight into the AdaCore ecosystem.
-- [ada-europe](http://www.ada-europe.org/) - Ada-Europe is an international organization, set up to promote the use of Ada.
+- [ada-europe](https://www.ada-europe.org/) - Ada-Europe is an international organization, set up to promote the use of Ada.
 - [acm-sig-ada](https://www.sigada.org/) - The Special Interest Group on Ada.
 - [ada-resource-association](https://www.adaic.org/community/) - Since 1990 the Ada Resource Association's principal mission has been “To ensure continued success of Ada users and promote Ada use in the software industry”.
 - [ada-information-clearinghouse](https://www.adaic.org/) - News and resources for the Ada programming language.
@@ -202,7 +202,7 @@ A curated list of awesome resources related to the Ada and SPARK programming lan
 
 ### Competition
 <div align="center">
-	<a href="https://www.makewithada.org/">
+	<a href="http://www.makewithada.org/">
 		<img width="800px" src="https://hackster.imgix.net/uploads/attachments/1164282/_UAa0j7WX8u.blob?auto=compress%2Cformat&w=800&h=200&fit=min"/>
 	</a>
 </div>
