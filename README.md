@@ -388,7 +388,7 @@ A curated list of awesome resources related to the Ada and SPARK programming lan
 ### Unit Test, Testing
 - [ahven](http://ahven.stronglytyped.org/) - Ahven is a simple unit test library and framework for the Ada programming.
 language.  It is loosely modelled after JUnit and some ideas from AUnit.
-- [aunit](https://libre.adacore.com/tools/aunit/) - Ada unit testing framework.
+- [aunit](https://github.com/AdaCore/aunit) - Ada unit testing framework.
 - [gnatbdd](https://github.com/briot/gnatbdd) - Behavior Driven Development in Ada.
 - [scripted-testing](https://github.com/simonjwright/scripted_testing) - Supports functional testing using Tcl scripts.
 
