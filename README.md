@@ -306,6 +306,7 @@ A curated list of awesome resources related to the Ada and SPARK programming lan
 - [havk](https://github.com/RavSS/HAVK) - x86-64 security-focused OS being created with SPARK.
 - [cubit](https://github.com/docandrew/CuBit) - CuBitOS is a multi-processor, 64-bit, (partially) formally-verified, general-purpose operating system, currently for the x86-64 architecture.
 - [ironclad](https://nongnu.org/ironclad) - A kernel for several architectures striving for POSIX compatibility, used on several distributions like [Gloire](https://github.com/streaksu/Gloire).
+- [HiRTOS](https://github.com/jgrivera67/HiRTOS) - A high-integrity RTOS written in SPARK Ada.
 
 ## Games
 - [steamsky](https://www.laeran.pl/repositories/steamsky) - Roguelike in sky with a steampunk setting.
