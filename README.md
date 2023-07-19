@@ -633,6 +633,7 @@ language.  It is loosely modelled after JUnit and some ideas from AUnit.
 ## Hardware and Embedded
 
 ### Frameworks
+- [SweetAda](https://github.com/gabriele-galeotti/SweetAda) - A lightweight development framework whose purpose is the implementation of Ada-based software systems. It supports a plethora or CPU architectures and development boards.
 - [robotics-with-ada](https://github.com/AdaCore/Robotics_with_Ada) - Robotics with Ada, ARM, and Lego.
 
 ### Firmwares
