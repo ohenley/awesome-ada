@@ -445,7 +445,9 @@ language.  It is loosely modelled after JUnit and some ideas from AUnit.
 
 ### Science
 - [si](http://archive.adaic.com/tools/CKWG/Dimension/SI.html) - SI units checked and unchecked.
-
+- [units-of-measurement](http://www.dmitry-kazakov.de/ada/units.htm) - Library to manage units of measurement with dimension checking.
+- [si_units](https://github.com/HeisenbugLtd/si_units) - Utility library to pretty print physical values in proper metric units.
+ 
 ### Algorithms, Containers and Protocols
 - [ada-language-server](https://github.com/AdaCore/ada_language_server) - Adacore server implemention of the the Microsoft Language Protocol for Ada and SPARK.
 - [ada-lsp](https://github.com/reznikmm/ada-lsp) - Language Server Protocol for Ada.
