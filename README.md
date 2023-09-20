@@ -203,7 +203,7 @@ A curated list of awesome resources related to the Ada and SPARK programming lan
 ### Competition
 
 <div align="center">
-	<a href="https://blog.adacore.com/announcing-the-first-ada-spark-crate-of-the-year-award">
+	<a href="https://blog.adacore.com/ada-spark-crate-of-the-year-2022-winners-announced">
 		<img width="800px" src="https://raw.githubusercontent.com/AdaCore/Ada-SPARK-Crate-Of-The-Year/master/banner.jpg"/>
 	</a>
 </div>
