@@ -2,7 +2,7 @@
 
 <br/><br/>
 <div align="center">
-	<img width="350px"  src="https://github.com/ohenley/files/blob/master/awesome-ada/logo_ada_awesome.svg" alt="Awesome"/>
+	<img width="240px"  src="https://github.com/ohenley/files/blob/master/awesome-ada/logo_ada_awesome.svg" alt="Awesome"/>
 </div>
 
 <br/><br/>
