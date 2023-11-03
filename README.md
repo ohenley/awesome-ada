@@ -2,7 +2,7 @@
 
 <br/><br/>
 <div align="center">
-	<img width="240px"  src="https://github.com/ohenley/files/blob/master/awesome-ada/logo_ada_awesome.svg" alt="Awesome"/>
+	<img width="300px"  src="https://github.com/ohenley/files/blob/master/awesome-ada/logo_ada_awesome.svg" alt="Awesome"/>
 </div>
 
 <br/><br/>
@@ -204,7 +204,7 @@ A curated list of awesome resources related to the Ada and SPARK programming lan
 
 <div align="center">
 	<a href="https://blog.adacore.com/ada-spark-crate-of-the-year-2022-winners-announced">
-		<img width="800px" src="https://raw.githubusercontent.com/AdaCore/Ada-SPARK-Crate-Of-The-Year/master/banner.jpg"/>
+		<img width="600px" src="https://raw.githubusercontent.com/AdaCore/Ada-SPARK-Crate-Of-The-Year/master/banner.jpg"/>
 	</a>
 </div>
 
