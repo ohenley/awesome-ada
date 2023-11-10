@@ -731,7 +731,7 @@ language.  It is loosely modelled after JUnit and some ideas from AUnit.
 ### Misc
 - [dhondt](https://github.com/simonjwright/dhondt) - Ada implementation of D'Hondt electoral result calculator.
 - [whitakers-words](https://github.com/mk270/whitakers-words) - William Whitaker's WORDS, a Latin dictionary.
-- [ada-chess](https://www.adachess.com/) - Chess engine written in Ada.
+- [ada-chess](https://github.com/adachess/AdaChess) - Chess engine written in Ada.
 - [adage](https://github.com/atalii/adage) - An Ada/SPARK alternative to sudo and doas.
 
 ## Bindings
