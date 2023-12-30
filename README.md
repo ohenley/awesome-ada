@@ -282,6 +282,7 @@ A curated list of awesome resources related to the Ada and SPARK programming lan
 ### Continuous Integration
 - [continuous-verification](https://github.com/jklmnn/continuous-verification) - SPARK formal verification automated with Travis CI.
 - [ada-actions](https://github.com/ada-actions/toolchain) - Ada Toolchains for GitHub Actions.
+- [porion](https://gitlab.com/stcarrez/porion) - Continuous integration server and agent that helps automate the building, testing and deployment.
 
 ## Runtimes
 - [bb-runtimes](https://github.com/AdaCore/bb-runtimes) - GNAT bare metal board support package (BSP).
