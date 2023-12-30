@@ -77,7 +77,7 @@ A curated list of awesome resources related to the Ada and SPARK programming lan
 	6. [Patterns](#patterns)
 	7. [System Modeling](#system-modeling)
 	8. [Parsers, Scanners, Linters, Analysers, Interpreters and Prettyprinters](#parsers-scanners-linters-analysers-interpreters-and-prettyprinters)
-	9. [Format Readers, Writers and Checkers](#format-readers-and-writers)
+	9. [Format Readers, Writers and Checkers](#format-readers-writers-and-checkers)
 	10. [Networking and Communication Middleware](#networking-and-communication-middleware)
 	11. [Chatting and Communication](#chatting-and-communication)
 	12. [Web](#web-1)
