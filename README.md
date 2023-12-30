@@ -77,7 +77,7 @@ A curated list of awesome resources related to the Ada and SPARK programming lan
 	6. [Patterns](#patterns)
 	7. [System Modeling](#system-modeling)
 	8. [Parsers, Scanners, Linters, Analysers, Interpreters and Prettyprinters](#parsers-scanners-linters-analysers-interpreters-and-prettyprinters)
-	9. [Format Readers and Writers](#format-readers-and-writers)
+	9. [Format Readers, Writers and Checkers](#format-readers-writers-and-checkers)
 	10. [Networking and Communication Middleware](#networking-and-communication-middleware)
 	11. [Chatting and Communication](#chatting-and-communication)
 	12. [Web](#web-1)
@@ -522,7 +522,7 @@ language.  It is loosely modelled after JUnit and some ideas from AUnit.
 - [parser-tools](https://github.com/flyx/ParserTools) - Tools for writing lexers / parsers in Ada.
 - [xia](https://github.com/simonjwright/xia) - An Ada implementation of XPath 1.0.
 
-### Format Readers and Writers
+### Format Readers, Writers and Checkers
 - [ini-files](https://github.com/zertovitch/ini-files) - The Ini file manager consists of a package, Config, which can read and modify informations from various configuration files known as "ini" files.
 - [protobuf-ada](https://github.com/persan/protobuf-ada) - Experimental Ada code generation support for Google Protocol Buffers.
 - [protobuf](https://github.com/reznikmm/protobuf) - A Google Protocol Buffers implementation in Ada, using [matreshka].
@@ -541,6 +541,7 @@ language.  It is loosely modelled after JUnit and some ideas from AUnit.
 - [abf-io](https://github.com/gerr135/abf_io) - A library of access routines to Axon's ABF file format (electrophysiology, most common) in Ada.
 - [ada-toml](https://github.com/pmderodat/ada-toml) - TOML parser for Ada.
 - [uri-ada](https://git.sr.ht/~nytpu/uri-ada) - URI and MIME parser & manipulation library.
+- [ada-libmagic](https://gitlab.com/stcarrez/ada-libmagic) - Magic Number Recognition Library Ada binding (libmagic (3)).
 
 [ada-toml]: https://github.com/pmderodat/ada-toml
 
@@ -600,6 +601,7 @@ language.  It is loosely modelled after JUnit and some ideas from AUnit.
 
 ### Localization
 - [zanyblue](https://sourceforge.net/projects/zanyblue/) - An Ada package allowing the externalization of application messages into a properties file.
+- [ada-intl](https://gitlab.com/stcarrez/ada-intl) - NLS thin Ada binding (gettext (3), textdomain (3), bindtextdomain (3)).
 
 ### Utilities
 - [auto-counters](https://github.com/jhumphry/auto_counters) - Reference counting approaches to resource management.
@@ -750,3 +752,4 @@ language.  It is loosely modelled after JUnit and some ideas from AUnit.
 - [hungarian](https://github.com/mosteo/hungarian) - Ada wrapper for the fast Stachniss' Hungarian solver.
 - [ada-lua](https://github.com/AdaCore/ada-lua) - Ada binding for Lua.
 - [coreland-lua-ada](https://github.com/io7m/coreland-lua-ada) - Ada bindings to the Lua language.
+
