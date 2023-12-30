@@ -425,6 +425,7 @@ language.  It is loosely modelled after JUnit and some ideas from AUnit.
 - [automate](https://github.com/Blady-Com/Automate) - Finite-state machine generator.
 - [ajunitgen](https://github.com/mosteo/ajunitgen) - Generator of JUnit-compatible XML reports in Ada.
 - [record-flux](https://github.com/Componolit/RecordFlux) - RecordFlux: Toolset for the formal specification of messages and the generation of verifiable binary parsers and message generators in SPARK.
+- [resource-embedder](https://gitlab.com/stcarrez/resource-embedder) - Advanced Resource Embedder to embed files in binaries by producing C, Ada or Go source files.
 
 ### UML
 - [ada-ml](https://github.com/rocher/AdaML) - Ada-tailored UML Modeling Language.
