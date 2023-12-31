@@ -630,6 +630,7 @@ language.  It is loosely modelled after JUnit and some ideas from AUnit.
 - [ada-v4l2](https://github.com/frett27/AdaV4L2) - Ada Posix Binding to Video 4 Linux, used for RPI.
 - [inotify-ada](https://github.com/onox/inotify-ada) - An Ada 2012 library for monitoring filesystem events using Linux' inotify API.
 - [dl-ada](https://github.com/mosteo/dl-ada) - Minimal binding to libdl.
+- [suid-helper](https://gitlab.com/mockturtle/suid-helper) - Small Ada library that helps in writing safer suid programs.
 
 ### Windows and .NET
 - [win32ada](https://github.com/AdaCore/win32ada) - Ada API to the Windows library.
