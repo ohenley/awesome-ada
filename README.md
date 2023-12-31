@@ -659,12 +659,14 @@ language.  It is loosely modelled after JUnit and some ideas from AUnit.
 
 ### Communication
 - [sensortile](https://github.com/morbos/STM32/tree/master/L/L476/sensortile) - This project shows how to initialize a SensorTile and how to send sensor data over BLE from a SensorTile to a suitable host.
+- [ada-enet](https://github.com/stcarrez/ada-enet) - Embedded network stack (Ethernet driver, IPv4, UDP, DNS, DHCP, NTP) for STM32F746 or STM32F769.
 
 ### Libraries
 - [giza](https://github.com/Fabien-Chouteau/Giza) - Giza is trying to be a simple widget tool kit for embedded platforms.
 - [ada-synth-lib](https://github.com/raph-amiard/ada-synth-lib) - Simple audio synthesis library that can run on bareboard devices.
 - [geste](https://github.com/Fabien-Chouteau/GESTE) - GESTE is a sprite and tile 2D render engine designed to run on micro-controllers.
 - [sancta](https://github.com/mosteo/sancta) - SANCTA multi-robot task allocation library.
+- [stm32-ui](https://github.com/stcarrez/stm32-ui) - STM32 UI library and tools (graphs, images, 12 hour clock).
 
 ### Applications
 - [coffee-clock](https://github.com/Fabien-Chouteau/coffee-clock) - Waking up with a fresh cup of coffee.
