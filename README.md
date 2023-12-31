@@ -445,6 +445,7 @@ language.  It is loosely modelled after JUnit and some ideas from AUnit.
 - [mandelbrot-ascii](https://github.com/mosteo/mandelbrot_ascii) - Mandelbrot renderer in "ASCII" (unicode actually, but text nonetheless).
 - [lalg](https://github.com/jhumphry/LALG) - Interface to dense linear algebra packages.
 - [geo-energy-math](https://github.com/pukpr/GeoEnergyMath) - Software libraries for solving models described in Mathematical GeoEnergy (Wiley, 2018).
+- [matrix-root](https://gitlab.com/mockturtle/matrix-root) - Compute the N-th root of a matrix.
 
 ### Science
 - [si](http://archive.adaic.com/tools/CKWG/Dimension/SI.html) - SI units checked and unchecked.
