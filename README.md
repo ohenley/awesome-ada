@@ -98,7 +98,7 @@ A curated list of awesome resources related to the Ada and SPARK programming lan
 	5. [Communication](#communication)
 	6. [Libraries](#libraries-1)
 	7. [Applications](#applications)
-	8. [Bindings](#bindings)
+	8. [Generators](#generators)
 14. [Applications](#applications-1)
 	1. [Office](#office)
 	2. [Mail](#mail)
