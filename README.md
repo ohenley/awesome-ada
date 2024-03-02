@@ -196,7 +196,7 @@ A curated list of awesome resources related to the Ada and SPARK programming lan
 - [acm-sig-ada](https://www.sigada.org/) - The Special Interest Group on Ada.
 - [ada-resource-association](https://www.adaic.org/community/) - Since 1990 the Ada Resource Association's principal mission has been “To ensure continued success of Ada users and promote Ada use in the software industry”.
 - [ada-information-clearinghouse](https://www.adaic.org/) - News and resources for the Ada programming language.
-- [ada-planet](https://ada-planet.blogspot.com/) - News Aggregator from the Ada programming language world.
+- [ada-planet](https://ada-planet.blogspot.com/) - News Aggregator from the Ada programming language world (v3) ([Ada-Planet v2 feed via Matrix][ada-planet-via-matrix])
 
 [ada-planet-via-matrix]: https://matrix.to/#/#ada-lang:matrix.org
 
