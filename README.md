@@ -355,6 +355,7 @@ A curated list of awesome resources related to the Ada and SPARK programming lan
 - [ada-gui](https://github.com/jrcarter/Ada_GUI) - GUI implemented on its own task, so it doesn't require that its client give up a thread of control. Derived from [gnoga].
 - [adawebui](https://github.com/godunko/adawebui) - GUI based on [adawebpack].
 - [imgui-ada](https://github.com/Cre8or/ImGui-Ada) - Ada binding of the ImGui library.
+- [anuklear](https://github.com/ada-game-framework/anuklear) - Ada binding to the Nuklear GUI library and the Nuklear-SDL renderer.
 
 [gnoga]: https://sourceforge.net/projects/gnoga/
 [gtkada]: https://github.com/AdaCore/gtkada
