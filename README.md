@@ -581,7 +581,7 @@ language.  It is loosely modelled after JUnit and some ideas from AUnit.
 [template-parser]: https://github.com/AdaCore/templates-parser
 
 ### Graphics and Multimedia
-- [orka](https://github.com/onox/orka) - The OpenGL 4.6 Rendering Kernel in Ada 2012.
+- [orka](https://github.com/ohenley/orka) - The OpenGL 4.6 Rendering Kernel in Ada 2012.
 - [opengl-ada](https://github.com/flyx/OpenGLAda) - Thick Ada binding for OpenGL and GLFW.
 - [adagl](https://github.com/godunko/adagl) - Multiplatform Ada/OpenGL bindings (ported to native/OpenGL, A2JS/WebGL and WASM/WebGL).
 - [sdlada](https://github.com/Lucretia/sdlada) - Ada 2012 bindings to SDL 2.
