@@ -183,7 +183,7 @@ A curated list of awesome resources related to the Ada and SPARK programming lan
 
 ### Questions and Answers
 - [gitter-ada](https://gitter.im/ada-lang/Lobby) - Ada channel at Gitter.
-- [comp-lang-ada](https://groups.google.com/forum/#!forum/comp.lang.ada) - Ada Usenet newsgroup/forum.
+- [comp-lang-ada](https://usenet.ada-lang.io/comp.lang.ada/) - Ada Usenet newsgroup/forum.
 - [stack-overflow-ada-tag](https://stackoverflow.com/questions/tagged/ada) - Ada at Stack Overflow.
 - [subreddit-ada](https://www.reddit.com/r/ada/) - Ada at Reddit.
 - [subreddit-spark](https://www.reddit.com/r/spark/) - Spark at Reddit.
