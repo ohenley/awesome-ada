@@ -88,7 +88,9 @@ A curated list of awesome resources related to the Ada and SPARK programming lan
 	17. [Utilities](#utilities)
 	18. [Robotics](#robotics)
 	19. [Linux and POSIX](#linux-and-posix)
-	20. [Windows and .NET](#windows-and-net)
+<!--lint disable awesome-spell-check-->
+20. [Windows and .NET](#windows-and-net)
+<!--lint enable awesome-spell-check-->
     21. [Bindings to Other Languages](#bindings-to-other-languages)
 13. [Hardware and Embedded](#hardware-and-embedded)
 	1. [Frameworks](#frameworks-1)
@@ -382,7 +384,9 @@ A curated list of awesome resources related to the Ada and SPARK programming lan
 - [apq-base](https://github.com/ada-apq/apq/) - APQ is a database interface library written in Ada95.
 
 ### Web
+<!--lint disable awesome-spell-check-->
 - [aws](https://github.com/AdaCore/aws) - AWS is a complete framework to develop Web based applications in Ada.
+<!--lint enable awesome-list-item-->
 - [awa](https://github.com/stcarrez/ada-awa) - Ada Web Application is a framework to build a Web Application in Ada 2012. The framework provides several ready to use and extendable modules that are common to many web application. This includes the login, authentication, users, permissions, managing comments, tags, votes, documents, images.
     - [dynamo](https://github.com/stcarrez/dynamo) - Code generator used to generate an Ada Web Application or database mappings from hibernate-like XML description, YAML doctrine model or UML models.
     - [ada-wiki](https://github.com/stcarrez/ada-wiki) - Ada Wiki is a small library that provides a Wiki engine.
@@ -483,7 +487,9 @@ language.  It is loosely modelled after JUnit and some ideas from AUnit.
 - [paraffin](https://sourceforge.net/projects/paraffin/) - A suite of Ada 2012 generics to facilitate iterative and recursive parallelism for multicore systems.
 - [deepend](https://sourceforge.net/projects/deepend/) - Deepend is a storage pool with subpool capabilities for Ada 2012, Ada 2005, and Ada 95.
 - [charles](https://web.archive.org/web/20161207211935/https://home.earthlink.net/~matthewjheaney/charles/) - Charles is an Ada 95 container library, precursor to Ada 2005+ standard containers.
+<!--lint disable awesome-spell-check-->
 - [simple-blockchain](https://github.com/tomekw/simple_blockchain) - Simple blockchain in Ada.
+<!--lint enable awesome-spell-check-->
 - [adagio](https://github.com/mosteo/adagio) - Gnutella2 (G2) network server leaf.
 - [agpl](https://github.com/mosteo/agpl) - Ada General Purpose Library (Miscellaneous utilities, with a robotic flavor).
 - [az3](https://github.com/Componolit/AZ3) - Ada binding for Z3.
@@ -614,8 +620,9 @@ language.  It is loosely modelled after JUnit and some ideas from AUnit.
 - [oto](https://github.com/darkestkhan/oto) - Ada binding to OpenAL which tries to mimic original API while using Ada types.
 - [coreland-openal-ada](https://github.com/io7m/coreland-openal-ada) - Ada binding to OpenAL.
 - [ada-synthetizer](https://github.com/frett27/Ada-Synthetizer) - Sound Synthetizer Library implemented in Ada.
+<!--lint disable awesome-spell-check-->
 - [scala](https://www.huygens-fokker.org/scala) - Scala is a powerful software tool for experimentation with musical tunings, such as just intonation scales, equal and historical temperaments, microtonal and macrotonal scales, and non-Western scales.
-- [portable-openal-sound](https://github.com/fastrgv/portable-openal-sound) - A linux-sound-playing package for Ada apps that can asynchronously start and stop music loops, as well as initiate transient sounds.
+<!--lint enable awesome-list-item-->- [portable-openal-sound](https://github.com/fastrgv/portable-openal-sound) - A linux-sound-playing package for Ada apps that can asynchronously start and stop music loops, as well as initiate transient sounds.
 - [adaogg](https://phasercat.com/adaogg/) - Complete thin interface layer that brings the Ogg, Vorbis, and Theora libraries to the Ada 2012 programming language.
 
 ### Localization
@@ -648,7 +655,9 @@ language.  It is loosely modelled after JUnit and some ideas from AUnit.
 - [dl-ada](https://github.com/mosteo/dl-ada) - Minimal binding to libdl.
 - [suid-helper](https://gitlab.com/mockturtle/suid-helper) - Small Ada library that helps in writing safer suid programs.
 
+<!--lint disable awesome-spell-check-->
 ### Windows and .NET
+<!--lint enable awesome-spell-check-->
 - [win32ada](https://github.com/AdaCore/win32ada) - Ada API to the Windows library.
 - [ada-net-framework](https://github.com/Alex-Gamper/Ada-NetFramework) - Ada bindings to the Microsoft NetFramework Api.
 - [ada-winrt](https://github.com/Alex-Gamper/Ada-WinRT) - Ada bindings for the Microsft WinRT Api.
