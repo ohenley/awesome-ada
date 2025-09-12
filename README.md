@@ -17,8 +17,9 @@
 <br/><br/>
 
 A curated list of awesome resources related to the Ada and SPARK programming language.      
-
+<!--lint disable awesome-toc-->
 ## Contents
+<!--lint enable awesome-toc-->
 <details>
 <summary>Click to expand</summary>
 
@@ -90,7 +91,7 @@ A curated list of awesome resources related to the Ada and SPARK programming lan
 	19. [Linux and POSIX](#linux-and-posix)
 <!--lint disable awesome-spell-check-->
 20. [Windows and .NET](#windows-and-net)
-<!--lint enable awesome-spell-check-->
+	<!--lint enable awesome-spell-check-->
     21. [Bindings to Other Languages](#bindings-to-other-languages)
 13. [Hardware and Embedded](#hardware-and-embedded)
 	1. [Frameworks](#frameworks-1)
@@ -269,7 +270,7 @@ A curated list of awesome resources related to the Ada and SPARK programming lan
 - [ob-ada-spark](https://github.com/rocher/ob-ada-spark/) - Ada/SPARK support for org-babel : Evaluate source code blocks with Gnu Emacs and org files.
 - [doom-ada](https://github.com/tomekw/doom-ada) - Doom Emacs Ada language module with syntax highlighting, LSP and Alire support.
 
-### Vscode Extensions
+### VSCode Extensions
 - [adacore-ada](https://marketplace.visualstudio.com/items?itemName=AdaCore.ada) - Language Support for Ada. It includes [Language Server for Ada][ada-language-server].
 - [ada-vscode](https://github.com/Lucretia/ada-vscode) - Basic syntax highlighting for Ada and GPR.
 - [ada-utilities](https://github.com/Lucretia/ada-utilities) - VSCode extension Ada programmers which provides a few utility functions.
