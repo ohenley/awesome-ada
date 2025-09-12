@@ -17,9 +17,8 @@
 <br/><br/>
 
 A curated list of awesome resources related to the Ada and SPARK programming language.      
-<!--lint disable awesome-toc-->
+
 ## Contents
-<!--lint enable awesome-toc-->
 <details>
 <summary>Click to expand</summary>
 
@@ -89,9 +88,7 @@ A curated list of awesome resources related to the Ada and SPARK programming lan
 	17. [Utilities](#utilities)
 	18. [Robotics](#robotics)
 	19. [Linux and POSIX](#linux-and-posix)
-	<!--lint disable awesome-spell-check-->
 	20. [Windows and .NET](#windows-and-net)
-	<!--lint enable awesome-spell-check-->
     21. [Bindings to Other Languages](#bindings-to-other-languages)
 13. [Hardware and Embedded](#hardware-and-embedded)
 	1. [Frameworks](#frameworks-1)
@@ -656,9 +653,7 @@ language.  It is loosely modelled after JUnit and some ideas from AUnit.
 - [dl-ada](https://github.com/mosteo/dl-ada) - Minimal binding to libdl.
 - [suid-helper](https://gitlab.com/mockturtle/suid-helper) - Small Ada library that helps in writing safer suid programs.
 
-<!--lint disable awesome-spell-check-->
 ### Windows and .NET
-<!--lint enable awesome-spell-check-->
 - [win32ada](https://github.com/AdaCore/win32ada) - Ada API to the Windows library.
 - [ada-net-framework](https://github.com/Alex-Gamper/Ada-NetFramework) - Ada bindings to the Microsoft NetFramework Api.
 - [ada-winrt](https://github.com/Alex-Gamper/Ada-WinRT) - Ada bindings for the Microsft WinRT Api.
