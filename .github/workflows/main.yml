@@ -24,7 +24,7 @@ jobs:
       - name: Awesome linter
         run: npx awesome-lint
       - name: Link Checker
-        uses: lycheeverse/lychee-action@v1
+        uses: lycheeverse/lychee-action@v2.0.2
         with:
           # Check only README.md
           args: README.md
