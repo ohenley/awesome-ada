@@ -89,8 +89,8 @@ A curated list of awesome resources related to the Ada and SPARK programming lan
 	17. [Utilities](#utilities)
 	18. [Robotics](#robotics)
 	19. [Linux and POSIX](#linux-and-posix)
-<!--lint disable awesome-spell-check-->
-20. [Windows and .NET](#windows-and-net)
+	<!--lint disable awesome-spell-check-->
+	20. [Windows and .NET](#windows-and-net)
 	<!--lint enable awesome-spell-check-->
     21. [Bindings to Other Languages](#bindings-to-other-languages)
 13. [Hardware and Embedded](#hardware-and-embedded)
