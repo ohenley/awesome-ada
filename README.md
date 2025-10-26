@@ -694,7 +694,7 @@ language.  It is loosely modelled after JUnit and some ideas from AUnit.
 ### Libraries
 - [giza](https://github.com/Fabien-Chouteau/Giza) - This library is trying to be a simple widget tool kit for embedded platforms.
 - [ada-synth-lib](https://github.com/raph-amiard/ada-synth-lib) - Simple audio synthesis library that can run on bareboard devices.
-- [geste](https://github.com/Fabien-Chouteau/GESTE) - GESTE is a sprite and tile 2D render engine designed to run on micro-controllers.
+- [geste](https://github.com/Fabien-Chouteau/GESTE) - Sprite and tile 2D render engine designed to run on micro-controllers.
 - [sancta](https://github.com/mosteo/sancta) - Multi-robot task allocation library.
 - [stm32-ui](https://github.com/stcarrez/stm32-ui) - STM32 UI library and tools (graphs, images, 12 hour clock).
 - [ada-time](https://github.com/Fabien-Chouteau/Ada_Time) - Ada binding for the Pebble Time smartwatch.
