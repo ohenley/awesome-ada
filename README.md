@@ -281,6 +281,7 @@ A curated list of awesome resources related to the Ada and SPARK programming lan
 - [ada4cmake](https://github.com/mosteo/ada4cmake) - CMake macros for simple gnat project inclusion.
 - [cmake-ada-offa](https://github.com/offa/cmake-ada) - Ada language support for CMake.
 - [cmake-ada-cho3](https://github.com/cho3/cmake-ada) - CMake language support for Ada, fork of [plplot]'s cross-platform support code.
+- [tada](https://github.com/tomekw/tada) - An opinionated package management tool for Ada.
 
 ### Continuous Integration
 - [continuous-verification](https://github.com/jklmnn/continuous-verification) - SPARK formal verification automated with Travis CI.
