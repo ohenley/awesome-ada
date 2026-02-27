@@ -1,4 +1,4 @@
-name: Check Lint
+name: Checks
 
 on:
   workflow_dispatch:
