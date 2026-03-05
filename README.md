@@ -403,6 +403,7 @@ language.  It is loosely modelled after JUnit and some ideas from AUnit.
 - [bbt](https://github.com/LionelDraghi/bbt) - Simple tool to black box check the behavior of an executable through the command line.
 - [gnatbdd](https://github.com/briot/gnatbdd) - Behavior Driven Development in Ada.
 - [scripted-testing](https://github.com/simonjwright/scripted_testing) - Supports functional testing using Tcl scripts.
+- [testy](https://github.com/tomekw/testy) - Ada testing framework, part of [Tada](https://github.com/tomekw/tada).
 
 ### Logging
 - [alog](https://www.codelabs.ch/alog/) - Stackable logging framework for Ada.
