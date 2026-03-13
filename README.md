@@ -734,6 +734,7 @@ language.  It is loosely modelled after JUnit and some ideas from AUnit.
 ### Multimedia
 - [ada-3ds](https://github.com/AdaDoom3/Ada3DS) - A simple 3DS Max model renderer.
 - [canta](https://sourceforge.net/projects/canta/) - A tool to help to sing in tune.
+- [blackvideo-mini-player](https://github.com/BlackBlazent/blackvideo-mini-player) - A stand-alone lightweight auxiliary video player support for [``BlackVideo``](https://github.com/BlackBlazent/BlackVideo). 
 
 ### Automation
 - [acnc](https://github.com/Fabien-Chouteau/ACNC) - A G-code parser and CNC controller (in Ada).
