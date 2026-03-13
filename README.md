@@ -329,7 +329,7 @@ A curated list of awesome resources related to the Ada and SPARK programming lan
 - [civ-klon](https://github.com/HonkiTonk/Civ-Klon) - Civilization-style turn-based strategy game. Requires [asfml].
 - [eepers](https://github.com/tsoding/eepers) - A simple Turn-based Game in Ada (made with [raylib](https://github.com/raysan5/raylib)).
 - [gade](https://github.com/ellamosi/gade) - A Game Boy emulation library in Ada.
-- [gade-sdl](https://github.com/ellamosi/gade-sdl) - A SDL2 Game Boy emulation front end for [Gade](https://github.com/ellamosi/gade) using [SDLAda](https://github.com/Lucretia/sdlada).
+- [gade-sdl](https://github.com/ellamosi/gade-sdl) - An SDL2 Game Boy emulation front end for [Gade](https://github.com/ellamosi/gade) using [SDLAda](https://github.com/Lucretia/sdlada).
 
 ## Frameworks
 
