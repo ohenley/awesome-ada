@@ -170,7 +170,7 @@ A curated list of awesome resources related to the Ada and SPARK programming lan
 <img height="50px" width="36px" hspace="10px" src="https://assets.lulu.com/cover_thumbs/1/e/1erpwvkr-front-shortedge-384.jpg">[Ada and SPARK on ARM Cortex-M](https://www.lulu.com/shop/maciej-sobczak/ada-and-spark-on-arm-cortex-m/paperback/product-22614818.html) - Embedded.  
 
 ### Specialties
-- [gems](https://www.adacore.com/gems/) - Ada Gem Archive.
+- [gems](https://ada-lang.io/docs/learn/lang/gems) - Ada Gem Archive.
 - [ada-composition](https://github.com/gerr135/ada_composition) - A collections of small nifty demos/sample code that may help better layout data or structure project.
 - [ada-ic-learning](https://www.adaic.org/learn/materials/) - For additional learning resources, see the AdaIC learning section.
 - [ada-at-rosetta-code](https://rosettacode.org/wiki/Category:Ada) - A collection of programming tasks and their sample solutions in Ada.
