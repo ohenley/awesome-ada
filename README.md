@@ -214,13 +214,9 @@ A curated list of awesome resources related to the Ada and SPARK programming lan
 
 ### Open source
 
-#### GPL (no linking exception)
-
-- [gnat-ce](https://www.adacore.com/download) - GNAT Community edition. A release of AdaCore GNAT for free software developers, hobbyists, and students. The run-time libraries provided with GNAT Community are licensed under GPLv3 without linking exception. It supports Ada 2012 only.
-
 #### GPL (with linking exception)
 
-- [fsf-gnat](https://www.getadanow.com/) - Free Software Foundation compiler for the Ada programming language which forms part of the GNU Compiler Collection. It supports all versions of the language, i.e. Ada 2012, Ada 2005, Ada 95 and Ada 83.
+- [fsf-gnat](https://github.com/alire-project/GNAT-FSF-builds/releases) - Free Software Foundation compiler for the Ada programming language which forms part of the GNU Compiler Collection. It supports all versions of the language, i.e. Ada 2022, Ada 2012, Ada 2005, Ada 95 and Ada 83.
 
 #### MIT
 
@@ -246,6 +242,10 @@ A curated list of awesome resources related to the Ada and SPARK programming lan
 - [tutorials-point-ada-compiler](https://www.tutorialspoint.com/compile_ada_online.php) - Online compiler built on the CodingGround engine.
 - [jdoodle-ada-compiler](https://www.jdoodle.com/execute-ada-online) - Online compiler that provides multiple versions of GNAT to test with.
 - [compiler-explorer](https://godbolt.org/) - Run GNAT FSF compilers interactively from your web browser and interact with the assembly.
+
+#### GPL (no linking exception)
+
+- [gnat-ce (discontinued)](https://github.com/AdaCore/gnat-community-archives) - GNAT Community edition. A release of AdaCore GNAT for free software developers, hobbyists, and students. The run-time libraries provided with GNAT Community are licensed under GPLv3 without linking exception. It supports Ada 2012 only.
 
 ## Edit
 
