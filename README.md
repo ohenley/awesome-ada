@@ -623,7 +623,7 @@ language.  It is loosely modelled after JUnit and some ideas from AUnit.
 - [scala](https://www.huygens-fokker.org/scala) - A powerful software tool for experimentation with musical tunings, such as just intonation scales, equal and historical temperaments, microtonal and macrotonal scales, and non-Western scales.
 <!--lint enable awesome-list-item-->- [portable-openal-sound](https://github.com/fastrgv/portable-openal-sound) - A linux-sound-playing package for Ada apps that can asynchronously start and stop music loops, as well as initiate transient sounds.
 - [adaogg](https://phasercat.com/adaogg/) - Complete thin interface layer that brings the Ogg, Vorbis, and Theora libraries to the Ada 2012 programming language.
--[AdaTracker](https://github.com/UlrikHjort/Ada-Tracker) - A MOD, XM, S3M, and IT music tracker player written in Ada, using SDL2 for audio output and UI rendering.
+- [AdaTracker](https://github.com/UlrikHjort/Ada-Tracker) - A MOD, XM, S3M, and IT music tracker player written in Ada, using SDL2 for audio output and UI rendering.
 
 ### Localization
 - [zanyblue](https://sourceforge.net/projects/zanyblue/) - An Ada package allowing the externalization of application messages into a properties file.
