@@ -346,6 +346,7 @@ A curated list of awesome resources related to the Ada and SPARK programming lan
 
 ### Distributed
 - [poly-orb](https://github.com/AdaCore/PolyORB) - PolyORB provides a uniform solution to build distributed applications relying either on middleware standards.
+- [ipfs](https://github.com/kokhlo/ipfs) - IPFS client library: CID/multihash/multibase, CAR archives with block verification, trustless HTTP gateway client.
 
 ### Graphical User Interface
 - [gnoga](https://sourceforge.net/projects/gnoga/) - The GNU Omnificent GUI for Ada.
