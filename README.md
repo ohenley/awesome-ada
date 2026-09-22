@@ -255,7 +255,7 @@ A curated list of awesome resources related to the Ada and SPARK programming lan
 
 ### Editors
 - [lea](https://github.com/zertovitch/lea) - A Lightweight Editor for Ada, aims to provide an easy, script-world-like, "look & feel" for developing Ada projects of any size and level, while enabling access to full-scale development tools like GNAT. LEA includes HAC, the HAC Ada Compiler.
-
+- [avoe](https://github.com/UlrikHjort/Ada-Version-of-Emacs-Avoe) - Ada Version of Emacs. A small Emacs-like editor for the Linux terminal. In the spirit of Jove: familiar Emacs keys.   
 ### Text Modes
 - [gnu-emacs-ada-mode](https://www.nongnu.org/ada-mode/) - Gnu Emacs major-mode for editing Ada sources.
 - [vim-ada-bundle](https://github.com/thindil/Ada-Bundle) - Maintained Ada Bundle : Complete Ada-Mode for Vim/Neovim.
