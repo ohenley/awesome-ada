@@ -417,6 +417,9 @@ language.  It is loosely modelled after JUnit and some ideas from AUnit.
 ### Logging
 - [alog](https://www.codelabs.ch/alog/) - Stackable logging framework for Ada.
 - [elogs](https://github.com/kevlar700/elogs) - Logging framework for embedded systems absent of runtime errors.
+- [prometheus-ada](https://github.com/kokhlo/prometheus-ada) - Prometheus client library: counters, gauges, histograms with label escaping and a thread-safe exposition endpoint.
+- [ratelimit-ada](https://github.com/kokhlo/ratelimit-ada) - Rate limiting primitives: token bucket and fixed window, zero dependencies.
+- [backoff-ada](https://github.com/kokhlo/backoff-ada) - Retry backoff strategies: exponential with jitter, bounded caps.
 
 ### Machine Learning
 - [fuzzyml](https://sourceforge.net/projects/fuzzyml/) - Fuzzy machine learning framework.
@@ -581,6 +584,8 @@ language.  It is loosely modelled after JUnit and some ideas from AUnit.
 - [anet](https://www.codelabs.ch/anet/) - Networking library for the Ada programming language.
 - [adhcp](https://codelabs.ch/adhcp/index.html) - Implementation of the DHCP protocol in Ada.
 - [adasockets](https://github.com/samueltardieu/adasockets) - IPv4 socket library (TCP, UDP, and multicast).
+- [websocket-ada](https://github.com/kokhlo/websocket-ada) - WebSocket client library: RFC 6455 framing, ping/pong keepalive, automatic reconnect.
+- [redis-ada](https://github.com/kokhlo/redis-ada) - Redis client library: connection pooling, RESP protocol, pub/sub.
 - [dbus-ada](https://codelabs.ch/dbus-ada/index.html) - The D_Bus/Ada library provides an Ada binding to the D-Bus message bus system.
 - [zeromq-ada](https://github.com/persan/zeromq-Ada.git) - Binding to the ZeroMQ comunications-library.
 - [tomi-4-ada](https://sourceforge.net/projects/tomi4ada) - Wrappers for various client/server and pub/sub messaging protocols (AMQP, STOMP and ZeroMQ), focusing exclusively on text message communications.
